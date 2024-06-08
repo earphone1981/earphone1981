@@ -172,3 +172,56 @@ http://pipe.ra1n.lol/tvk/index.m3u8
 http://pipe.ra1n.lol/bs11/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X HD (Not Stable)
 http://pipe.ra1n.lol/at-x/index.m3u8
+#ギャンブル
+#EXTINF:-1 tvg-logo="http://www.kiryu-kyotei.com/themes/kiryu/images/common/logo_header_01_1.png" group-title="ギャンブル",桐生 
+https://br-rp-stadium-01-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-01-live/brlive/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.boatrace-toda.jp/assets/img/logo.svg" group-title="ギャンブル",戸田
+https://br-rp-stadium-02-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-02-live/brlive/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.boatrace-edogawa.com/themes/edogawa/images_common/header_menu_0.png" group-title="ギャンブル",江戸川
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-03-live/brlive/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.heiwajima.gr.jp/images/logo.gif" group-title="ギャンブル",平和島
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-04-live/brlive/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.boatrace-tamagawa.com/cdn/pc/images/common/logo_header.png" group-title="ギャンブル",多摩川
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-05-live/brlive/chunklist.m3u8
+#EXTINF:-1 tvg-logo="	http://www.boatrace-hamanako.jp/themes/hamanako/common/img/logo_header.png?ver1" group-title="ギャンブル",浜名湖
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-06-live/brlive/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.gamagori-kyotei.com/common_img/logo.png" group-title="ギャンブル",蒲郡
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-07-live/brlive/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.boatrace-tsu.com/cdn/pc/images/common/img_logo.png" group-title="ギャンブル",津
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-08-live/brlive/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.boatrace-tokoname.jp/pc/ind_img/logo.png" group-title="ギャンブル",常滑
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-09-live/brlive/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.boatrace-mikuni.jp/cdn/pc/images/common/img_logo_header.png" group-title="ギャンブル",三国
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-10-live/brlive/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.boatrace-biwako.jp/themes/biwako/images/common/log-short-biwako.png" group-title="ギャンブル",びわこ
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-11-live/brlive/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.boatrace-suminoe.jp/images/wrap_bg2.png" group-title="ギャンブル",住之江
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-12-live/brlive/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.boatrace-amagasaki.jp/cdn/pc/images/common/logo.svg" group-title="ギャンブル",尼崎
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-13-live/brlive/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.n14.jp/cdn/pc/images/common/pc_logo_naruto.png" group-title="ギャンブル",鳴門
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-14-live/brlive/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.marugameboat.jp/images/h1_logo.png" group-title="ギャンブル",丸亀
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-15-live/brlive/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.kojimaboat.jp/images/header_logo.gif" group-title="ギャンブル",児島
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-16-live/brlive/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.boatrace-miyajima.com/images/header_logo.png" group-title="ギャンブル",宮島
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-17-live/brlive/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.boatrace-tokuyama.jp/themes/tokuyama/images/common/log-header.png" group-title="ギャンブル",徳山
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-18-live/brlive/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.boatrace-shimonoseki.jp/cdn/pc/images/common/img_logo.png" group-title="ギャンブル",下関
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-19-live/brlive/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.wmb.jp/img/common/h_logo.gif" group-title="ギャンブル",若松
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-20-live/brlive/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.boatrace-ashiya.com/cdn/pc/images/common/logo_boatrace1_1.svg" group-title="ギャンブル",芦屋
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-21-live/brlive/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.boatrace-fukuoka.com/themes/fukuoka/images/common/logo.png" group-title="ギャンブル",福岡
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-22-live/brlive/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.boatrace-karatsu.jp/themes/karatsu/images/common/log-header.png" group-title="ギャンブル",唐津
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-23-live/brlive/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://omurakyotei.jp/images/new_site/common/logo_white.png" group-title="ギャンブル",大村
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-24-live/brlive/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.keiba.or.jp/wp/wp-content/uploads/2016/07/0052a4614394e22c55614f818fd3138e.png" group-title="ギャンブル",高知競馬
+http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/kouchi4.m3u8
+#EXTINF:-1 tvg-logo="https://www.sonoda-himeji.jp/_common/img/logo.gif?v=20230510" group-title="ギャンブル",園田競馬
+http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/sonoda4.m3u8
