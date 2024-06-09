@@ -16,9 +16,9 @@ https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-
 #EXTINF:-1 tvg-logo="https://www.gamagori-kyotei.com/common_img/logo.png" group-title="ボートレース",蒲郡
 https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-07-live/brlive/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.boatrace-tsu.com/cdn/pc/images/common/img_logo.png" group-title="ボートレース",津
-https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-08-live/brlive/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.boatrace-tokoname.jp/pc/ind_img/logo.png" group-title="ボートレース",常滑
 https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-09-live/brlive/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.boatrace-tokoname.jp/pc/ind_img/logo.png" group-title="ボートレース",常滑
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-08-live/brlive/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.boatrace-mikuni.jp/cdn/pc/images/common/img_logo_header.png" group-title="ボートレース",三国
 https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-10-live/brlive/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.boatrace-biwako.jp/themes/biwako/images/common/log-short-biwako.png" group-title="ボートレース",びわこ
