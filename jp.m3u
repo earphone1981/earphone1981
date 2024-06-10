@@ -78,3 +78,6 @@ http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/nagoya4.
 http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/kasamatsu4.m3u8
 #EXTINF:-1 tvg-logo="https://keiba-lv-st.jp/img/track/left-s/saga.png" group-title="地方競馬",佐賀競馬
 http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/saga4.m3u8
+#競輪テスト
+#EXTINF:-1 tvg-logo="https://www.matsuyamakeirin.jp/img/common/logo.png" group-title="競輪テスト",たかまつ競輪
+http://livech.me/7eb0f3a1-2b26-47bc-9e80-f9acd6542f2b
