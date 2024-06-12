@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/japan.xml.gz" tvg-shift=0 m3uautoload=1
 
 #ボートレース
 #EXTINF:-1 tvg-logo="http://www.kiryu-kyotei.com/themes/kiryu/images/common/logo_header_01_1.png" group-title="ボートレース",桐生(ナイター) 
