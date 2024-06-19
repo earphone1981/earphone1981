@@ -91,7 +91,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title=" 競馬中継放送局(民放)" tvg-id="fuji_tv",フジテレビ (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
 #オートレース
 #EXTINF:-1 tvg-logo="https://www.kawaguchiauto.jp/wp-content/themes/kawaguchi-ar_temp/images/common/logo@2x.png" group-title="オートレース",川口
 https://autorace-live.akamaized.net/hls/live/2036917/id2/streaming/media.m3u8
@@ -152,12 +151,3 @@ https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-
 https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-23-live/brlive/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://omurakyotei.jp/images/new_site/common/logo_white.png" group-title="ボートレース",大村
 https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-24-live/brlive/chunklist.m3u8
-
-
-#その他
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rXrSsiI.jpg" group-title="その他",CGNTV Japan (1080p Official)
-http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png" group-title="その他",weather news
-https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/GGPXUqEQjemu7Kb2C0qbsVb8tvHd0GPVO-74R4_sNWpHhmHJLY9wPfKWI5KVfRrnoI4" group-title="その他",MX Live
-https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
