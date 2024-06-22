@@ -90,7 +90,7 @@ https://autorace-live.akamaized.net/hls/live/2036917-b/id5/streaming/media.m3u8
 #EXTINF:-1 tvg-logo="https://autorace.jp/news/37th/img/logo-sanyo.png" group-title="オートレース",山陽
 https://autorace-live.akamaized.net/hls/live/2036917-b/id6/streaming/media.m3u8
 #競輪
-#EXTINF:-1 tvg-logo="https://keirin.hakodate.jp/images/common/logo.png" group-title="競輪",函館
+#EXTINF:-1 tvg-logo="https://www.sog-rc27.org/wp-content/uploads/2021/11/keirin.jp-thumbnail.jpeg" group-title="競輪",函館
 https://cfl.st.keirin.jp/11/dash/11.mpd
 #EXTINF:-1 tvg-logo="https://www.sog-rc27.org/wp-content/uploads/2021/11/keirin.jp-thumbnail.jpeg" group-title="競輪",青森
 https://cfl.st.keirin.jp/12/dash/12.mpd
@@ -134,8 +134,6 @@ https://cfl.st.keirin.jp/44/dash/44.mpd
 https://cfl.st.keirin.jp/45/dash/45.mpd
 #EXTINF:-1 tvg-logo="https://www.sog-rc27.org/wp-content/uploads/2021/11/keirin.jp-thumbnail.jpeg" group-title="競輪",富山
 https://cfl.st.keirin.jp/46/dash/46.mpd
-#EXTINF:-1 tvg-logo="https://www.sog-rc27.org/wp-content/uploads/2021/11/keirin.jp-thumbnail.jpeg" group-title="競輪",松阪
-https://cfl.st.keirin.jp/47/dash/47.mpd
 #EXTINF:-1 tvg-logo="https://www.sog-rc27.org/wp-content/uploads/2021/11/keirin.jp-thumbnail.jpeg" group-title="競輪",松阪
 https://cfl.st.keirin.jp/47/dash/47.mpd
 #EXTINF:-1 tvg-logo="https://www.sog-rc27.org/wp-content/uploads/2021/11/keirin.jp-thumbnail.jpeg" group-title="競輪",四日市
