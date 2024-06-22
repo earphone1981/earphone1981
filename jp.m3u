@@ -179,3 +179,5 @@ https://cfl.st.keirin.jp/87/dash/87.mpd
 #その他
 #EXTINF:-1 tvg-logo="https://bsy.co.jp/images/common/logo.svg" group-title="その他",BSよしもと
 https://drm.video.bsy.co.jp/ymbs/b25109aa4b3601/NNUE1sQkgoJy13P3111gZw/index_1.m3u8?t=1719118878&r=0FUKyxAp9aUVrw
+#EXTINF:-1 tvg-logo="https://www.city.matsuyama.ehime.jp/images/2021_top_title.png" group-title="その他",松山市議会中継
+https://cdn-ecatv-stream.durasite.net/live/ms_gikai/chunklist_w152985868.m3u8
