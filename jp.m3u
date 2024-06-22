@@ -89,3 +89,6 @@ https://autorace-live.akamaized.net/hls/live/2036917/id4/streaming/media.m3u8
 https://autorace-live.akamaized.net/hls/live/2036917-b/id5/streaming/media.m3u8
 #EXTINF:-1 tvg-logo="https://autorace.jp/news/37th/img/logo-sanyo.png" group-title="オートレース",山陽
 https://autorace-live.akamaized.net/hls/live/2036917-b/id6/streaming/media.m3u8
+#テスト競輪
+#EXTINF:-1 tvg-logo="https://www.sog-rc27.org/wp-content/uploads/2021/11/keirin.jp-thumbnail.jpeg" group-title="テスト競輪",久留米
+https://cfl.st.keirin.jp/83/dash/83.mpd
