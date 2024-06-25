@@ -193,3 +193,5 @@ https://dai.google.com/linear/hls/pb/event/AZq08uFMRNaJq8e0tutHrw/stream/a44fd11
 https://dai.google.com/linear/hls/pb/event/JuYgJ3YGTxaKwtBPEkdYTQ/stream/2bf4b898-d57f-4ea1-8c56-85b74f59abf9:SIN2/variant/709e7ef40548af9a3e9bb98b337ff1dc/bandwidth/3960000.m3u8
 #EXTINF:-1 tvg-logo="https://logomarket.jp/labo/wp-content/uploads/2015/06/3e4cab7aee8c6cc5d29b63bdf5fc32fc.png" group-title="その他",テスト配信岩見沢市営球場
 https://dai.google.com/linear/hls/pb/event/iiNtIPVTSDu29acigdAs8Q/stream/325392d7-d93e-4826-80b7-813e1e0767a8:TPE/variant/766ef5aa8116d7b691037e7afe16024e/bandwidth/3960000.m3u8
+#EXTINF:-1 tvg-logo="https://logomarket.jp/labo/wp-content/uploads/2015/06/3e4cab7aee8c6cc5d29b63bdf5fc32fc.png" group-title="その他",テスト配信旭川スタルヒン球場
+https://dai.google.com/linear/hls/pb/event/jFbSDWz4RgORFHOqcHXxWA/stream/8ebe2df7-fed1-4fad-8667-394121823807:TPE/variant/5d6746df477c07c22af2a0ffd1c34218/bandwidth/3960000.m3u8
