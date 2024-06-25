@@ -183,11 +183,11 @@ https://cdn-ecatv-stream.durasite.net/live/ms_gikai/chunklist_w152985868.m3u8
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
 #EXTINF:-1 tvg-logo="https://logomarket.jp/labo/wp-content/uploads/2015/06/3e4cab7aee8c6cc5d29b63bdf5fc32fc.png" group-title="その他",テスト配信南北海道札幌丸山球場
 https://dai.google.com/linear/hls/pb/event/m3r4Ys3DT4mr1yZ82leBrA/stream/37962ad7-fcb0-456c-9c04-dbe291d04f66:TPE2/variant/09f49f514d38639be96ce84bf6acb5b4/bandwidth/3960000.m3u8
-#EXTINF:-1 tvg-logo=https://logomarket.jp/labo/wp-content/uploads/2015/06/3e4cab7aee8c6cc5d29b63bdf5fc32fc.png" group-title="その他",テスト配信南北海道麻生球場
+#EXTINF:-1 tvg-logo="https://logomarket.jp/labo/wp-content/uploads/2015/06/3e4cab7aee8c6cc5d29b63bdf5fc32fc.png" group-title="その他",テスト配信南北海道麻生球場
 https://dai.google.com/linear/hls/pb/event/Q8dZCmvdSeakhWfhNPfxug/stream/a7ac0e63-5986-4f75-82db-921786207d3c:SIN/variant/26950273fe14b98c36d4b5b73b267482/bandwidth/3960000.m3u8
-#EXTINF:-1 tvg-logo=https://logomarket.jp/labo/wp-content/uploads/2015/06/3e4cab7aee8c6cc5d29b63bdf5fc32fc.png" group-title="その他",テスト配信とましんスタジアム
+#EXTINF:-1 tvg-logo="https://logomarket.jp/labo/wp-content/uploads/2015/06/3e4cab7aee8c6cc5d29b63bdf5fc32fc.png" group-title="その他",テスト配信とましんスタジアム
 https://dai.google.com/linear/hls/pb/event/CifyGsgiSw6W2AXlA76ZOw/stream/86d464a9-c673-44ab-ae69-93cc998f1831:SIN/variant/e291ae894b9ec016cb5e476902f83707/bandwidth/3960000.m3u8
-#EXTINF:-1 tvg-logo=https://logomarket.jp/labo/wp-content/uploads/2015/06/3e4cab7aee8c6cc5d29b63bdf5fc32fc.png" group-title="その他",テスト配信函館オーシャンスタジアム
+#EXTINF:-1 tvg-logo="https://logomarket.jp/labo/wp-content/uploads/2015/06/3e4cab7aee8c6cc5d29b63bdf5fc32fc.png" group-title="その他",テスト配信函館オーシャンスタジアム
 https://dai.google.com/linear/hls/pb/event/AZq08uFMRNaJq8e0tutHrw/stream/a44fd110-fa70-4a0e-8dcf-639a847a7bc3:SIN/variant/daed1d8666df39af2f0081a7e78fd50d/bandwidth/3960000.m3u8
-#EXTINF:-1 tvg-logo=https://logomarket.jp/labo/wp-content/uploads/2015/06/3e4cab7aee8c6cc5d29b63bdf5fc32fc.png" group-title="その他",テスト配信帯広の森野球場
+#EXTINF:-1 tvg-logo="https://logomarket.jp/labo/wp-content/uploads/2015/06/3e4cab7aee8c6cc5d29b63bdf5fc32fc.png" group-title="その他",テスト配信帯広の森野球場
 https://dai.google.com/linear/hls/pb/event/JuYgJ3YGTxaKwtBPEkdYTQ/stream/2bf4b898-d57f-4ea1-8c56-85b74f59abf9:SIN2/variant/709e7ef40548af9a3e9bb98b337ff1dc/bandwidth/3960000.m3u8
