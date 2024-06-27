@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/japan.xml.gz" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://epg.djtmewibu.com/jp.xml" tvg-shift=0 m3uautoload=1
 
 #ボートレース
 #EXTINF:-1 tvg-logo="http://www.kiryu-kyotei.com/themes/kiryu/images/common/logo_header_01_1.png" group-title="ボートレース",桐生(ナイター) 
@@ -140,7 +140,7 @@ https://cfl.st.keirin.jp/47/dash/47.mpd
 https://cfl.st.keirin.jp/48/dash/48.mpd
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012278.jpg" group-title="競輪",福井
 https://cfl.st.keirin.jp/51/dash/51.mpd
-#EXTINF:-1 tvg-logo="https://www.sog-rc27.org/wp-content/uploads/2021/11/keirin.jp-thumbnail.jpeg" group-title="競輪",奈良
+#EXTINF:-1 tvg-logo="https://www.narakeirin.jp/img/footer_logo_01.png" group-title="競輪",奈良
 https://cfl.st.keirin.jp/53/dash/53.mpd
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012194.jpg" group-title="競輪",向日町
 https://cfl.st.keirin.jp/54/dash/54.mpd
@@ -154,7 +154,7 @@ https://cfl.st.keirin.jp/61/dash/61.mpd
 https://cfl.st.keirin.jp/62/dash/62.mpd
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012237.jpg" group-title="競輪",防府
 https://cfl.st.keirin.jp/63/dash/63.mpd
-#EXTINF:-1 tvg-logo="https://www.sog-rc27.org/wp-content/uploads/2021/11/keirin.jp-thumbnail.jpeg" group-title="競輪",高松
+#EXTINF:-1 tvg-logo="https://www.takamatsu-keirin.com/assets/img/common/logo_f.png" group-title="競輪",高松
 https://cfl.st.keirin.jp/71/dash/71.mpd
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010707.jpg" group-title="競輪",小松島
 https://cfl.st.keirin.jp/73/dash/73.mpd
@@ -189,11 +189,11 @@ https://cdn-ecatv-stream.durasite.net/live/0220200406/chunklist_w935887823.m3u8
 https://cdn-ecatv-stream.durasite.net/live/0120200406/chunklist_w1917654298.m3u8
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/300px-VHS-Video-Tape-Top-Flat.jpg" group-title="その他",ガキの使い他ＶＴＲ配信
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
-#EXTINF:-1 tvg-logo="https://logomarket.jp/labo/wp-content/uploads/2015/06/3e4cab7aee8c6cc5d29b63bdf5fc32fc.png" group-title="その他",テスト配信旭川1
-https://dai.google.com/linear/hls/pb/event/E1Pziq5qSMKIF0us0Yb4tg/stream/69c8f317-8998-4785-baa6-89278d8de80f:SIN/variant/987ae61dea5ffe5feec69f20ff1dac0f/bandwidth/3960000.m3u8
-#EXTINF:-1 tvg-logo="https://logomarket.jp/labo/wp-content/uploads/2015/06/3e4cab7aee8c6cc5d29b63bdf5fc32fc.png" group-title="その他",テスト配信ミルカ1
-https://dai.google.com/linear/hls/pb/event/N5-stsQLT72uw9xwq4Q9mw/stream/3673ee71-0535-4f77-b701-4f7cb479288c:TPE2/variant/dd79cd675db0b3552e164d4679552b1c/bandwidth/3960000.m3u8
-#EXTINF:-1 tvg-logo="https://logomarket.jp/labo/wp-content/uploads/2015/06/3e4cab7aee8c6cc5d29b63bdf5fc32fc.png" group-title="その他",テスト配信ミルカ2
-https://dai.google.com/linear/hls/pb/event/U8UsTyR9TqaQijW9eKLnuw/stream/1cd56ac4-db59-42a8-a53f-97c180cdc1a7:TPE/variant/ccc0bb3c18a1786ba37b1331905b5391/bandwidth/3960000.m3u8
-#EXTINF:-1 tvg-logo="https://logomarket.jp/labo/wp-content/uploads/2015/06/3e4cab7aee8c6cc5d29b63bdf5fc32fc.png" group-title="その他",テスト配信朝日1
-https://dai.google.com/linear/hls/pb/event/2gYg07WPQv6A5M05fYcvLA/stream/c9fb5c9a-3bf6-4a11-b79d-c64e7fd2d8f3:TPE2/variant/10b93fbe5778bc0e5214d900ea3d13db/bandwidth/3960000.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tvk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tvk_logo.svg/1920px-Tvk_logo.svg.png" group-title="その他", tvk
+http://csui.djtmewibu.com/tvk/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="その他", Tokyo MX2
+http://csui.djtmewibu.com/mx2/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="rcc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rcc_logo_2022.svg/1920px-Rcc_logo_2022.svg.png" group-title="その他", RCC
+http://csui.djtmewibu.com/rcc/index.m3u8
+#EXTINF:-1 group-title="Osaka" tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png" group-title="その他", SUN TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
