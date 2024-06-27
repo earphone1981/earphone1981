@@ -181,10 +181,12 @@ https://duyycwqvxot9t.cloudfront.net/out/v1/769ad1fdda0d4e238f66e0b0f25edabb/ind
 https://drm.video.bsy.co.jp/ymbs/b25109aa4b3601/ZTjzqV19uHTm7OnOb0ClUQ/index_1.m3u8?t=1719537318&r=LKtznasoX0Oo2a
 #EXTINF:-1 tvg-logo="https://www.city.matsuyama.ehime.jp/images/2021_top_title.png" group-title="その他",松山市議会中継
 https://cdn-ecatv-stream.durasite.net/live/ms_gikai/chunklist_w152985868.m3u8
-#EXTINF:-1 tvg-logo="https://www.city.matsuyama.ehime.jp/images/2021_top_title.png" group-title="その他",愛媛県議会中継
+#EXTINF:-1 tvg-logo="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG_-cMwnEF_9yxZr5x-1Yd21q8SEeSDdwRD9doioeL5uLYbPwJnuAPx174aQVwaw1NVPqBFXaFNopDeaogjSnmsCMGjdgSZvVanY01bYg72S7zmqCWkgRxLrlmZRY1_zNFFZP4rUyRuBLumsyhB8kt9IEqa9jpiKnnfIC_xngNXt_frHW7s8TeEWPW1CX056crQ==/X315129_3L1.jpg?errorImage=false" group-title="その他",愛媛県議会中継
 https://cdn-ecatv-stream.durasite.net/live/kengikai/chunklist_w1364306427.m3u8
-#EXTINF:-1 tvg-logo="https://www.city.matsuyama.ehime.jp/images/2021_top_title.png" group-title="その他",愛媛CATVすこやかちゃんねる
+#EXTINF:-1 tvg-logo="https://www.innoqos.com/assets/images/business/interview/logo_catv.png" group-title="その他",愛媛CATVすこやかちゃんねる
 https://cdn-ecatv-stream.durasite.net/live/0220200406/chunklist_w935887823.m3u8
+#EXTINF:-1 tvg-logo="https://www.innoqos.com/assets/images/business/interview/logo_catv.png" group-title="その他",愛媛CATVえひめまなびじょん
+https://cdn-ecatv-stream.durasite.net/live/0120200406/chunklist_w1917654298.m3u8
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/300px-VHS-Video-Tape-Top-Flat.jpg" group-title="その他",ガキの使い他ＶＴＲ配信
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
 #EXTINF:-1 tvg-logo="https://logomarket.jp/labo/wp-content/uploads/2015/06/3e4cab7aee8c6cc5d29b63bdf5fc32fc.png" group-title="その他",テスト配信旭川1
