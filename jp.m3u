@@ -178,16 +178,20 @@ https://cfl.st.keirin.jp/87/dash/87.mpd
 https://duyycwqvxot9t.cloudfront.net/out/v1/769ad1fdda0d4e238f66e0b0f25edabb/index_1.m3u8
 #その他
 #EXTINF:-1 tvg-logo="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG6Xt-ACoeCN3MB9GAM7vzE_4QlB_g3_58-ihVutEq9IHzZ_r1TwdDaUwbAiaj_dFVlTIEbDpivAtAAX6xxx86yUl2d67I39Z3sJG0PZAiKTRRpXI8zagw7M7s6pqkyURoD3HZ3TneLrKqz_4LidfYnmZxyufeef55LtbH7OA3LmhXAEpX-XZ0EUF7tk4cxGt3bAtCTygSFjUO8b8Scd-wJqvBHB1k3Th2iFPpDZS_QYCG54QqpuBNzWNmFuKIGskJrMe4ZqT0bT3meHnGZMlZR4=/logo-65406-179-400x400.png" group-title="その他",BSよしもと
-https://drm.video.bsy.co.jp/ymbs/b25109aa4b3601/7bRmdyxmico04U5AIoIOqg/index_1.m3u8?t=1719412137&r=N4mxZ6964O3mU4
+https://drm.video.bsy.co.jp/ymbs/b25109aa4b3601/ZTjzqV19uHTm7OnOb0ClUQ/index_1.m3u8?t=1719537318&r=LKtznasoX0Oo2a
 #EXTINF:-1 tvg-logo="https://www.city.matsuyama.ehime.jp/images/2021_top_title.png" group-title="その他",松山市議会中継
 https://cdn-ecatv-stream.durasite.net/live/ms_gikai/chunklist_w152985868.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/300px-VHS-Video-Tape-Top-Flat.jpg" group-title="その他",ガキの使い他ＶＴＲ配信
+#EXTINF:-1 tvg-logo="https://www.city.matsuyama.ehime.jp/images/2021_top_title.png" group-title="その他",愛媛県議会中継
+https://cdn-ecatv-stream.durasite.net/live/kengikai/chunklist_w1364306427.m3u8
+#EXTINF:-1 tvg-logo="https://www.city.matsuyama.ehime.jp/images/2021_top_title.png" group-title="その他",愛媛CATVすこやかちゃんねる
+https://cdn-ecatv-stream.durasite.net/live/0220200406/chunklist_w935887823.m3u8
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/300px-VHS-Video-Tape-Top-Flat.jpg" group-title="その他",ガキの使い他ＶＴＲ配信
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
-#EXTINF:-1 tvg-logo="https://logomarket.jp/labo/wp-content/uploads/2015/06/3e4cab7aee8c6cc5d29b63bdf5fc32fc.png" group-title="その他",テスト配信南北海道1
-https://abc-live00.ipcasting.jp/east-f4yk9e3s/shokkaido01/live-multi_20240624T235938_240p.m3u8
-#EXTINF:-1 tvg-logo="https://logomarket.jp/labo/wp-content/uploads/2015/06/3e4cab7aee8c6cc5d29b63bdf5fc32fc.png" group-title="その他",テスト配信HTB4
-https://abc-live00.ipcasting.jp/east-f4yk9e3s/htb04/live-multi_20240624T233136_240p.m3u8
-#EXTINF:-1 tvg-logo="https://logomarket.jp/labo/wp-content/uploads/2015/06/3e4cab7aee8c6cc5d29b63bdf5fc32fc.png" group-title="その他",テスト配信HTB3
-https://abc-live00.ipcasting.jp/east-f4yk9e3s/htb03/live-multi_20240624T224158_240p.m3u8
-#EXTINF:-1 tvg-logo="https://logomarket.jp/labo/wp-content/uploads/2015/06/3e4cab7aee8c6cc5d29b63bdf5fc32fc.png" group-title="その他",テスト配信ポテト00
-https://abc-live00.ipcasting.jp/east-f4yk9e3s/potato00/live-multi_20240625T012656_240p.m3u8
+#EXTINF:-1 tvg-logo="https://logomarket.jp/labo/wp-content/uploads/2015/06/3e4cab7aee8c6cc5d29b63bdf5fc32fc.png" group-title="その他",テスト配信旭川1
+https://dai.google.com/linear/hls/pb/event/E1Pziq5qSMKIF0us0Yb4tg/stream/69c8f317-8998-4785-baa6-89278d8de80f:SIN/variant/987ae61dea5ffe5feec69f20ff1dac0f/bandwidth/3960000.m3u8
+#EXTINF:-1 tvg-logo="https://logomarket.jp/labo/wp-content/uploads/2015/06/3e4cab7aee8c6cc5d29b63bdf5fc32fc.png" group-title="その他",テスト配信ミルカ1
+https://dai.google.com/linear/hls/pb/event/N5-stsQLT72uw9xwq4Q9mw/stream/3673ee71-0535-4f77-b701-4f7cb479288c:TPE2/variant/dd79cd675db0b3552e164d4679552b1c/bandwidth/3960000.m3u8
+#EXTINF:-1 tvg-logo="https://logomarket.jp/labo/wp-content/uploads/2015/06/3e4cab7aee8c6cc5d29b63bdf5fc32fc.png" group-title="その他",テスト配信ミルカ2
+https://dai.google.com/linear/hls/pb/event/U8UsTyR9TqaQijW9eKLnuw/stream/1cd56ac4-db59-42a8-a53f-97c180cdc1a7:TPE/variant/ccc0bb3c18a1786ba37b1331905b5391/bandwidth/3960000.m3u8
+#EXTINF:-1 tvg-logo="https://logomarket.jp/labo/wp-content/uploads/2015/06/3e4cab7aee8c6cc5d29b63bdf5fc32fc.png" group-title="その他",テスト配信朝日1
+https://dai.google.com/linear/hls/pb/event/2gYg07WPQv6A5M05fYcvLA/stream/c9fb5c9a-3bf6-4a11-b79d-c64e7fd2d8f3:TPE2/variant/10b93fbe5778bc0e5214d900ea3d13db/bandwidth/3960000.m3u8
