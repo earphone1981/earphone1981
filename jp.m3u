@@ -175,25 +175,33 @@ https://cfl.st.keirin.jp/86/dash/86.mpd
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/000313.jpg" group-title="競輪",熊本
 https://cfl.st.keirin.jp/87/dash/87.mpd
 #EXTINF:-1 tvg-logo="https://www.sog-rc27.org/wp-content/uploads/2021/11/keirin.jp-thumbnail.jpeg" group-title="競輪",pist6千葉
-https://duyycwqvxot9t.cloudfront.net/out/v1/769ad1fdda0d4e238f66e0b0f25edabb/index_1.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1719661776/ei/cKB_ZrWSItex1d8PodGhkAQ/ip/219.109.62.232/id/Fzr6Vwu5d5E.1/itag/312/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-xiphx-htws.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/initcwndbps/1215000/mh/nI/mm/44/mn/sn-xiphx-htws/ms/lva/mv/m/mvi/1/pcm2cms/yes/pl/21/dover/13/pacing/0/short_key/1/keepalive/yes/mt/1719639627/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRAIgPo-vC_iDA2RlWR2CnIWBPgnlshGgdANM7nq6g9H8BEwCIG5p8TBsIpYT4WGle3RbXHcBtiuOMI-NHEEl_ucYgksQ/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/AHlkHjAwRAIgMkkXSBswgjySBXMZeEziOzoc1ayeuVuQXnBuyV_HdDkCIARP5237eJoh_zYyUUx7hLzqboR5Ekehb6ZRqWiToC_L/playlist/index.m3u8
 #その他
 #EXTINF:-1 tvg-logo="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG6Xt-ACoeCN3MB9GAM7vzE_4QlB_g3_58-ihVutEq9IHzZ_r1TwdDaUwbAiaj_dFVlTIEbDpivAtAAX6xxx86yUl2d67I39Z3sJG0PZAiKTRRpXI8zagw7M7s6pqkyURoD3HZ3TneLrKqz_4LidfYnmZxyufeef55LtbH7OA3LmhXAEpX-XZ0EUF7tk4cxGt3bAtCTygSFjUO8b8Scd-wJqvBHB1k3Th2iFPpDZS_QYCG54QqpuBNzWNmFuKIGskJrMe4ZqT0bT3meHnGZMlZR4=/logo-65406-179-400x400.png" group-title="その他",BSよしもと
-https://drm.video.bsy.co.jp/ymbs/b25109aa4b3601/ZTjzqV19uHTm7OnOb0ClUQ/index_1.m3u8?t=1719537318&r=LKtznasoX0Oo2a
+https://drm.video.bsy.co.jp/ymbs/b25109aa4b3601/0FFVS0OkK4bmJRmEShj0jQ/index_1.m3u8?t=1719726527&r=X6QlI3ORFi8Ttb
 #EXTINF:-1 tvg-logo="https://www.city.matsuyama.ehime.jp/images/2021_top_title.png" group-title="その他",松山市議会中継
 https://cdn-ecatv-stream.durasite.net/live/ms_gikai/chunklist_w152985868.m3u8
 #EXTINF:-1 tvg-logo="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG_-cMwnEF_9yxZr5x-1Yd21q8SEeSDdwRD9doioeL5uLYbPwJnuAPx174aQVwaw1NVPqBFXaFNopDeaogjSnmsCMGjdgSZvVanY01bYg72S7zmqCWkgRxLrlmZRY1_zNFFZP4rUyRuBLumsyhB8kt9IEqa9jpiKnnfIC_xngNXt_frHW7s8TeEWPW1CX056crQ==/X315129_3L1.jpg?errorImage=false" group-title="その他",愛媛県議会中継
 https://cdn-ecatv-stream.durasite.net/live/kengikai/chunklist_w1364306427.m3u8
 #EXTINF:-1 tvg-logo="https://www.innoqos.com/assets/images/business/interview/logo_catv.png" group-title="その他",愛媛CATVすこやかちゃんねる
-https://cdn-ecatv-stream.durasite.net/live/0220200406/chunklist_w935887823.m3u8
+https://cdn-ecatv-stream.durasite.net/live/0220200406/chunklist_w1561229161.m3u
 #EXTINF:-1 tvg-logo="https://www.innoqos.com/assets/images/business/interview/logo_catv.png" group-title="その他",愛媛CATVえひめまなびじょん
-https://cdn-ecatv-stream.durasite.net/live/0120200406/chunklist_w1917654298.m3u8
+https://cdn-ecatv-stream.durasite.net/live/0120200406/playlist.m3u8
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/300px-VHS-Video-Tape-Top-Flat.jpg" group-title="その他",ガキの使い他ＶＴＲ配信
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="tvk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tvk_logo.svg/1920px-Tvk_logo.svg.png" group-title="その他", tvk
+#EXTINF:-1 tvg-id="tvk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tvk_logo.svg/1920px-Tvk_logo.svg.png" group-title="その他", tvk
 http://csui.djtmewibu.com/tvk/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="その他", Tokyo MX2
+#EXTINF:-1 tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="その他", Tokyo MX2
 http://csui.djtmewibu.com/mx2/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="rcc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rcc_logo_2022.svg/1920px-Rcc_logo_2022.svg.png" group-title="その他", RCC
+#EXTINF:-1 tvg-id="rcc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rcc_logo_2022.svg/1920px-Rcc_logo_2022.svg.png" group-title="その他", RCC
 http://csui.djtmewibu.com/rcc/index.m3u8
-#EXTINF:-1 group-title="Osaka" tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png" group-title="その他", SUN TV
+#EXTINF:-1 tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png" group-title="その他", SUN TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="その他",高校野球愛知
+https://dai.google.com/linear/hls/pb/event/6ooHQ4CIRx6kuOTTgFY9_A/stream/495ac056-f5b8-477a-88dd-f5197876fa3c:SIN/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="その他",高校野球北北海道
+https://dai.google.com/linear/hls/pb/event/JuYgJ3YGTxaKwtBPEkdYTQ/stream/c1f6a6a3-7c55-4625-bd73-a628483ef63e:TPE/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="その他",高校野球南北海道
+https://dai.google.com/linear/hls/pb/event/m3r4Ys3DT4mr1yZ82leBrA/stream/3d2728fc-5a6a-4016-9af5-cc9f89937d81:TPE2/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="その他",高校野球沖縄
+https://dai.google.com/linear/hls/pb/event/Z80ukLnETFyZ0V76sHjMWg/stream/e99da9d2-ef42-4f0d-ba8e-2e0df1fdc62f:TPE/master.m3u8
