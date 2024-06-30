@@ -208,16 +208,16 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakute
 #EXTINF:-1 tvg-logo="https://corp.rakuten.co.jp/assets/img/common/logo.svg" group-title="その他",楽天TVストロング
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakutenjp/9036a1ff-e7de-4ca0-8448-f9aa5685b1a9/5.m3u8
 #試験運用中
-#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球愛知豊橋市民
-https://dai.google.com/linear/hls/pb/event/ZUe8GwHuSHuOIZkCRiP1dA/stream/069317b9-5a8d-400e-add9-4606753b1abc:TPE/variant/e22d5940a6c9b0928fb257d366899391/bandwidth/3960000.m3u8
-#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球北北海道旭川スタルヒン
-https://dai.google.com/linear/hls/pb/event/jFbSDWz4RgORFHOqcHXxWA/stream/060b4fff-cb79-40c6-a72a-ab928c49ac69:TPE2/variant/1f8bcc24150fcd6e4fba6999c448bb8b/bandwidth/3960000.m3u8
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球愛知刈谷
+https://dai.google.com/linear/hls/pb/event/oUNDdhLvQeGNvD3MVH6yIw/stream/9b6153e1-b2d1-4d94-82f9-ff9d98404a95:TPE2/variant/5be1d29a7b9ee03ad23e5d4cde832084/bandwidth/3960000.m3u8
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球北北海道北見市
+https://dai.google.com/linear/hls/pb/event/2gYg07WPQv6A5M05fYcvLA/stream/e15cc130-5caa-4129-8695-67ec8430e8ce:TPE/variant/851061fa0bee212b322e997cf17779c7/bandwidth/3960000.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球南北海道札幌丸山
-https://dai.google.com/linear/hls/pb/event/m3r4Ys3DT4mr1yZ82leBrA/stream/34718365-5790-437e-97ce-52948b925a5f:TPE/variant/9b11d52e0c3abdf35a6eecd54bb9093b/bandwidth/3960000.m3u8
+https://dai.google.com/linear/hls/pb/event/N5-stsQLT72uw9xwq4Q9mw/stream/04f88f00-7c5a-4bac-8031-4c5e6df5e313:SIN2/variant/87747ce2e3cd65c0e47a00951a636332/bandwidth/3960000.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球沖縄セルラー
 https://dai.google.com/linear/hls/pb/event/Z80ukLnETFyZ0V76sHjMWg/stream/ba958024-44c4-4eb9-a181-46bb50ad30a2:SIN/variant/7887d2fcc3fffb14c87b08c973f26bc7/bandwidth/3960000.m3u8
-#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球福岡久留米市民
-https://dai.google.com/linear/hls/pb/event/FQ0LK2srTzaJB-bLPQxBSA/stream/7fc3b552-b130-481e-a7d7-18608c5bb938:SIN2/variant/cd37241bc78453e0e338d45f38f8ac46/bandwidth/3960000.m3u8
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球福岡筑豊
+https://dai.google.com/linear/hls/pb/event/kQ7m5TsRSZG_PCppbhKNlw/stream/3c7c818c-3995-4ff9-b64d-980cb64204bc:SIN2/variant/24560b396e98bd83632d7ee2d008a554/bandwidth/3960000.m3u8
 #EXTINF:-1 tvg-logo="https://www.city.matsuyama.ehime.jp/images/2021_top_title.png" group-title="試験運用中",松山南クリーンセンター
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1719729746/ei/8qmAZpe9FdTBvcAPya6iiA0/ip/122.27.159.234/id/C0gpM_qIIl0.4/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-vjoouujvhh-3pml.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/initcwndbps/1497500/mh/5D/mm/44/mn/sn-vjoouujvhh-3pml/ms/lva/mv/m/mvi/2/pl/19/dover/13/pacing/0/short_key/1/keepalive/yes/mt/1719707788/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRQIhAMMMvm4o6GMt79le3NfK4HZPRJ2HaDiWHh7C2GQdwAiTAiB-blrhZUZ0jXqXaTOVMCa0x-qsppq9LeaAOvvkgYBOAw%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRAIgX2hSg0Ifuzm3LpfXG4P8NH9KUrQEWahlBaGKNAxpiPECIGxV1RW7R5e0jbckhA2cqnSzA3hNXCg81Na3Q2_VIXG1/playlist/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.hmv.co.jp/hybridimage/eventpage/270765/main.jpg" group-title="試験運用中",マンダリンパイレーツ
