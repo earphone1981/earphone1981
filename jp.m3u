@@ -198,7 +198,7 @@ http://csui.djtmewibu.com/mx2/index.m3u8
 http://csui.djtmewibu.com/rcc/index.m3u8
 #EXTINF:-1 tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png" group-title="その他", SUN TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
-
+#その他
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="その他",高校野球愛知豊橋市民
 https://dai.google.com/linear/hls/pb/event/ZUe8GwHuSHuOIZkCRiP1dA/stream/069317b9-5a8d-400e-add9-4606753b1abc:TPE/variant/e22d5940a6c9b0928fb257d366899391/bandwidth/3960000.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="その他",高校野球北北海道旭川スタルヒン
