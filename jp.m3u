@@ -212,16 +212,16 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakut
 #EXTINF:-1 tvg-logo="https://www.xsozai.com/wp-content/uploads/2023/02/%E6%A5%BD%E5%A4%A9%E5%B8%82%E5%A0%B4.png" group-title="その他",楽天TVJPOP
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-goraku-cmaf-rakutenjp/28312fcf-5f60-4d64-9027-2920abe5a9a6/0.m3u8
 #試験運用中
-#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球愛知刈谷
-https://dai.google.com/linear/hls/pb/event/oUNDdhLvQeGNvD3MVH6yIw/stream/9b6153e1-b2d1-4d94-82f9-ff9d98404a95:TPE2/variant/5be1d29a7b9ee03ad23e5d4cde832084/bandwidth/3960000.m3u8
-#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球北北海道北見市
-https://dai.google.com/linear/hls/pb/event/2gYg07WPQv6A5M05fYcvLA/stream/e15cc130-5caa-4129-8695-67ec8430e8ce:TPE/variant/851061fa0bee212b322e997cf17779c7/bandwidth/3960000.m3u8
-#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球南北海道札幌丸山
-https://dai.google.com/linear/hls/pb/event/N5-stsQLT72uw9xwq4Q9mw/stream/04f88f00-7c5a-4bac-8031-4c5e6df5e313:SIN2/variant/87747ce2e3cd65c0e47a00951a636332/bandwidth/3960000.m3u8
-#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球沖縄セルラー
-https://dai.google.com/linear/hls/pb/event/Z80ukLnETFyZ0V76sHjMWg/stream/ba958024-44c4-4eb9-a181-46bb50ad30a2:SIN/variant/7887d2fcc3fffb14c87b08c973f26bc7/bandwidth/3960000.m3u8
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球福岡大牟田
+https://dai.google.com/linear/hls/pb/event/ekeDisTpTFmo0Iv_rEv3Ew/stream/fe75be5b-e6b3-4430-bb1b-5539ec0beb2d:SIN2/variant/f9af21629630897208d52ae0d60b0476/bandwidth/3960000.m3u8
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球福岡久留米
+https://dai.google.com/linear/hls/pb/event/FQ0LK2srTzaJB-bLPQxBSA/stream/674e79ef-ac4e-4561-98c2-ccf9f7257e6c:TPE2/variant/da416b158d1136a6dd567acbe892c49f/bandwidth/3960000.m3u8
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球福岡北九州
+https://dai.google.com/linear/hls/pb/event/g5cZzku-Qh2VDO_dGmHHTA/stream/03edfc48-50af-42f9-b5b3-414205fca6df:SIN2/variant/db2be6a80a718e19a9fb5a576a972650/bandwidth/3960000.m3u8
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球福岡小郡
+https://dai.google.com/linear/hls/pb/event/D0HqCM4VQ7CIK7scRQwlBA/stream/38026852-56d4-4da6-8c27-5c3b3d1989b9:SIN2/variant/0221321b9732e63683b4c4ea407c99ea/bandwidth/3960000.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球福岡筑豊
-https://dai.google.com/linear/hls/pb/event/kQ7m5TsRSZG_PCppbhKNlw/stream/3c7c818c-3995-4ff9-b64d-980cb64204bc:SIN2/variant/24560b396e98bd83632d7ee2d008a554/bandwidth/3960000.m3u8
+https://dai.google.com/linear/hls/pb/event/_BwPHunCSk6BVbzW9ni7fg/stream/8ca211ee-6a75-4991-b054-f4548c6d967c:SIN/variant/dd2f8b65dcf0f4adfaa0da15e0b90070/bandwidth/3960000.m3u8
 #EXTINF:-1 tvg-logo="https://www.city.matsuyama.ehime.jp/images/2021_top_title.png" group-title="試験運用中",松山南クリーンセンター
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719972232/ei/KF2EZuP1C8_x7OsPp_iEaA/ip/240b%3Ac020%3A471%3A5c49%3A3df3%3A7b9c%3A3b90%3A8551/id/C0gpM_qIIl0.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPdu0beJmv4mCUXw1IH9a5QWWmwR2ev5GR9EiOmw81i0AiEA6gV2zNCbRYhPRbiOpFR32yC-zwuwqRfzKif0C-r7reg%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/%E9%89%84%E9%81%93%E8%B7%AF%E7%B7%9A%E3%83%AD%E3%82%B4%E3%83%9E%E3%83%BC%E3%82%AF.png/462px-%E9%89%84%E9%81%93%E8%B7%AF%E7%B7%9A%E3%83%AD%E3%82%B4%E3%83%9E%E3%83%BC%E3%82%AF.png" group-title="試験運用中",京都総合運転所
