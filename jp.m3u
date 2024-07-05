@@ -51,33 +51,33 @@ https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-
 https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-24-live/brlive/chunklist.m3u8
 #競馬
 #EXTINF:-1 tvg-logo="https://www.keiba.or.jp/wp/wp-content/uploads/2016/07/0052a4614394e22c55614f818fd3138e.png" group-title="競馬",高知競馬
-http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/kouchi4.m3u8
+http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/kouchi5.m3u8
 #EXTINF:-1 tvg-logo="https://keiba-lv-st.jp/img/track/left-s/sonoda.png" group-title="競馬",園田・姫路競馬
-http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/sonoda4.m3u8
+http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/sonoda5.m3u8
 #EXTINF:-1 tvg-logo="https://keiba-lv-st.jp/img/track/left-s/obihiro.png" group-title="競馬",帯広競馬(ばんえい)
-http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/obihiro4.m3u8
+http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/obihiro5.m3u8
 #EXTINF:-1 tvg-logo="https://www.hokkaidokeiba.net/common/images/head/logo.png" group-title="競馬",ホッカイドウ競馬(紋別)
-http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/monbetsu4.m3u8
+http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/monbetsu5.m3u8
 #EXTINF:-1 tvg-logo="https://www.iwatekeiba.or.jp/dir/wp-content/themes/iwatekeiba/img/head_logo.png" group-title="競馬",岩手競馬(盛岡)
-http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/morioka4.m3u8
+http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/morioka5.m3u8
 #EXTINF:-1 tvg-logo="https://www.iwatekeiba.or.jp/dir/wp-content/themes/iwatekeiba/img/head_logo.png" group-title="競馬",岩手競馬(水沢)
-http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/mizusawa4.m3u8
+http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/mizusawa5.m3u8
 #EXTINF:-1 tvg-logo="https://www.urawa-keiba.jp/assets/img/common/logo.png" group-title="競馬",南関東競馬(浦和)
-http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/urawa4.m3u8
+http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/urawa5.m3u8
 #EXTINF:-1 tvg-logo="https://keiba-lv-st.jp/img/track/left-s/funabashi.png" group-title="競馬",南関東競馬(船橋)
-http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/funabashi4.m3u8
+http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/funabashi5.m3u8
 #EXTINF:-1 tvg-logo="https://keiba-lv-st.jp/img/track/left-s/ooi.png" group-title="競馬",南関東競馬(大井)
-http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/ooi4.m3u8
+http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/ooi5.m3u8
 #EXTINF:-1 tvg-logo="https://keiba-lv-st.jp/img/track/left-s/kawasaki.png" group-title="競馬",南関東競馬(川崎)
-http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/kawasaki4.m3u8
+http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/kawasaki5.m3u8
 #EXTINF:-1 tvg-logo="https://keiba-lv-st.jp/img/track/left-s/kanazawa.png" group-title="競馬",金沢競馬
-http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/kanazawa4.m3u8
+http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/kanazawa5.m3u8
 #EXTINF:-1 tvg-logo="https://keiba-lv-st.jp/img/track/left-s/nagoya.png" group-title="競馬",名古屋競馬
-http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/nagoya4.m3u8
+http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/nagoya5.m3u8
 #EXTINF:-1 tvg-logo="https://keiba-lv-st.jp/img/track/left-s/kasamatsu.png" group-title="競馬",笠松競馬
-http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/kasamatsu4.m3u8
+http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/kasamatsu5.m3u8
 #EXTINF:-1 tvg-logo="https://keiba-lv-st.jp/img/track/left-s/saga.png" group-title="競馬",佐賀競馬
-http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/saga4.m3u8
+http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/saga5.m3u8
 #EXTINF:-1 tvg-id="green_ch" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green_channel_jp.png" group-title="競馬",Green Channel
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
 #オートレース
