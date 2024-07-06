@@ -200,7 +200,7 @@ http://csui.djtmewibu.com/mx2/index.m3u8
 http://csui.djtmewibu.com/rcc/index.m3u8
 #EXTINF:-1 tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png" group-title="その他", SUN TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01, SUN TV
-#EXTINF:-1 tvg-id="nhk_bsp4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_BSP4K.png"group-title="その他", NHK BSP 4K
+#EXTINF:-1 tvg-id="nhk_bsp4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_BSP4K.png" group-title="その他", NHK BSP 4K
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 #EXTINF:-1 tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="その他",TVTOKYO（tver）
 https://ssai-manifest.streaks.jp/v6/tver-simul-tx/035622a82bcb46bc8e41ca5351f95a00/3887c96991ce4ae1bec43ea19f24c4d5/hls/v5/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYyI6ImQ1YThjM2ZkMjI5ZTQ4ODg5MmVkY2E2YjQzN2FlMDNkIiwiZWRnZSI6Ijg2NWI4NDUyMmI3MjRkNzc4YTFhNmQ3NWI3ZTI1NDhlIiwiY29kZWNzIjoiYXV0byIsImV4cCI6MTcyMDE4OTgwMCwidnA5IjoxfQ.M9MUmzxmmbfd0ARvWElVyJw1pfxT1ZBj5UEgEHGu5HI&pdt=-10952&session=8ee0ceeb-79e7-433c-9ae4-e60dd57792df
