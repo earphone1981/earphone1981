@@ -222,8 +222,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-goraku-cmaf-ra
 #試験運用中
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球広島
 https://dai.google.com/linear/hls/pb/event/U37kPJHiR0mtKyRsIHeKcw/stream/3e7c00cd-bd9d-4b93-b755-9766863044f5:SIN2/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球福岡久留米
-https://dai.google.com/linear/hls/pb/event/FQ0LK2srTzaJB-bLPQxBSA/stream/674e79ef-ac4e-4561-98c2-ccf9f7257e6c:TPE2/variant/da416b158d1136a6dd567acbe892c49f/bandwidth/3960000.m3u8
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球京都
+https://dai.google.com/linear/hls/pb/event/bCo6GrNoS6q5W0QG7DuWoQ/stream/97aa3d69-692f-4b0a-bc03-c3646a6fd465:TPE2/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球福岡北九州
 https://dai.google.com/linear/hls/pb/event/g5cZzku-Qh2VDO_dGmHHTA/stream/03edfc48-50af-42f9-b5b3-414205fca6df:SIN2/variant/db2be6a80a718e19a9fb5a576a972650/bandwidth/3960000.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球福岡小郡
