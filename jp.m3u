@@ -181,7 +181,7 @@ https://duyycwqvxot9t.cloudfront.net/out/v1/769ad1fdda0d4e238f66e0b0f25edabb/ind
 
 #その他
 #EXTINF:-1 tvg-logo="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG6Xt-ACoeCN3MB9GAM7vzE_4QlB_g3_58-ihVutEq9IHzZ_r1TwdDaUwbAiaj_dFVlTIEbDpivAtAAX6xxx86yUl2d67I39Z3sJG0PZAiKTRRpXI8zagw7M7s6pqkyURoD3HZ3TneLrKqz_4LidfYnmZxyufeef55LtbH7OA3LmhXAEpX-XZ0EUF7tk4cxGt3bAtCTygSFjUO8b8Scd-wJqvBHB1k3Th2iFPpDZS_QYCG54QqpuBNzWNmFuKIGskJrMe4ZqT0bT3meHnGZMlZR4=/logo-65406-179-400x400.png" group-title="その他",BSよしもと
-https://drm.video.bsy.co.jp/ymbs/b25109aa4b3601/QeHbWv2gXBzK3czL8wPnGw/index_1.m3u8?t=1720403280&r=zyqq51KXurGV8I
+https://drm.video.bsy.co.jp/ymbs/b25109aa4b3601/uk2fyS8MRzc23zcFQaJYag/index_1.m3u8?t=1720564747&r=Q7OsM321z2neoG
 #EXTINF:-1 tvg-logo="https://www.city.matsuyama.ehime.jp/images/2021_top_title.png" group-title="その他",松山市議会中継
 https://cdn-ecatv-stream.durasite.net/live/ms_gikai/chunklist_w152985868.m3u8
 #EXTINF:-1 tvg-logo="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG_-cMwnEF_9yxZr5x-1Yd21q8SEeSDdwRD9doioeL5uLYbPwJnuAPx174aQVwaw1NVPqBFXaFNopDeaogjSnmsCMGjdgSZvVanY01bYg72S7zmqCWkgRxLrlmZRY1_zNFFZP4rUyRuBLumsyhB8kt9IEqa9jpiKnnfIC_xngNXt_frHW7s8TeEWPW1CX056crQ==/X315129_3L1.jpg?errorImage=false" group-title="その他",愛媛県議会中継
@@ -220,15 +220,21 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakut
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-goraku-cmaf-rakutenjp/28312fcf-5f60-4d64-9027-2920abe5a9a6/0.m3u8
 
 #試験運用中
-#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球滋賀皇子山
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球滋賀皇子山(当日のみ)
 https://dai.google.com/linear/hls/pb/event/a_Q6sVjQS_-bnIBSwqIcFA/stream/231a5c49-6c9e-4ba2-9a7b-2444dab4b9e4:TPE2/variant/6393509075fcdfe2e95a7f118fdafde9/bandwidth/3960000.m3u8
-#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球京都わかさ
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球京都わかさ(当日のみ)
 https://dai.google.com/linear/hls/pb/event/bCo6GrNoS6q5W0QG7DuWoQ/stream/471cf0eb-8ea5-4692-92a4-26ffb6a9f51b:TPE2/variant/5c67edbdea42ff73577060f16b6305e1/bandwidth/3960000.m3u8
-#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球京都太陽
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球京都太陽(当日のみ)
 https://dai.google.com/linear/hls/pb/event/-o8U2rz4SV2QLHD_bjveQQ/stream/0d6a2469-b757-4f33-bd03-e7cdcd25387d:SIN2/variant/79e7300f99f69adf7fbf66867318811b/bandwidth/3960000.m3u8
-#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球京都綾部
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球京都綾部(当日のみ)
 https://dai.google.com/linear/hls/pb/event/ogoSWWeyRx238YxlfrLADQ/stream/07721175-02be-4f5b-81e2-dae85dcf26a0:TPE/variant/4ece8ff5be831c852409c8c360598715/bandwidth/3960000.m3u8
-#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球滋賀HPL
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球滋賀HPL(当日のみ)
 https://dai.google.com/linear/hls/pb/event/_jv9l7aZTyu3GFuJgO6g8g/stream/671edf66-8775-472f-ae11-199fb45943c4:SIN2/variant/4f98e5599ca0495992ccbc8d59273f2f/bandwidth/3960000.m3u8
-#EXTINF:-1 tvg-logo="https://www.city.matsuyama.ehime.jp/images/2021_top_title.png" group-title="試験運用中",松山南クリーンセンター
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720235677/ei/PWKIZqDPHp2x1d8P8eiBgA4/ip/219.109.62.232/id/C0gpM_qIIl0.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181254/txs/51181249%2C51181250%2C51181251%2C51181252%2C51181253%2C51181254/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswQwIfKOzgAdujTqQ-ddSq8Cir0o6TWtEzQlt4Mhkaf9366AIgNf-5cTQ-zwavyKIjXJTA7hZEEz19IRLWngT1gKDH1_Y%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球愛媛西条(当日のみ)
+https://dai.google.com/linear/hls/pb/event/bCo6GrNoS6q5W0QG7DuWoQ/stream/471cf0eb-8ea5-4692-92a4-26ffb6a9f51b:TPE2/variant/5c67edbdea42ff73577060f16b6305e1/bandwidth/3960000.m3u8
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球愛媛宇和島(当日のみ)
+https://dai.google.com/linear/hls/pb/event/bCo6GrNoS6q5W0QG7DuWoQ/stream/471cf0eb-8ea5-4692-92a4-26ffb6a9f51b:TPE2/variant/5c67edbdea42ff73577060f16b6305e1/bandwidth/3960000.m3u8
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球愛媛坊っちゃん(当日のみ)
+https://dai.google.com/linear/hls/pb/event/bCo6GrNoS6q5W0QG7DuWoQ/stream/471cf0eb-8ea5-4692-92a4-26ffb6a9f51b:TPE2/variant/5c67edbdea42ff73577060f16b6305e1/bandwidth/3960000.m3u8
+#EXTINF:-1 tvg-logo="https://www.city.matsuyama.ehime.jp/images/2021_top_title.png" group-title="試験運用中",松山南クリーンセンター(当日のみ)
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720500007/ei/x2qMZqulJ-CU1d8PoIa66Ac/ip/219.109.62.232/id/C0gpM_qIIl0.4/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-xiphx-htwz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/initcwndbps/2286250/mh/5D/mm/44/mn/sn-xiphx-htwz/ms/lva/mv/m/mvi/2/pl/21/dover/13/pacing/0/short_key/1/keepalive/yes/mt/1720477971/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRQIhANWqEPAaqHaXJcVhyTM9-S7SJ0tkJsCb-LGVD51OCN-qAiBGwk-fjS-d7HQXiNtAKz-Bg67ILdrLWLQoZWiFgNtp1w%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIgeQE379mGKkQ8SNZbrd2L_EWCzDi0s0WIgFpiiWFKpmUCIQCqh2uYRb1eVJ8HWuNQD0TV1NyDWXt4wRNAudO_xMAVhQ%3D%3D/playlist/index.m3u8
