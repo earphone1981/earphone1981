@@ -224,11 +224,11 @@ https://abc-live00.ipcasting.jp/west-n47vrqsw/kbs01/live-multi.m3u8
 https://abc-live00.ipcasting.jp/west-n47vrqsw/kbs02/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球滋賀HPL(当日のみ)
 https://abc-live00.ipcasting.jp/west-n47vrqsw/bbc00/live-multi.m3u8
-#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球香川レグザム(当日のみ)
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球香川①(当日のみ)
 https://abc-live00.ipcasting.jp/west-n47vrqsw/kab00/live-multi.m3u8
-#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球愛媛宇和島(当日のみ)
-https://dai.google.com/linear/hls/pb/event/bCo6GrNoS6q5W0QG7DuWoQ/stream/471cf0eb-8ea5-4692-92a4-26ffb6a9f51b:TPE2/variant/5c67edbdea42ff73577060f16b6305e1/bandwidth/3960000.m3u8
-#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球愛媛坊っちゃん(当日のみ)
-https://dai.google.com/linear/hls/pb/event/bCo6GrNoS6q5W0QG7DuWoQ/stream/471cf0eb-8ea5-4692-92a4-26ffb6a9f51b:TPE2/variant/5c67edbdea42ff73577060f16b6305e1/bandwidth/3960000.m3u8
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球愛媛①(当日のみ)
+https://abc-live00.ipcasting.jp/west-n47vrqsw/eat00/live-multi.m3u8
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球愛媛②(当日のみ)
+https://abc-live00.ipcasting.jp/west-n47vrqsw/eat01/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.city.matsuyama.ehime.jp/images/2021_top_title.png" group-title="試験運用中",松山南クリーンセンター(当日のみ)
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720531911/ei/Z-eMZuiWHaOBs8IP8qK4sAs/ip/219.109.62.232/id/C0gpM_qIIl0.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgS-skkaPA0YX6bXwxO-OJMI9Vj22-3vPkM8CBqMwLJgACIQDXjr-oqPa5disg_h0rh9vTb4iJK8T9Xco6lqsx3U_d6A%3D%3D/file/index.m3u8
