@@ -224,8 +224,8 @@ https://abc-live00.ipcasting.jp/west-n47vrqsw/kbs01/live-multi.m3u8
 https://abc-live00.ipcasting.jp/west-n47vrqsw/kbs02/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球滋賀HPL(当日のみ)
 https://abc-live00.ipcasting.jp/west-n47vrqsw/bbc00/live-multi.m3u8
-#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球愛媛西条(当日のみ)
-https://dai.google.com/linear/hls/pb/event/bCo6GrNoS6q5W0QG7DuWoQ/stream/471cf0eb-8ea5-4692-92a4-26ffb6a9f51b:TPE2/variant/5c67edbdea42ff73577060f16b6305e1/bandwidth/3960000.m3u8
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球香川レグザム(当日のみ)
+https://abc-live00.ipcasting.jp/west-n47vrqsw/kab00/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球愛媛宇和島(当日のみ)
 https://dai.google.com/linear/hls/pb/event/bCo6GrNoS6q5W0QG7DuWoQ/stream/471cf0eb-8ea5-4692-92a4-26ffb6a9f51b:TPE2/variant/5c67edbdea42ff73577060f16b6305e1/bandwidth/3960000.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球愛媛坊っちゃん(当日のみ)
