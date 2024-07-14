@@ -240,5 +240,9 @@ https://abc-live00.ipcasting.jp/west-n47vrqsw/kochi00/live-multi.m3u8
 https://abc-live00.ipcasting.jp/west-n47vrqsw/kcb00/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球徳島①(当日のみ)
 https://abc-live00.ipcasting.jp/west-n47vrqsw/tscatv01/live-multi.m3u8
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球大阪①(当日のみ)
+https://abc-live00.ipcasting.jp/west-n47vrqsw/osaka00/live-multi.m3u8
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球兵庫①(当日のみ)
+https://abc-live00.ipcasting.jp/west-n47vrqsw/sun02/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.city.matsuyama.ehime.jp/images/2021_top_title.png" group-title="試験運用中",松山南クリーンセンター(当日のみ)
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720937754/ei/uhiTZoXJOYbP2roP9tWysA8/ip/122.27.159.234/id/C0gpM_qIIl0.4/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-vjoouujvhh-3pml.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/initcwndbps/1856250/mh/5D/mm/44/mn/sn-vjoouujvhh-3pml/ms/lva/mv/m/mvi/2/pl/19/dover/13/pacing/0/short_key/1/keepalive/yes/mt/1720915717/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRQIhAP_2qqBsb6mlgIxNkXwcIO1GLHPc3c-lWJ0Q9vqQSeHtAiB5r8nlU7UijeOJUZ-8vN_Qbh5O2AmRvshZvblprP4jNQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIhAPEmTXF_btNYi0pJQ7_JVX-fL3Wmn8XpOBV6OjCTojoeAiBhjnzeGWbVXvkKITk5_WjjmtaXoCzZzeC__CbJ_rZ5yw%3D%3D/playlist/index.m3u8
