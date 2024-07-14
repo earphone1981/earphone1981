@@ -181,7 +181,7 @@ https://duyycwqvxot9t.cloudfront.net/out/v1/769ad1fdda0d4e238f66e0b0f25edabb/ind
 
 #その他
 #EXTINF:-1 tvg-logo="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG6Xt-ACoeCN3MB9GAM7vzE_4QlB_g3_58-ihVutEq9IHzZ_r1TwdDaUwbAiaj_dFVlTIEbDpivAtAAX6xxx86yUl2d67I39Z3sJG0PZAiKTRRpXI8zagw7M7s6pqkyURoD3HZ3TneLrKqz_4LidfYnmZxyufeef55LtbH7OA3LmhXAEpX-XZ0EUF7tk4cxGt3bAtCTygSFjUO8b8Scd-wJqvBHB1k3Th2iFPpDZS_QYCG54QqpuBNzWNmFuKIGskJrMe4ZqT0bT3meHnGZMlZR4=/logo-65406-179-400x400.png" group-title="その他",BSよしもと
-https://drm.video.bsy.co.jp/ymbs/b25109aa4b3601/GCYtfrXMrX9UGJ4ajKM1Lg/index_1.m3u8?t=1720747110&r=9JoZ21HDiqjvAQ
+https://drm.video.bsy.co.jp/ymbs/b25109aa4b3601/4fuw-hjW_sanlOJq2vj-Lg/index_1.m3u8?t=1721002610&r=tLcMkuLMH6HBSM
 #EXTINF:-1 tvg-logo="https://www.city.matsuyama.ehime.jp/images/2021_top_title.png" group-title="その他",松山市議会中継
 https://cdn-ecatv-stream.durasite.net/live/ms_gikai/chunklist_w152985868.m3u8
 #EXTINF:-1 tvg-logo="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG_-cMwnEF_9yxZr5x-1Yd21q8SEeSDdwRD9doioeL5uLYbPwJnuAPx174aQVwaw1NVPqBFXaFNopDeaogjSnmsCMGjdgSZvVanY01bYg72S7zmqCWkgRxLrlmZRY1_zNFFZP4rUyRuBLumsyhB8kt9IEqa9jpiKnnfIC_xngNXt_frHW7s8TeEWPW1CX056crQ==/X315129_3L1.jpg?errorImage=false" group-title="その他",愛媛県議会中継
@@ -197,7 +197,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
 #EXTINF:-1 tvg-id="nhk_bsp4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_BSP4K.png" group-title="その他", NHK BSP 4K
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 #EXTINF:-1 tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="その他",TVTOKYO（tver）
-https://ssai-manifest.streaks.jp/v6/tver-simul-tx/035622a82bcb46bc8e41ca5351f95a00/3887c96991ce4ae1bec43ea19f24c4d5/hls/v5/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYyI6ImQ1YThjM2ZkMjI5ZTQ4ODg5MmVkY2E2YjQzN2FlMDNkIiwiZWRnZSI6Ijg2NWI4NDUyMmI3MjRkNzc4YTFhNmQ3NWI3ZTI1NDhlIiwiY29kZWNzIjoiYXV0byIsImV4cCI6MTcyMDE4OTgwMCwidnA5IjoxfQ.M9MUmzxmmbfd0ARvWElVyJw1pfxT1ZBj5UEgEHGu5HI&pdt=-10952&session=8ee0ceeb-79e7-433c-9ae4-e60dd57792df
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
 #EXTINF:-1 tvg-logo="https://www.xsozai.com/wp-content/uploads/2023/02/%E6%A5%BD%E5%A4%A9%E5%B8%82%E5%A0%B4.png" group-title="その他",楽天TV鉄道
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tandtcmaf-rakutenjp/playlist.m3u8?ads.uuid=79f6c984-2f32-573c-a7ff-a13644466ce4&ads.device_make=rchweb&ads.refid=0&ads.url=channel.rakuten.co.jp&ads.uid_ss=&ads.uid_rch=79f6c984-2f32-573c-a7ff-a13644466ce4
 #EXTINF:-1 tvg-logo="https://www.xsozai.com/wp-content/uploads/2023/02/%E6%A5%BD%E5%A4%A9%E5%B8%82%E5%A0%B4.png" group-title="その他",楽天TVアニメ
@@ -226,11 +226,19 @@ https://abc-live00.ipcasting.jp/west-n47vrqsw/kbs02/live-multi.m3u8
 https://abc-live00.ipcasting.jp/west-n47vrqsw/bbc00/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球香川①(当日のみ)
 https://abc-live00.ipcasting.jp/west-n47vrqsw/kab00/live-multi.m3u8
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球香川②(当日のみ)
+https://abc-live00.ipcasting.jp/west-n47vrqsw/kab01/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球愛媛①(当日のみ)
 https://abc-live00.ipcasting.jp/west-n47vrqsw/eat00/live-multi.m3u8
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球愛媛②(当日のみ)
+https://abc-live00.ipcasting.jp/west-n47vrqsw/eat01/live-multi.m3u8
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球愛媛③(当日のみ)
+https://abc-live00.ipcasting.jp/west-n47vrqsw/eat02/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球高知①(当日のみ)
 https://abc-live00.ipcasting.jp/west-n47vrqsw/kochi00/live-multi.m3u8
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球高知②(当日のみ)
+https://abc-live00.ipcasting.jp/west-n47vrqsw/kochi01/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球徳島①(当日のみ)
 https://abc-live00.ipcasting.jp/west-n47vrqsw/tscatv01/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.city.matsuyama.ehime.jp/images/2021_top_title.png" group-title="試験運用中",松山南クリーンセンター(当日のみ)
-https://manifest.googlevideo.com/api/manifest/hls_variant/file/index.m3u8?expire=1720845081&ei=ua6RZtiHKcOy2roPm5KKuAk&ip=219.109.62.232&id=C0gpM_qIIl0.4&source=yt_live_broadcast&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&tx=51181297&txs=51181296%2C51181297%2C51181298&hfr=1&playlist_duration=30&manifest_duration=30&maxh=4320&siu=1&vprv=1&go=1&rqh=5&pacing=0&nvgoi=1&ncsapi=1&keepalive=yes&dover=11&itag=0&playlist_type=DVR&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Csiu%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type&sig=AJfQdSswRQIgcof00g6YgOR_wjuB5y66uD3XcIjW4aP3e5F51cKfsAICIQDKv9Ixd1_87791EXgu2RyGTwquodtPE6aGMVS81Rt8HQ%3D%3D&cpn=HLa9n-yODMg91Dlu&ibw=16560000&c=MWEB&cver=2.20240712.01.00&ptk=youtube_none&pltype=contentugclive
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720937754/ei/uhiTZoXJOYbP2roP9tWysA8/ip/122.27.159.234/id/C0gpM_qIIl0.4/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-vjoouujvhh-3pml.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/initcwndbps/1856250/mh/5D/mm/44/mn/sn-vjoouujvhh-3pml/ms/lva/mv/m/mvi/2/pl/19/dover/13/pacing/0/short_key/1/keepalive/yes/mt/1720915717/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRQIhAP_2qqBsb6mlgIxNkXwcIO1GLHPc3c-lWJ0Q9vqQSeHtAiB5r8nlU7UijeOJUZ-8vN_Qbh5O2AmRvshZvblprP4jNQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIhAPEmTXF_btNYi0pJQ7_JVX-fL3Wmn8XpOBV6OjCTojoeAiBhjnzeGWbVXvkKITk5_WjjmtaXoCzZzeC__CbJ_rZ5yw%3D%3D/playlist/index.m3u8
