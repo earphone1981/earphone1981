@@ -214,7 +214,7 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakut
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-goraku-cmaf-rakutenjp/28312fcf-5f60-4d64-9027-2920abe5a9a6/0.m3u8
 
 #試験運用中
-#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球滋賀②(当日のみ)
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球滋賀皇子山(当日のみ)
 https://abc-live00.ipcasting.jp/west-n47vrqsw/bbc01/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球京都①わかさ(当日のみ)
 https://abc-live00.ipcasting.jp/west-n47vrqsw/kbs00/live-multi.m3u8
@@ -222,7 +222,7 @@ https://abc-live00.ipcasting.jp/west-n47vrqsw/kbs00/live-multi.m3u8
 https://abc-live00.ipcasting.jp/west-n47vrqsw/kbs01/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球京都③綾部(当日のみ)
 https://abc-live00.ipcasting.jp/west-n47vrqsw/kbs02/live-multi.m3u8
-#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球滋賀①(当日のみ)
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球滋賀HPL(当日のみ)
 https://abc-live00.ipcasting.jp/west-n47vrqsw/bbc00/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球香川①(当日のみ)
 https://abc-live00.ipcasting.jp/west-n47vrqsw/ksb03/live-multi.m3u8
@@ -236,11 +236,11 @@ https://abc-live00.ipcasting.jp/west-n47vrqsw/eat01/live-multi.m3u8
 https://abc-live00.ipcasting.jp/west-n47vrqsw/eat02/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球愛媛④宇和島丸山(当日のみ)
 https://abc-live00.ipcasting.jp/west-n47vrqsw/eat03/live-multi.m3u8
-#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球高知①(当日のみ)
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球高知春野(当日のみ)
 https://abc-live00.ipcasting.jp/west-n47vrqsw/kochi00/live-multi.m3u8
-#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球高知②(当日のみ)
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球高知市営(当日のみ)
 https://abc-live00.ipcasting.jp/west-n47vrqsw/kcb00/live-multi.m3u8
-#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球徳島①(当日のみ)
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球徳島むつみ(当日のみ)
 https://abc-live00.ipcasting.jp/west-n47vrqsw/tscatv01/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球大阪①(当日のみ)
 https://abc-live00.ipcasting.jp/west-n47vrqsw/osaka00/live-multi.m3u8
@@ -250,9 +250,9 @@ https://abc-live00.ipcasting.jp/west-n47vrqsw/sun02/live-multi.m3u8
 https://abc-live00.ipcasting.jp/west-n47vrqsw/sun03/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球兵庫明石トーカロ(当日のみ)
 https://abc-live00.ipcasting.jp/west-n47vrqsw/sun01/live-multi.m3u8
-#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球神姫バスキッピー(当日のみ)
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球兵庫三田キッピー(当日のみ)
 https://abc-live00.ipcasting.jp/west-n47vrqsw/sun07/live-multi.m3u8
-#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球兵庫第四(当日のみ)
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球兵庫姫路ウインク(当日のみ)
 https://abc-live00.ipcasting.jp/west-n47vrqsw/sun04/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球兵庫高砂(当日のみ)
 https://abc-live00.ipcasting.jp/west-n47vrqsw/sun00/live-multi.m3u8
