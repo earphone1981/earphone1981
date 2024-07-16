@@ -181,7 +181,7 @@ https://duyycwqvxot9t.cloudfront.net/out/v1/769ad1fdda0d4e238f66e0b0f25edabb/ind
 
 #その他
 #EXTINF:-1 tvg-logo="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG6Xt-ACoeCN3MB9GAM7vzE_4QlB_g3_58-ihVutEq9IHzZ_r1TwdDaUwbAiaj_dFVlTIEbDpivAtAAX6xxx86yUl2d67I39Z3sJG0PZAiKTRRpXI8zagw7M7s6pqkyURoD3HZ3TneLrKqz_4LidfYnmZxyufeef55LtbH7OA3LmhXAEpX-XZ0EUF7tk4cxGt3bAtCTygSFjUO8b8Scd-wJqvBHB1k3Th2iFPpDZS_QYCG54QqpuBNzWNmFuKIGskJrMe4ZqT0bT3meHnGZMlZR4=/logo-65406-179-400x400.png" group-title="その他",BSよしもと
-https://drm.video.bsy.co.jp/ymbs/b25109aa4b3601/4fuw-hjW_sanlOJq2vj-Lg/index_1.m3u8?t=1721002610&r=tLcMkuLMH6HBSM
+https://drm.video.bsy.co.jp/ymbs/b25109aa4b3601/usTcIwp-6-EX_7PYsqf95A/index_1.m3u8?t=1721182524&r=2j103pxi3CM7ZL
 #EXTINF:-1 tvg-logo="https://www.city.matsuyama.ehime.jp/images/2021_top_title.png" group-title="その他",松山市議会中継
 https://cdn-ecatv-stream.durasite.net/live/ms_gikai/chunklist_w152985868.m3u8
 #EXTINF:-1 tvg-logo="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG_-cMwnEF_9yxZr5x-1Yd21q8SEeSDdwRD9doioeL5uLYbPwJnuAPx174aQVwaw1NVPqBFXaFNopDeaogjSnmsCMGjdgSZvVanY01bYg72S7zmqCWkgRxLrlmZRY1_zNFFZP4rUyRuBLumsyhB8kt9IEqa9jpiKnnfIC_xngNXt_frHW7s8TeEWPW1CX056crQ==/X315129_3L1.jpg?errorImage=false" group-title="その他",愛媛県議会中継
@@ -228,11 +228,13 @@ https://abc-live00.ipcasting.jp/west-n47vrqsw/bbc00/live-multi.m3u8
 https://abc-live00.ipcasting.jp/west-n47vrqsw/ksb03/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球香川②(当日のみ)
 https://abc-live00.ipcasting.jp/west-n47vrqsw/ksb04/live-multi.m3u8
-#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球愛媛①(当日のみ)
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球愛媛①坊っちゃん(当日のみ)
 https://abc-live00.ipcasting.jp/west-n47vrqsw/eat00/live-multi.m3u8
-#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球愛媛②(当日のみ)
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球愛媛②今治市営(当日のみ)
 https://abc-live00.ipcasting.jp/west-n47vrqsw/eat01/live-multi.m3u8
-#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球愛媛③(当日のみ)
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球愛媛③西条ひうち(当日のみ)
+https://abc-live00.ipcasting.jp/west-n47vrqsw/eat02/live-multi.m3u8
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球愛媛④宇和島丸山(当日のみ)
 https://abc-live00.ipcasting.jp/west-n47vrqsw/eat03/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球高知①(当日のみ)
 https://abc-live00.ipcasting.jp/west-n47vrqsw/kochi00/live-multi.m3u8
@@ -245,4 +247,4 @@ https://abc-live00.ipcasting.jp/west-n47vrqsw/osaka00/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="試験運用中",高校野球兵庫①(当日のみ)
 https://abc-live00.ipcasting.jp/west-n47vrqsw/sun02/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.city.matsuyama.ehime.jp/images/2021_top_title.png" group-title="試験運用中",松山南クリーンセンター(当日のみ)
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720937754/ei/uhiTZoXJOYbP2roP9tWysA8/ip/122.27.159.234/id/C0gpM_qIIl0.4/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-vjoouujvhh-3pml.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/initcwndbps/1856250/mh/5D/mm/44/mn/sn-vjoouujvhh-3pml/ms/lva/mv/m/mvi/2/pl/19/dover/13/pacing/0/short_key/1/keepalive/yes/mt/1720915717/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRQIhAP_2qqBsb6mlgIxNkXwcIO1GLHPc3c-lWJ0Q9vqQSeHtAiB5r8nlU7UijeOJUZ-8vN_Qbh5O2AmRvshZvblprP4jNQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIhAPEmTXF_btNYi0pJQ7_JVX-fL3Wmn8XpOBV6OjCTojoeAiBhjnzeGWbVXvkKITk5_WjjmtaXoCzZzeC__CbJ_rZ5yw%3D%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1721117818/ei/GtiVZtTnGLyUvcAPgbqwmAM/ip/219.109.62.221/id/C0gpM_qIIl0.4/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-xiphx-htwz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/initcwndbps/1602500/mh/5D/mm/44/mn/sn-xiphx-htwz/ms/lva/mv/m/mvi/2/pl/21/dover/13/pacing/0/short_key/1/keepalive/yes/mt/1721095476/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRQIge8DXn4-XXf6eApB3t3lU412i_UQ7gTNroaPSs9yuRB8CIQCjNGpVPO9zk6SNeL-4pasje7Kdm3zG_8_FFBqHrKe-lQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIgQpmYqt0LTsUVdjJbZsbCxY84ptOAnzlrOj7b2gJBCbICIQCmbJhTA_7tfdSfO9rDApdzk6NQISbMWGhAAuxAIhObGg%3D%3D/playlist/index.m3u8
