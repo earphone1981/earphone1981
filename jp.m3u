@@ -218,11 +218,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-goraku-cmaf-ra
 https://abc-live00.ipcasting.jp/west-n47vrqsw/bbc01/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球滋賀HPL
 https://abc-live00.ipcasting.jp/west-n47vrqsw/bbc00/live-multi.m3u8
-#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球京都①わかさ
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球京都わかさ
 https://abc-live00.ipcasting.jp/west-n47vrqsw/kbs00/live-multi.m3u8
-#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球香川①レグザムスタジアム
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球香川レグザムスタジアム
 https://abc-live00.ipcasting.jp/west-n47vrqsw/ksb03/live-multi.m3u8
-#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球香川②レグザムBP丸亀
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球香川レグザムBP丸亀
 https://abc-live00.ipcasting.jp/west-n47vrqsw/ksb04/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球愛媛坊っちゃん
 https://abc-live00.ipcasting.jp/west-n47vrqsw/eat00/live-multi.m3u8
@@ -290,5 +290,7 @@ https://abc-live00.ipcasting.jp/west-n47vrqsw/mtv00/live-multi.m3u8
 https://abc-live00.ipcasting.jp/east-f4yk9e3s/jcomty00/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球東東京駒沢
 https://abc-live00.ipcasting.jp/east-f4yk9e3s/jcomty01/live-multi.m3u8
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球東東京太田
+https://abc-live00.ipcasting.jp/east-f4yk9e3s/jcomty03/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球福岡北九州
 https://abc-live00.ipcasting.jp/west-n47vrqsw/jcomks02/live-multi.m3u8
