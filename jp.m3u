@@ -262,11 +262,13 @@ https://abc-live00.ipcasting.jp/west-n47vrqsw/sun00/live-multi.m3u8
 https://abc-live00.ipcasting.jp/west-n47vrqsw/wtv00/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球奈良さとやく(当日のみ)
 https://abc-live00.ipcasting.jp/west-n47vrqsw/tvn00/live-multi.m3u8
-#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球広島バルコム(当日のみ)
-https://abc-live00.ipcasting.jp/west-n47vrqsw/home01/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球広島ぶんちゃんしまなみ(当日のみ)
+https://abc-live00.ipcasting.jp/west-n47vrqsw/home01/live-multi.m3u8
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球広島電光石火きんさいスタジアム三次(当日のみ)
 https://abc-live00.ipcasting.jp/west-n47vrqsw/home02/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球広島鶴岡一人記念球場(当日のみ)
 https://abc-live00.ipcasting.jp/west-n47vrqsw/home04/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球広島マツダ(当日のみ)
 https://abc-live00.ipcasting.jp/west-n47vrqsw/home00/live-multi.m3u8
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球広島バルコム(当日のみ)
+https://abc-live00.ipcasting.jp/west-n47vrqsw/home06/live-multi.m3u8
