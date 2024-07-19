@@ -284,3 +284,5 @@ https://abc-live00.ipcasting.jp/west-n47vrqsw/mtv03/live-multi.m3u8
 https://abc-live00.ipcasting.jp/west-n47vrqsw/mtv02/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球津球場
 https://abc-live00.ipcasting.jp/west-n47vrqsw/mtv01/live-multi.m3u8
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球東東京01
+https://abc-live00.ipcasting.jp/east-f4yk9e3s/jcomty00/live-multi_20240718T224149_240p.m3u8
