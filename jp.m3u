@@ -232,6 +232,8 @@ https://abc-live00.ipcasting.jp/west-n47vrqsw/eat01/live-multi.m3u8
 https://abc-live00.ipcasting.jp/west-n47vrqsw/eat02/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球高知春野
 https://abc-live00.ipcasting.jp/west-n47vrqsw/kochi00/live-multi.m3u8
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球高知市営
+https://abc-live00.ipcasting.jp/west-n47vrqsw/kochi01/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球徳島むつみ
 https://abc-live00.ipcasting.jp/west-n47vrqsw/tscatv01/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球大阪シティ信用金庫
