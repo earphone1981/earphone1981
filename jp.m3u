@@ -192,12 +192,6 @@ https://cdn-ecatv-stream.durasite.net/live/0220200406/chunklist_w1561229161.m3u
 https://cdn-ecatv-stream.durasite.net/live/0120200406/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/300px-VHS-Video-Tape-Top-Flat.jpg" group-title="その他",ガキの使い他ＶＴＲ配信
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
-#EXTINF:-1 tvg-id="JOUHDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png" group-title="その他", SUN TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
-#EXTINF:-1 tvg-id="NHKBSP4K.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_BSP4K.png" group-title="その他", NHK BSP 4K
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
-#EXTINF:-1 tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="その他",TVTOKYO（tver）
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
 #EXTINF:-1 tvg-logo="https://www.xsozai.com/wp-content/uploads/2023/02/%E6%A5%BD%E5%A4%A9%E5%B8%82%E5%A0%B4.png" group-title="その他",楽天TV鉄道
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tandtcmaf-rakutenjp/playlist.m3u8?ads.uuid=79f6c984-2f32-573c-a7ff-a13644466ce4&ads.device_make=rchweb&ads.refid=0&ads.url=channel.rakuten.co.jp&ads.uid_ss=&ads.uid_rch=79f6c984-2f32-573c-a7ff-a13644466ce4
 #EXTINF:-1 tvg-logo="https://www.xsozai.com/wp-content/uploads/2023/02/%E6%A5%BD%E5%A4%A9%E5%B8%82%E5%A0%B4.png" group-title="その他",楽天TVアニメ
@@ -212,13 +206,13 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelmensnecoh
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakutenjp/playlist.m3u8?ads.uuid=79f6c984-2f32-573c-a7ff-a13644466ce4&ads.device_make=rchweb&ads.refid=0&ads.url=channel.rakuten.co.jp&ads.uid_ss=&ads.uid_rch=79f6c984-2f32-573c-a7ff-a13644466ce4
 #EXTINF:-1 tvg-logo="https://www.xsozai.com/wp-content/uploads/2023/02/%E6%A5%BD%E5%A4%A9%E5%B8%82%E5%A0%B4.png" group-title="その他",楽天TVJPOP
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-goraku-cmaf-rakutenjp/28312fcf-5f60-4d64-9027-2920abe5a9a6/0.m3u8
-#EXTINF:-1 group-title="Local Station" tvg-id="tss" tvg-logo="https://i.imgur.com/yxFtYJA.png" group-title="その他", TSSテレビ新広島
+#EXTINF:-1 tvg-id="tss" tvg-logo="https://i.imgur.com/yxFtYJA.png" group-title="その他",TSSテレビ新広島
 http://r3jx.djtmewibu.com/tss/index.m3u8
-#EXTINF:-1 group-title="Local Station" tvg-id="rcc" tvg-logo="https://i.imgur.com/OfvWCMR.jpeg" group-title="その他", RCC中国放送
+#EXTINF:-1 tvg-id="rcc" tvg-logo="https://i.imgur.com/OfvWCMR.jpeg" group-title="その他",RCC中国放送
 http://csui.djtmewibu.com/rcc/index.m3u8
-#EXTINF:-1 group-title="Local Station" tvg-id="tos" tvg-logo="https://i.imgur.com/3f6jV5g.png" group-title="その他",TOSテレビ大分
+#EXTINF:-1 tvg-id="tos" tvg-logo="https://i.imgur.com/3f6jV5g.png" group-title="その他",TOSテレビ大分
 http://csui.djtmewibu.com/tos/index.m3u8
-#EXTINF:-1 group-title="Pay Channel" tvg-logo="https://pbs.twimg.com/profile_images/623765186021756929/rBvlP6Fq_400x400.png" group-title="その他",AnimeTV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/623765186021756929/rBvlP6Fq_400x400.png" group-title="その他",Anime
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1 group-title="Pay Channel" tvg-id="" tvg-logo="https://i.imgur.com/SwheroL.jpg" group-title="その他",ポケモン Kids TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SwheroL.jpg" group-title="その他",ポケモン Kids TV
 https://ythls.armelin.one/channel/UCH0JJtRn2syic5xxavMKQ4Q.m3u8
