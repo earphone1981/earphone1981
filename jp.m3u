@@ -208,10 +208,6 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakut
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-goraku-cmaf-rakutenjp/28312fcf-5f60-4d64-9027-2920abe5a9a6/0.m3u8
 #EXTINF:-1 tvg-id="tss" tvg-logo="https://i.imgur.com/yxFtYJA.png" group-title="その他",TSSテレビ新広島
 http://r3jx.djtmewibu.com/tss/index.m3u8
-#EXTINF:-1 tvg-id="rcc" tvg-logo="https://i.imgur.com/OfvWCMR.jpeg" group-title="その他",RCC中国放送
-http://csui.djtmewibu.com/rcc/index.m3u8
-#EXTINF:-1 tvg-id="tos" tvg-logo="https://i.imgur.com/3f6jV5g.png" group-title="その他",TOSテレビ大分
-http://csui.djtmewibu.com/tos/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/623765186021756929/rBvlP6Fq_400x400.png" group-title="その他",Anime
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SwheroL.jpg" group-title="その他",ポケモン Kids TV
