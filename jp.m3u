@@ -79,7 +79,7 @@ http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/kasamats
 #EXTINF:-1 tvg-logo="https://keiba-lv-st.jp/img/track/left-s/saga.png" group-title="競馬",佐賀競馬
 http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/saga5.m3u8
 #EXTINF:-1 tvg-id="green_ch" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green_channel_jp.png" group-title="競馬",Green Channel
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=5&bind=0&uin=159413&playseek=0
+https://ssl-cache.stream.ne.jp/www50/eqj128pfeu/jmc_pub/liveplaylist/v2/1_standard.m3u8
 #オートレース
 #EXTINF:-1 tvg-logo="https://www.kawaguchiauto.jp/wp-content/themes/kawaguchi-ar_temp/images/common/logo@2x.png" group-title="オートレース",川口
 https://autorace-live.akamaized.net/hls/live/2036917/id2/streaming/media.m3u8
