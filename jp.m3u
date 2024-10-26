@@ -79,11 +79,11 @@ http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/nagoya5.
 http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/kasamatsu5.m3u8
 #EXTINF:-1 tvg-logo="https://keiba-lv-st.jp/img/track/left-s/saga.png" group-title="競馬",佐賀競馬
 http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/saga5.m3u8
-#EXTINF:-1 tvg-id="green_ch"group-title="競馬",ＪＲＡ公式
+#EXTINF:-1 tvg-id="green_ch" group-title="競馬",ＪＲＡ公式
 https://ssl-cache.stream.ne.jp/www50/eqj128pfeu/jmc_pub/liveplaylist/v2/1_standard.m3u8
-#EXTINF:-1 tvg-id="green_ch"group-title="競馬",グリーンチャンネル1
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp tvg-id="green_ch" group-title="競馬",グリーンチャンネル1(限定)
 https://manifest.streaks.jp/v4/gch/e7961fdef01249aa9ce85ab6c4c71d74/7cad869b57da41e1bda05f7caf486b92/hls/v3/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwcCI6IjgyODZmODUzYzM3NDRlYjViMzIyM2QwZmQ2NzRiNjA2IiwiZGMiOiJmMzAyZjg2NDY4ZTY0MDg5OWQwNTEzYTBjMjI1OWY3ZCIsImVkZ2UiOiIyZWI3YzY3ZTU2YjI0NGNjODgwNzVkZTQ0Y2VlYmI4OCIsImNvZGVjcyI6ImF1dG8iLCJleHAiOjE3MzAwOTE2MDB9.esCZ9401aaXAtpvCK9Ohx6-dtlcU2S0pDE5j78CN5ig&cd=home_sp
-#EXTINF:-1 tvg-id="green_ch"group-title="競馬",グリーンチャンネル2
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp tvg-id="green_ch" group-title="競馬",グリーンチャンネル2(限定)
 https://manifest.streaks.jp/v4/gch/a8fdd0e4800e4ce6b07b215aad3b2806/de2c0dbed0c4479fb2cd73a4ee01d92b/hls/v3/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwcCI6IjgyODZmODUzYzM3NDRlYjViMzIyM2QwZmQ2NzRiNjA2IiwiZGMiOiJmMzAyZjg2NDY4ZTY0MDg5OWQwNTEzYTBjMjI1OWY3ZCIsImVkZ2UiOiI5NDNlMzQ2MGRjZGI0YzIzOGJjMzZmY2E5MTA1NzRmNCIsImNvZGVjcyI6ImF1dG8iLCJleHAiOjE3MzAwOTE2MDB9.XqSh_kfRvX6aifNu83X5ujc3wuHkbJyiXzcAE3hpWec&cd=home_sp
 #オートレース
 #EXTINF:-1 tvg-logo="https://www.kawaguchiauto.jp/wp-content/themes/kawaguchi-ar_temp/images/common/logo@2x.png" group-title="オートレース",川口
