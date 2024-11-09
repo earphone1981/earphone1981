@@ -143,6 +143,8 @@ https://cfl.st.keirin.jp/45/dash/45.mpd
 https://cfl.st.keirin.jp/46/dash/46.mpd
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012274.jpg" group-title="競輪",松阪
 https://cfl.st.keirin.jp/47/dash/47.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012276.jpg" group-title="競輪",四日市2
+https://d2qwtrte7v1vrk.cloudfront.net/out/v1/b09f11096a2449179ecc765450e5d70e/index_9.m3u8
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012276.jpg" group-title="競輪",四日市
 https://cfl.st.keirin.jp/48/dash/48.mpd
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012278.jpg" group-title="競輪",福井
