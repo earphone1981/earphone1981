@@ -143,8 +143,6 @@ https://cfl.st.keirin.jp/45/dash/45.mpd
 https://cfl.st.keirin.jp/46/dash/46.mpd
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012274.jpg" group-title="競輪",松阪
 https://cfl.st.keirin.jp/47/dash/47.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012276.jpg" group-title="競輪",四日市2
-https://d2qwtrte7v1vrk.cloudfront.net/out/v1/b09f11096a2449179ecc765450e5d70e/index_9.m3u8
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012276.jpg" group-title="競輪",四日市
 https://cfl.st.keirin.jp/48/dash/48.mpd
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012278.jpg" group-title="競輪",福井
@@ -185,7 +183,15 @@ https://cfl.st.keirin.jp/86/dash/86.mpd
 https://cfl.st.keirin.jp/87/dash/87.mpd
 #EXTINF:-1 tvg-logo="" group-title="競輪",pist6
 https://duyycwqvxot9t.cloudfront.net/out/v1/769ad1fdda0d4e238f66e0b0f25edabb/index.m3u8
-
+#競輪2
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012276.jpg" group-title="競輪2",四日市2
+https://d2qwtrte7v1vrk.cloudfront.net/out/v1/b09f11096a2449179ecc765450e5d70e/index_9.m3u8
+#EXTINF:-1 tvg-logo="https://www.iizuka-auto.jp/images/rogo.png" group-title="競輪2",西武園2
+https://dglu799jz6q5s.cloudfront.net/out/v1/42285a6d8aa7415d9cd14ff4a9e4127a/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://www.takamatsu-keirin.com/assets/img/common/logo_f.png" group-title="競輪2",高松2
+https://d20jzsap8ax0i2.cloudfront.net/out/v1/2dabf5a556dd4bfbb75c28537be02c2f/index_9.m3u8
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012243.jpg" group-title="競輪2",佐世保2
+https://d3ned0jklmmsf9.cloudfront.net/out/v1/f3d0b40d4fbb4d7d9469888af4944884/index_1.m3u8
 #その他
 #EXTINF:-1 tvg-logo="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG6Xt-ACoeCN3MB9GAM7vzE_4QlB_g3_58-ihVutEq9IHzZ_r1TwdDaUwbAiaj_dFVlTIEbDpivAtAAX6xxx86yUl2d67I39Z3sJG0PZAiKTRRpXI8zagw7M7s6pqkyURoD3HZ3TneLrKqz_4LidfYnmZxyufeef55LtbH7OA3LmhXAEpX-XZ0EUF7tk4cxGt3bAtCTygSFjUO8b8Scd-wJqvBHB1k3Th2iFPpDZS_QYCG54QqpuBNzWNmFuKIGskJrMe4ZqT0bT3meHnGZMlZR4=/logo-65406-179-400x400.png" group-title="その他",BSよしもと
 https://drm.video.bsy.co.jp/ymbs/b25109aa4b3601/hhGfigosCWmjKsDVpiBRZQ/index.m3u8?t=1730922720&r=unMe8Hz4hWXBCw
