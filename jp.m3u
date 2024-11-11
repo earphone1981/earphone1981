@@ -182,6 +182,8 @@ https://cfl.st.keirin.jp/87/dash/87.mpd
 #EXTINF:-1 tvg-logo="" group-title="競輪",pist6
 https://duyycwqvxot9t.cloudfront.net/out/v1/769ad1fdda0d4e238f66e0b0f25edabb/index.m3u8
 #競輪2
+#EXTINF:-1 tvg-logo="https://www.maebashi-keirin.jp/wp-content/themes/maebashi-template/images/logo.png" group-title="競輪2",前橋2
+https://d1k0zwbhpej0or.cloudfront.net/out/v1/1b4717ba26ca42e09066b373c5f296a4/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.iizuka-auto.jp/images/rogo.png" group-title="競輪2",西武園2
 https://dglu799jz6q5s.cloudfront.net/out/v1/42285a6d8aa7415d9cd14ff4a9e4127a/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011466.jpg" group-title="競輪2",立川2
