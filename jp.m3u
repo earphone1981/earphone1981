@@ -246,3 +246,5 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakut
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SwheroL.jpg" group-title="その他",ポケモン Kids TV
 https://ythls.armelin.one/channel/UCH0JJtRn2syic5xxavMKQ4Q.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/300px-VHS-Video-Tape-Top-Flat.jpg" group-title="その他",ガキの戯れテスト配信
+https://surrit.com/3aa75f73-cc33-4491-b4e2-c1b8cfdf752c/842x480/video.m3u8
