@@ -272,7 +272,7 @@ https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2094434448/twitter_suminoe_jumpy_400x400.png" group-title="ボートレース2",住之江(ナイター)
 https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-12-live/brlive/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://boatrace.jp/static/uploads/sites/8/13_N-1.jpg" group-title="ボートレース2",尼崎
-https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-13-live/brlive/chunklist.m3u8
+https://br-rp-mix-13-live.hls.wselive.stream.ne.jp/br-rp-mix-13-live/brlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.n14.jp/cdn/pc/images/common/pc_logo_naruto.png" group-title="ボートレース2",鳴門
 https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-14-live/brlive/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.marugameboat.jp/images/h1_logo.png" group-title="ボートレース2",丸亀(ナイター)
