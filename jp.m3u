@@ -207,8 +207,8 @@ https://dglu799jz6q5s.cloudfront.net/out/v1/42285a6d8aa7415d9cd14ff4a9e4127a/ind
 https://cfl.st.keirin.jp/27/dash/27.mpd
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011466.jpg" group-title="競輪2",立川2
 https://d1tu50d3glwfd3.cloudfront.net/out/v1/fb4d91b4805a48bb8c3ed3da9dfc8a17/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010118.jpg" group-title="競輪2",松戸
-https://cfl.st.keirin.jp/31/dash/31.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010118.jpg" group-title="競輪2",松戸2
+https://d3um80ws33iv2t.cloudfront.net/out/v1/b573e645e5de40c999eecfe4e7221fe0/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.kawasakikeirin.com/images/logo_kawasaki.png" group-title="競輪2",川崎2
 https://d19fq96jx01oj3.cloudfront.net/out/v1/5648c4b609c248d9a6a23080241da3e8/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.shonanbank.com/wp-content/themes/hiratsuka/img/abema_shonanbank_blue.png" group-title="競輪2",平塚2
