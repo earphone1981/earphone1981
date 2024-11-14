@@ -235,8 +235,8 @@ https://ds87bovfu9b2r.cloudfront.net/out/v1/e755c8d84ca84705815c267e18126bf9/ind
 https://d2qwtrte7v1vrk.cloudfront.net/out/v1/b09f11096a2449179ecc765450e5d70e/index_9.m3u8
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012278.jpg" group-title="競輪2",福井
 https://cfl.st.keirin.jp/51/dash/51.mpd
-#EXTINF:-1 tvg-logo="https://www.narakeirin.jp/img/footer_logo_01.png" group-title="競輪2",奈良
-https://cfl.st.keirin.jp/53/dash/53.mpd
+#EXTINF:-1 tvg-logo="https://www.narakeirin.jp/img/footer_logo_01.png" group-title="競輪2",奈良2
+https://d39uosfxy3v3ex.cloudfront.net/out/v1/e405ba3f01604bc59a3657bdd988675b/index.m3u8
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012194.jpg" group-title="競輪2",向日町
 https://cfl.st.keirin.jp/54/dash/54.mpd
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010182.jpg" group-title="競輪2",和歌山2
