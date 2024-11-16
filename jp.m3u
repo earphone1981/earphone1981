@@ -203,8 +203,8 @@ https://cfl.st.keirin.jp/24/dash/24.mpd
 https://cfl.st.keirin.jp/25/dash/25.mpd
 #EXTINF:-1 tvg-logo="https://www.iizuka-auto.jp/images/rogo.png" group-title="競輪2",西武園2
 https://dglu799jz6q5s.cloudfront.net/out/v1/42285a6d8aa7415d9cd14ff4a9e4127a/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011481.jpg" group-title="競輪2",京王閣
-https://cfl.st.keirin.jp/27/dash/27.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011481.jpg" group-title="競輪2",京王閣2
+https://dzrovda3802mb.cloudfront.net/out/v1/cae23cf64f45479a9adc8375c7bc9243/index.m3u8
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011466.jpg" group-title="競輪2",立川2
 https://d1tu50d3glwfd3.cloudfront.net/out/v1/fb4d91b4805a48bb8c3ed3da9dfc8a17/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010118.jpg" group-title="競輪2",松戸2
