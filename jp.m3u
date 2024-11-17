@@ -97,101 +97,14 @@ https://autorace-live.akamaized.net/hls/live/2036917/id4/streaming/media.m3u8
 https://autorace-live.akamaized.net/hls/live/2036917-b/id5/streaming/media.m3u8
 #EXTINF:-1 tvg-logo="https://autorace.jp/news/37th/img/logo-sanyo.png" group-title="オートレース",山陽
 https://autorace-live.akamaized.net/hls/live/2036917-b/id6/streaming/media.m3u8
-#競輪
-#EXTINF:-1 tvg-logo="https://8200234-next4-bucket-production.s3.ap-northeast-1.amazonaws.com/public/fixed-page/body/XNXeVc97oBSKROP3y20UaYmGeLDEMsdpM2YVDYk2.jpg" group-title="競輪",函館
-https://cfl.st.keirin.jp/11/dash/11.mpd
-#EXTINF:-1 tvg-logo="https://www.kyodo2023-aomori.com/img/common/footer_logo.png" group-title="競輪",青森
-https://cfl.st.keirin.jp/12/dash/12.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010860.jpg" group-title="競輪",いわき平
-https://cfl.st.keirin.jp/13/dash/13.mpd
-#EXTINF:-1 tvg-logo="https://www.yahikokeirin.com/wp-content/uploads/yahik_rogo4.png" group-title="競輪",弥彦
-https://cfl.st.keirin.jp/21/dash/21.mpd
-#EXTINF:-1 tvg-logo="https://www.maebashi-keirin.jp/wp-content/themes/maebashi-template/images/logo.png" group-title="競輪",前橋
-https://cfl.st.keirin.jp/22/dash/22.mpd
-#EXTINF:-1 tvg-logo="https://www.toride-keirin.com/assets/default/img/rogo02.png" group-title="競輪",取手
-https://cfl.st.keirin.jp/23/dash/23.mpd
-#EXTINF:-1 tvg-logo="https://utsunomiya-keirin.jp/img/logo.png" group-title="競輪",宇都宮
-https://cfl.st.keirin.jp/24/dash/24.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010037.jpg" group-title="競輪",大宮
-https://cfl.st.keirin.jp/25/dash/25.mpd
-#EXTINF:-1 tvg-logo="https://www.iizuka-auto.jp/images/rogo.png" group-title="競輪",西武園
-https://cfl.st.keirin.jp/26/dash/26.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011481.jpg" group-title="競輪",京王閣
-https://cfl.st.keirin.jp/27/dash/27.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011466.jpg" group-title="競輪",立川
-https://cfl.st.keirin.jp/28/dash/28.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010118.jpg" group-title="競輪",松戸
-https://cfl.st.keirin.jp/31/dash/31.mpd
-#EXTINF:-1 tvg-logo="https://www.kawasakikeirin.com/images/logo_kawasaki.png" group-title="競輪",川崎
-https://cfl.st.keirin.jp/34/dash/34.mpd
-#EXTINF:-1 tvg-logo="https://www.shonanbank.com/wp-content/themes/hiratsuka/img/abema_shonanbank_blue.png" group-title="競輪",平塚
-https://cfl.st.keirin.jp/35/dash/35.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012244.jpg" group-title="競輪",小田原
-https://cfl.st.keirin.jp/36/dash/36.mpd
-#EXTINF:-1 tvg-logo="https://www.itokeirin.com/img/logo.png" group-title="競輪",伊東温泉
-https://cfl.st.keirin.jp/37/dash/37.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010091.jpg" group-title="競輪",静岡
-https://cfl.st.keirin.jp/38/dash/38.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011199.jpg" group-title="競輪",名古屋
-https://cfl.st.keirin.jp/42/dash/42.mpd
-#EXTINF:-1 tvg-logo="https://www.gifukeirin.jp/kinen2022/img/logo.png" group-title="競輪",岐阜
-https://cfl.st.keirin.jp/43/dash/43.mpd
-#EXTINF:-1 tvg-logo="https://www.ogakikeirin.com/common/images/logos/logo.png?20190412" group-title="競輪",大垣
-https://cfl.st.keirin.jp/44/dash/44.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012322.jpg" group-title="競輪",豊橋
-https://cfl.st.keirin.jp/45/dash/45.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010575.jpg" group-title="競輪",富山
-https://cfl.st.keirin.jp/46/dash/46.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012274.jpg" group-title="競輪",松阪
-https://cfl.st.keirin.jp/47/dash/47.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012276.jpg" group-title="競輪",四日市
-https://cfl.st.keirin.jp/48/dash/48.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012278.jpg" group-title="競輪",福井
-https://cfl.st.keirin.jp/51/dash/51.mpd
-#EXTINF:-1 tvg-logo="https://www.narakeirin.jp/img/footer_logo_01.png" group-title="競輪",奈良
-https://cfl.st.keirin.jp/53/dash/53.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012194.jpg" group-title="競輪",向日町
-https://cfl.st.keirin.jp/54/dash/54.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010182.jpg" group-title="競輪",和歌山
-https://cfl.st.keirin.jp/55/dash/55.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012330.jpg" group-title="競輪",岸和田
-https://cfl.st.keirin.jp/56/dash/56.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011966.jpg" group-title="競輪",玉野
-https://cfl.st.keirin.jp/61/dash/61.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010495.jpg" group-title="競輪",広島
-https://cfl.st.keirin.jp/62/dash/62.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012237.jpg" group-title="競輪",防府
-https://cfl.st.keirin.jp/63/dash/63.mpd
-#EXTINF:-1 tvg-logo="https://www.takamatsu-keirin.com/assets/img/common/logo_f.png" group-title="競輪",高松
-https://cfl.st.keirin.jp/71/dash/71.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010707.jpg" group-title="競輪",小松島
-https://cfl.st.keirin.jp/73/dash/73.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011427.jpg" group-title="競輪",高知
-https://cfl.st.keirin.jp/74/dash/74.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012014.jpg" group-title="競輪",松山
-https://cfl.st.keirin.jp/75/dash/75.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012279.jpg" group-title="競輪",小倉
-https://cfl.st.keirin.jp/81/dash/81.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012074.jpg" group-title="競輪",久留米
-https://cfl.st.keirin.jp/83/dash/83.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011866.jpg" group-title="競輪",武雄
-https://cfl.st.keirin.jp/84/dash/84.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012243.jpg" group-title="競輪",佐世保
-https://cfl.st.keirin.jp/85/dash/85.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012281.jpg" group-title="競輪",別府
-https://cfl.st.keirin.jp/86/dash/86.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/000313.jpg" group-title="競輪",熊本
-https://cfl.st.keirin.jp/87/dash/87.mpd
-#EXTINF:-1 tvg-logo="" group-title="競輪",pist6
-https://duyycwqvxot9t.cloudfront.net/out/v1/769ad1fdda0d4e238f66e0b0f25edabb/index.m3u8
 #競輪2
-#EXTINF:-1 tvg-logo="https://8200234-next4-bucket-production.s3.ap-northeast-1.amazonaws.com/public/fixed-page/body/XNXeVc97oBSKROP3y20UaYmGeLDEMsdpM2YVDYk2.jpg" group-title="競輪2",函館
+#EXTINF:-1 tvg-logo="https://8200234-next4-bucket-production.s3.ap-northeast-1.amazonaws.com/public/fixed-page/body/XNXeVc97oBSKROP3y20UaYmGeLDEMsdpM2YVDYk2.jpg" group-title="競輪2",函館(冬季休止中)
 https://cfl.st.keirin.jp/11/dash/11.mpd
-#EXTINF:-1 tvg-logo="https://www.kyodo2023-aomori.com/img/common/footer_logo.png" group-title="競輪2",青森
+#EXTINF:-1 tvg-logo="https://www.kyodo2023-aomori.com/img/common/footer_logo.png" group-title="競輪2",青森(冬季休止中)
 https://cfl.st.keirin.jp/12/dash/12.mpd
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010860.jpg" group-title="競輪2",いわき平2
 https://d23qgpjepvhwta.cloudfront.net/out/v1/780e6abc75d24525a95b9998b0892a86/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.yahikokeirin.com/wp-content/uploads/yahik_rogo4.png" group-title="競輪2",弥彦
+#EXTINF:-1 tvg-logo="https://www.yahikokeirin.com/wp-content/uploads/yahik_rogo4.png" group-title="競輪2",弥彦(冬季休止中)
 https://cfl.st.keirin.jp/21/dash/21.mpd
 #EXTINF:-1 tvg-logo="https://www.maebashi-keirin.jp/wp-content/themes/maebashi-template/images/logo.png" group-title="競輪2",前橋2
 https://d1k0zwbhpej0or.cloudfront.net/out/v1/1b4717ba26ca42e09066b373c5f296a4/index.m3u8
@@ -227,17 +140,17 @@ https://dhwnzvxv6smzu.cloudfront.net/out/v1/8aeb71175e4d4f818d765c6471f10602/ind
 https://dfb6s2sy8m4fj.cloudfront.net/out/v1/46a75c8c38534b64902fcf3d080af7e2/index.m3u8
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012322.jpg" group-title="競輪2",豊橋2
 https://d21j4it98v7rxt.cloudfront.net/out/v1/0cc7bc9319734e6aaf26e6e402595df1/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010575.jpg" group-title="競輪2",富山
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010575.jpg" group-title="競輪2",富山(冬季休止中)
 https://cfl.st.keirin.jp/46/dash/46.mpd
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012274.jpg" group-title="競輪2",松阪2
 https://ds87bovfu9b2r.cloudfront.net/out/v1/e755c8d84ca84705815c267e18126bf9/index.m3u8
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012276.jpg" group-title="競輪2",四日市2
 https://d2qwtrte7v1vrk.cloudfront.net/out/v1/b09f11096a2449179ecc765450e5d70e/index_9.m3u8
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012278.jpg" group-title="競輪2",福井
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012278.jpg" group-title="競輪2",福井(冬季休止中)
 https://cfl.st.keirin.jp/51/dash/51.mpd
 #EXTINF:-1 tvg-logo="https://www.narakeirin.jp/img/footer_logo_01.png" group-title="競輪2",奈良2
 https://d39uosfxy3v3ex.cloudfront.net/out/v1/e405ba3f01604bc59a3657bdd988675b/index.m3u8
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012194.jpg" group-title="競輪2",向日町
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012194.jpg" group-title="競輪2",向日町(改装休止中)
 https://cfl.st.keirin.jp/54/dash/54.mpd
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010182.jpg" group-title="競輪2",和歌山2
 https://dnlnyxpzhof71.cloudfront.net/out/v1/dd8dee97c5c84d6a9da740c8b146b985/index_1.m3u8
@@ -245,7 +158,7 @@ https://dnlnyxpzhof71.cloudfront.net/out/v1/dd8dee97c5c84d6a9da740c8b146b985/ind
 https://cfl.st.keirin.jp/56/dash/56.mpd
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011966.jpg" group-title="競輪2",玉野2
 https://d2uq2b4l05jg6a.cloudfront.net/out/v1/68b69ddf47e146d98f9d1d67d31b6de2/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010495.jpg" group-title="競輪2",広島
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010495.jpg" group-title="競輪2",広島(改装休止中)
 https://cfl.st.keirin.jp/62/dash/62.mpd
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012237.jpg" group-title="競輪2",防府2
 https://dqvde69slajbu.cloudfront.net/out/v1/b7d49cbee81d41b589f4b5494e71f282/index.m3u8
@@ -269,6 +182,8 @@ https://d3ned0jklmmsf9.cloudfront.net/out/v1/f3d0b40d4fbb4d7d9469888af4944884/in
 https://cfl.st.keirin.jp/86/dash/86.mpd
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/000313.jpg" group-title="競輪2",熊本2
 https://d2m69fn251lhrf.cloudfront.net/out/v1/1fb24676fcbf458b964083925878052a/index_1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="競輪2",千葉Pist6
+https://duyycwqvxot9t.cloudfront.net/out/v1/769ad1fdda0d4e238f66e0b0f25edabb/index.m3u8
 #その他
 #EXTINF:-1 tvg-logo="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG6Xt-ACoeCN3MB9GAM7vzE_4QlB_g3_58-ihVutEq9IHzZ_r1TwdDaUwbAiaj_dFVlTIEbDpivAtAAX6xxx86yUl2d67I39Z3sJG0PZAiKTRRpXI8zagw7M7s6pqkyURoD3HZ3TneLrKqz_4LidfYnmZxyufeef55LtbH7OA3LmhXAEpX-XZ0EUF7tk4cxGt3bAtCTygSFjUO8b8Scd-wJqvBHB1k3Th2iFPpDZS_QYCG54QqpuBNzWNmFuKIGskJrMe4ZqT0bT3meHnGZMlZR4=/logo-65406-179-400x400.png" group-title="その他",BSよしもと
 https://drm.video.bsy.co.jp/ymbs/b25109aa4b3601/rxFNLYxONL-lpgenuqw_AQ/index.m3u8?t=1731596465&r=XZTSceSeo8bpRC
@@ -298,3 +213,88 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakut
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SwheroL.jpg" group-title="その他",ポケモン Kids TV
 https://ythls.armelin.one/channel/UCH0JJtRn2syic5xxavMKQ4Q.m3u8
+#競輪(公式)
+#EXTINF:-1 tvg-logo="https://8200234-next4-bucket-production.s3.ap-northeast-1.amazonaws.com/public/fixed-page/body/XNXeVc97oBSKROP3y20UaYmGeLDEMsdpM2YVDYk2.jpg" group-title="競輪",函館
+https://cfl.st.keirin.jp/11/dash/11.mpd
+#EXTINF:-1 tvg-logo="https://www.kyodo2023-aomori.com/img/common/footer_logo.png" group-title="競輪(公式)",青森
+https://cfl.st.keirin.jp/12/dash/12.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010860.jpg" group-title="競輪(公式)",いわき平
+https://cfl.st.keirin.jp/13/dash/13.mpd
+#EXTINF:-1 tvg-logo="https://www.yahikokeirin.com/wp-content/uploads/yahik_rogo4.png" group-title="競輪(公式)",弥彦
+https://cfl.st.keirin.jp/21/dash/21.mpd
+#EXTINF:-1 tvg-logo="https://www.maebashi-keirin.jp/wp-content/themes/maebashi-template/images/logo.png" group-title="競輪(公式)",前橋
+https://cfl.st.keirin.jp/22/dash/22.mpd
+#EXTINF:-1 tvg-logo="https://www.toride-keirin.com/assets/default/img/rogo02.png" group-title="競輪(公式)",取手
+https://cfl.st.keirin.jp/23/dash/23.mpd
+#EXTINF:-1 tvg-logo="https://utsunomiya-keirin.jp/img/logo.png" group-title="競輪(公式)",宇都宮
+https://cfl.st.keirin.jp/24/dash/24.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010037.jpg" group-title="競輪(公式)",大宮
+https://cfl.st.keirin.jp/25/dash/25.mpd
+#EXTINF:-1 tvg-logo="https://www.iizuka-auto.jp/images/rogo.png" group-title="競輪(公式)",西武園
+https://cfl.st.keirin.jp/26/dash/26.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011481.jpg" group-title="競輪(公式)",京王閣
+https://cfl.st.keirin.jp/27/dash/27.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011466.jpg" group-title="競輪(公式)",立川
+https://cfl.st.keirin.jp/28/dash/28.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010118.jpg" group-title="競輪(公式)",松戸
+https://cfl.st.keirin.jp/31/dash/31.mpd
+#EXTINF:-1 tvg-logo="https://www.kawasakikeirin.com/images/logo_kawasaki.png" group-title="競輪(公式)",川崎
+https://cfl.st.keirin.jp/34/dash/34.mpd
+#EXTINF:-1 tvg-logo="https://www.shonanbank.com/wp-content/themes/hiratsuka/img/abema_shonanbank_blue.png" group-title="競輪(公式)",平塚
+https://cfl.st.keirin.jp/35/dash/35.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012244.jpg" group-title="競輪(公式)",小田原
+https://cfl.st.keirin.jp/36/dash/36.mpd
+#EXTINF:-1 tvg-logo="https://www.itokeirin.com/img/logo.png" group-title="競輪(公式)",伊東温泉
+https://cfl.st.keirin.jp/37/dash/37.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010091.jpg" group-title="競輪(公式)",静岡
+https://cfl.st.keirin.jp/38/dash/38.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011199.jpg" group-title="競輪(公式)",名古屋
+https://cfl.st.keirin.jp/42/dash/42.mpd
+#EXTINF:-1 tvg-logo="https://www.gifukeirin.jp/kinen2022/img/logo.png" group-title="競輪(公式)",岐阜
+https://cfl.st.keirin.jp/43/dash/43.mpd
+#EXTINF:-1 tvg-logo="https://www.ogakikeirin.com/common/images/logos/logo.png?20190412" group-title="競輪(公式)",大垣
+https://cfl.st.keirin.jp/44/dash/44.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012322.jpg" group-title="競輪(公式)",豊橋
+https://cfl.st.keirin.jp/45/dash/45.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010575.jpg" group-title="競輪(公式)",富山
+https://cfl.st.keirin.jp/46/dash/46.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012274.jpg" group-title="競輪(公式)",松阪
+https://cfl.st.keirin.jp/47/dash/47.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012276.jpg" group-title="競輪(公式)",四日市
+https://cfl.st.keirin.jp/48/dash/48.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012278.jpg" group-title="競輪(公式)",福井
+https://cfl.st.keirin.jp/51/dash/51.mpd
+#EXTINF:-1 tvg-logo="https://www.narakeirin.jp/img/footer_logo_01.png" group-title="競輪(公式)",奈良
+https://cfl.st.keirin.jp/53/dash/53.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012194.jpg" group-title="競輪(公式)",向日町
+https://cfl.st.keirin.jp/54/dash/54.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010182.jpg" group-title="競輪(公式)",和歌山
+https://cfl.st.keirin.jp/55/dash/55.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012330.jpg" group-title="競輪(公式)",岸和田
+https://cfl.st.keirin.jp/56/dash/56.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011966.jpg" group-title="競輪(公式)",玉野
+https://cfl.st.keirin.jp/61/dash/61.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010495.jpg" group-title="競輪(公式)",広島
+https://cfl.st.keirin.jp/62/dash/62.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012237.jpg" group-title="競輪(公式)",防府
+https://cfl.st.keirin.jp/63/dash/63.mpd
+#EXTINF:-1 tvg-logo="https://www.takamatsu-keirin.com/assets/img/common/logo_f.png" group-title="競輪(公式)",高松
+https://cfl.st.keirin.jp/71/dash/71.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010707.jpg" group-title="競輪(公式)",小松島
+https://cfl.st.keirin.jp/73/dash/73.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011427.jpg" group-title="競輪(公式)",高知
+https://cfl.st.keirin.jp/74/dash/74.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012014.jpg" group-title="競輪(公式)",松山
+https://cfl.st.keirin.jp/75/dash/75.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012279.jpg" group-title="競輪(公式)",小倉
+https://cfl.st.keirin.jp/81/dash/81.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012074.jpg" group-title="競輪(公式)",久留米
+https://cfl.st.keirin.jp/83/dash/83.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011866.jpg" group-title="競輪(公式)",武雄
+https://cfl.st.keirin.jp/84/dash/84.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012243.jpg" group-title="競輪(公式)",佐世保
+https://cfl.st.keirin.jp/85/dash/85.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012281.jpg" group-title="競輪(公式)",別府
+https://cfl.st.keirin.jp/86/dash/86.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/000313.jpg" group-title="競輪(公式)",熊本
+https://cfl.st.keirin.jp/87/dash/87.mpd
