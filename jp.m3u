@@ -247,8 +247,8 @@ https://cfl.st.keirin.jp/56/dash/56.mpd
 https://d2uq2b4l05jg6a.cloudfront.net/out/v1/68b69ddf47e146d98f9d1d67d31b6de2/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010495.jpg" group-title="競輪2",広島
 https://cfl.st.keirin.jp/62/dash/62.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012237.jpg" group-title="競輪2",防府
-https://cfl.st.keirin.jp/63/dash/63.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012237.jpg" group-title="競輪2",防府2
+https://dqvde69slajbu.cloudfront.net/out/v1/b7d49cbee81d41b589f4b5494e71f282/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.takamatsu-keirin.com/assets/img/common/logo_f.png" group-title="競輪2",高松2
 https://d20jzsap8ax0i2.cloudfront.net/out/v1/2dabf5a556dd4bfbb75c28537be02c2f/index_9.m3u8
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010707.jpg" group-title="競輪2",小松島2
