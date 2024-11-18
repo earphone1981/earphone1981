@@ -154,8 +154,8 @@ https://d39uosfxy3v3ex.cloudfront.net/out/v1/e405ba3f01604bc59a3657bdd988675b/in
 https://cfl.st.keirin.jp/54/dash/54.mpd
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010182.jpg" group-title="競輪2",和歌山2
 https://dnlnyxpzhof71.cloudfront.net/out/v1/dd8dee97c5c84d6a9da740c8b146b985/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012330.jpg" group-title="競輪",岸和田
-https://cfl.st.keirin.jp/56/dash/56.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012330.jpg" group-title="競輪2",岸和田2
+https://d327j1m2owk3qs.cloudfront.net/out/v1/6506022445bc485ba601599264a7f957/index.m3u8
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011966.jpg" group-title="競輪2",玉野2
 https://d2uq2b4l05jg6a.cloudfront.net/out/v1/68b69ddf47e146d98f9d1d67d31b6de2/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010495.jpg" group-title="競輪2",広島(改装休止中)
