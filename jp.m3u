@@ -5,6 +5,18 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz,https://epg.djtmewibu.com/jcom.xml" tvg-shift=0 m3uautoload=1
 
 #ボートレース
+#EXTINF:-1 tvg-id="JLC1.jp"group-title="ボートレース" ,jlc1
+http://google.com
+#EXTINF:-1 tvg-id="JLC2.jp"group-title="ボートレース" ,jlc2
+http://google.com
+#EXTINF:-1 tvg-id="JLC3.jp"group-title="ボートレース" ,jlc3
+http://google.com
+#EXTINF:-1 tvg-id="JLC4.jp"group-title="ボートレース" ,jlc4
+http://google.com
+#EXTINF:-1 tvg-id="JLC5.jp"group-title="ボートレース" ,jlc5
+http://google.com
+#EXTINF:-1 tvg-id="JLC6.jp"group-title="ボートレース" ,jlc6
+http://google.com
 #EXTINF:-1 tvg-id="JLC.jp" tvg-logo="http://www.kiryu-kyotei.com/themes/kiryu/images/common/logo_header_01_1.png" group-title="ボートレース",桐生(ナイター) 
 https://br-rp-stadium-01-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-01-live/brlive/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.boatrace.jp/static/uploads/sites/4/2021/09/0b8deafb5972b9edaa7144bbe486cde7-391x250.png" group-title="ボートレース",戸田
