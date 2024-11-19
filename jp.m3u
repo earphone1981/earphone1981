@@ -124,8 +124,8 @@ https://d1k0zwbhpej0or.cloudfront.net/out/v1/1b4717ba26ca42e09066b373c5f296a4/in
 https://d3n5p1k00kshap.cloudfront.net/out/v1/84eb6113cff44686b6af39f71d4344a1/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://utsunomiya-keirin.jp/img/logo.png" group-title="競輪2",宇都宮
 https://cfl.st.keirin.jp/24/dash/24.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010037.jpg" group-title="競輪2",大宮
-https://cfl.st.keirin.jp/25/dash/25.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010037.jpg" group-title="競輪2",大宮2
+https://dtobnwhel29h8.cloudfront.net/out/v1/932d55421d9d49deb1a64be99899d402/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.iizuka-auto.jp/images/rogo.png" group-title="競輪2",西武園2
 https://dglu799jz6q5s.cloudfront.net/out/v1/42285a6d8aa7415d9cd14ff4a9e4127a/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011481.jpg" group-title="競輪2",京王閣2
@@ -190,8 +190,8 @@ https://cfl.st.keirin.jp/83/dash/83.mpd
 https://d30l40wf0q5flx.cloudfront.net/out/v1/cc007464a1254ff9ac7e0644fdc230b5/index.m3u8
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012243.jpg" group-title="競輪2",佐世保2
 https://d3ned0jklmmsf9.cloudfront.net/out/v1/f3d0b40d4fbb4d7d9469888af4944884/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012281.jpg" group-title="競輪2",別府
-https://cfl.st.keirin.jp/86/dash/86.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012281.jpg" group-title="競輪2",別府2
+https://d2cnginkpbghia.cloudfront.net/out/v1/6955332159294a8a93b45370d4b356bf/index.m3u8
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/000313.jpg" group-title="競輪2",熊本2
 https://d2m69fn251lhrf.cloudfront.net/out/v1/1fb24676fcbf458b964083925878052a/index_1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="競輪2",千葉Pist6
