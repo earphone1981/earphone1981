@@ -140,8 +140,8 @@ https://d19fq96jx01oj3.cloudfront.net/out/v1/5648c4b609c248d9a6a23080241da3e8/in
 https://d1fozgui02sgex.cloudfront.net/out/v1/e5b143c0b1c84a728bd58d264d6f2492/index_13.m3u8
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012244.jpg" group-title="競輪2",小田原
 https://cfl.st.keirin.jp/36/dash/36.mpd
-#EXTINF:-1 tvg-logo="https://www.itokeirin.com/img/logo.png" group-title="競輪2",伊東温泉
-https://cfl.st.keirin.jp/37/dash/37.mpd
+#EXTINF:-1 tvg-logo="https://www.itokeirin.com/img/logo.png" group-title="競輪2",伊東温泉2
+https://d1ziw7o7biw5lw.cloudfront.net/out/v1/b9fb027896494e27b702da5caa624c08/index.m3u8
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010091.jpg" group-title="競輪2",静岡
 https://cfl.st.keirin.jp/38/dash/38.mpd
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011199.jpg" group-title="競輪2",名古屋
