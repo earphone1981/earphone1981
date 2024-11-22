@@ -225,8 +225,8 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakut
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SwheroL.jpg" group-title="その他",ポケモン Kids TV
 https://ythls.armelin.one/channel/UCH0JJtRn2syic5xxavMKQ4Q.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SwheroL.jpg" group-title="その他",高校野球　神宮大会
-https://dai.google.com/linear/hls/pb/event/kMut1KtJRyGLC8Y9kslyWw/stream/74e86011-7aba-4fc4-8e1b-e393a5b75408:SIN/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SwheroL.jpg" group-title="その他",高校野球　神宮
+https://dai.google.com/linear/hls/pb/event/kMut1KtJRyGLC8Y9kslyWw/stream/f550cdd4-33aa-4f96-a41c-fcde9cb2c2cd:SIN/master.m3u8
 #競輪(公式)
 #EXTINF:-1 tvg-logo="https://8200234-next4-bucket-production.s3.ap-northeast-1.amazonaws.com/public/fixed-page/body/XNXeVc97oBSKROP3y20UaYmGeLDEMsdpM2YVDYk2.jpg" group-title="競輪(公式)",函館
 https://cfl.st.keirin.jp/11/dash/11.mpd
