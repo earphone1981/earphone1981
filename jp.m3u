@@ -54,7 +54,7 @@ https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-
 #EXTINF:-1 tvg-logo="https://www.boatrace-tokuyama.jp/themes/tokuyama/images/common/log-header.png" group-title="ボートレース",徳山
 https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-18-live/brlive/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.boatrace-shimonoseki.jp/cdn/pc/images/common/img_logo.png" group-title="ボートレース",下関(ナイター)
-https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-19-live/brlive/chunklist.m3u8
+https://br-rp-mix-19-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-mix-19-live/brlive/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.wmb.jp/img/common/h_logo.gif" group-title="ボートレース",若松(ナイター)
 https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-20-live/brlive/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ9wKnjx_a9Clcau8CQ3hWoc1Prr_H0PLGaA&s" group-title="ボートレース",芦屋
@@ -225,6 +225,8 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakut
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SwheroL.jpg" group-title="その他",ポケモン Kids TV
 https://ythls.armelin.one/channel/UCH0JJtRn2syic5xxavMKQ4Q.m3u8
+#EXTINF:-1 tvg-id="テレビ東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="その他",テレビ東京 (Tver)
+https://ssai-variants.streaks.jp/v5/tver-simul-tx/035622a82bcb46bc8e41ca5351f95a00/3887c96991ce4ae1bec43ea19f24c4d5/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-177-8159/c01e1ad5-c73c-4791-833c-840e875e7912/0.m3u8?pdt=-11060&session=c01e1ad5-c73c-4791-833c-840e875e7912&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTExMDYwIn0.i4JohkjR165q4VWqLAazOX5tdMvDsqocX9IS20CnOug
 #競輪(公式)
 #EXTINF:-1 tvg-logo="https://8200234-next4-bucket-production.s3.ap-northeast-1.amazonaws.com/public/fixed-page/body/XNXeVc97oBSKROP3y20UaYmGeLDEMsdpM2YVDYk2.jpg" group-title="競輪(公式)",函館
 https://cfl.st.keirin.jp/11/dash/11.mpd
