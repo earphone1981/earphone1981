@@ -92,6 +92,8 @@ http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/saga5.m3
 https://ssl-cache.stream.ne.jp/www50/eqj128pfeu/jmc_pub/liveplaylist/v2/1_standard.m3u8
 #EXTINF:-1 tvg-id="green_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png" group-title="競馬",グリーンチャンネル
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380909&sign=8a276f69153b498529df2f6706775d2ff51545bfb8cfdcff88c2b36f28df8f9a
+#EXTINF:-1 tvg-id="green_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png" group-title="競馬",グリーン チャンネル2nd
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732800412&sign=53e31853a343a676dd522e938dc45806b6462fafe7344ee9015a9455566b5081
 #オートレース
 #EXTINF:-1 tvg-logo="https://www.kawaguchiauto.jp/wp-content/themes/kawaguchi-ar_temp/images/common/logo@2x.png" group-title="オートレース",川口
 https://autorace-live.akamaized.net/hls/live/2036917/id2/streaming/media.m3u8
@@ -386,16 +388,6 @@ https://ds-linear-abematv.akamaized.net/preview/channel/commercial/playlist.m3u8
 https://ds-linear-abematv.akamaized.net/preview/channel/boatrace/playlist.m3u8
 #EXTINF:-1 tvg-id="keirin-auto" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/keirin-auto/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Abema 240p" ,競輪・オートレースチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/keirin-auto/playlist.m3u8
-#EXTINF:-1 group-title="new prime" tvg-id="nhkg_tokyo" tvg-logo="https://i.imgur.com/mAR2Jlh.jpeg", NHK G 
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772156&sign=238bf35e4528ba0d32e9d139ad3c9070904ff88d5066539c084d97ae7c103914
-#EXTINF:-1 group-title="new prime" tvg-id="nhke_tokyo" tvg-logo="https://i.imgur.com/peRnlJo.jpeg", NHK E
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772996&sign=9646a534ad6906c18eb09c5322f156f80622179c0ca0f69da4d4ba2850ad7838
-#EXTINF:-1 group-title="new prime" tvg-id="ntv" tvg-logo="https://i.imgur.com/oIfp5K3.jpeg", 日本テレビ 
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772996&sign=9646a534ad6906c18eb09c5322f156f80622179c0ca0f69da4d4ba2850ad7838
-#EXTINF:-1 group-title="new prime" tvg-id="tbs" tvg-logo="https://i.imgur.com/97Eiqg8.jpeg", TBS
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772996&sign=9646a534ad6906c18eb09c5322f156f80622179c0ca0f69da4d4ba2850ad7838
-#EXTINF:-1 group-title="new prime" tvg-id="fuji_tv" tvg-logo="https://i.imgur.com/TF3Sauu.jpeg", フジテレビ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772996&sign=9646a534ad6906c18eb09c5322f156f80622179c0ca0f69da4d4ba2850ad7838
 #EXTINF:-1 group-title="new prime" tvg-id="tv_asahi" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE5-051-400x400.png", テレビ朝日
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772975&sign=4ce4ab2111cc1a2e422e2f9c63f9b5995262c3c5c6d6fc5f485e04b0d0321795
 #EXTINF:-1 group-title="new prime" tvg-id="tv_tokyo" tvg-logo="https://i.imgur.com/ji2Sueo.jpeg", テレビ東京
@@ -418,5 +410,4 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=7&bi
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772965&sign=13d45b3a02c743f6f2ca76ee2bef23c4a76ff9644f5527a004661f6026316534
 #EXTINF:-1 group-title="new prime" tvg-id="nhk_bsp4k" tvg-logo="https://i.imgur.com/cqZMier.jpeg", NHK BSP 4K
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772939&sign=b81b2215d0d8954e7c9ed0fa3fdc67fe314143109ec424cdc7c700df7af78651
-#EXTINF:-1 group-title="new prime" tvg-id="green_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーン チャンネル2nd
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732800412&sign=53e31853a343a676dd522e938dc45806b6462fafe7344ee9015a9455566b5081
+
