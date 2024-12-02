@@ -94,6 +94,8 @@ https://ssl-cache.stream.ne.jp/www50/eqj128pfeu/jmc_pub/liveplaylist/v2/1_standa
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380909&sign=8a276f69153b498529df2f6706775d2ff51545bfb8cfdcff88c2b36f28df8f9a
 #EXTINF:-1 tvg-id="green_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png" group-title="競馬",グリーン チャンネル2nd
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732800412&sign=53e31853a343a676dd522e938dc45806b6462fafe7344ee9015a9455566b5081
+#EXTINF:-1 tvg-id="green_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png" group-title="競馬",グリーン チャンネル3rd
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772956&sign=bcebbbccbdf23707540bad547ce067b66856e87b597f5c9ad8133ba372f87bb7
 #オートレース
 #EXTINF:-1 tvg-logo="https://www.kawaguchiauto.jp/wp-content/themes/kawaguchi-ar_temp/images/common/logo@2x.png" group-title="オートレース",川口
 https://autorace-live.akamaized.net/hls/live/2036917/id2/streaming/media.m3u8
