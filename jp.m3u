@@ -198,7 +198,7 @@ https://d2m69fn251lhrf.cloudfront.net/out/v1/1fb24676fcbf458b964083925878052a/in
 https://duyycwqvxot9t.cloudfront.net/out/v1/769ad1fdda0d4e238f66e0b0f25edabb/index.m3u8
 #その他
 #EXTINF:-1 tvg-logo="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG6Xt-ACoeCN3MB9GAM7vzE_4QlB_g3_58-ihVutEq9IHzZ_r1TwdDaUwbAiaj_dFVlTIEbDpivAtAAX6xxx86yUl2d67I39Z3sJG0PZAiKTRRpXI8zagw7M7s6pqkyURoD3HZ3TneLrKqz_4LidfYnmZxyufeef55LtbH7OA3LmhXAEpX-XZ0EUF7tk4cxGt3bAtCTygSFjUO8b8Scd-wJqvBHB1k3Th2iFPpDZS_QYCG54QqpuBNzWNmFuKIGskJrMe4ZqT0bT3meHnGZMlZR4=/logo-65406-179-400x400.png" group-title="その他",BSよしもと
-https://drm.video.bsy.co.jp/ymbs/b25109aa4b3601/xGZynTL76QvySJs72tXZHg/index.m3u8?t=1732668842&r=Fi8q1QH597FRZl
+https://drm.video.bsy.co.jp/ymbs/b25109aa4b3601/ju9xHwfr3oJ2QBzL0xfuxg/index_1.m3u8?t=1733311663&r=hgobFcq1aINGGM
 #EXTINF:-1 tvg-logo="https://www.city.matsuyama.ehime.jp/images/2021_top_title.png" group-title="その他",松山市議会中継
 https://cdn-ecatv-stream.durasite.net/live/ms_gikai/chunklist_w152985868.m3u8
 #EXTINF:-1 tvg-logo="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG_-cMwnEF_9yxZr5x-1Yd21q8SEeSDdwRD9doioeL5uLYbPwJnuAPx174aQVwaw1NVPqBFXaFNopDeaogjSnmsCMGjdgSZvVanY01bYg72S7zmqCWkgRxLrlmZRY1_zNFFZP4rUyRuBLumsyhB8kt9IEqa9jpiKnnfIC_xngNXt_frHW7s8TeEWPW1CX056crQ==/X315129_3L1.jpg?errorImage=false" group-title="その他",愛媛県議会中継
@@ -305,22 +305,37 @@ https://ds-linear-abematv.akamaized.net/preview/channel/commercial/playlist.m3u8
 https://ds-linear-abematv.akamaized.net/preview/channel/boatrace/playlist.m3u8
 #EXTINF:-1 tvg-id="keirin-auto" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/keirin-auto/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Abema 240p" ,競輪・オートレースチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/keirin-auto/playlist.m3u8
-#EXTINF:-1 group-title="new prime" tvg-id="tv_asahi" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE5-051-400x400.png", テレビ朝日
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772975&sign=4ce4ab2111cc1a2e422e2f9c63f9b5995262c3c5c6d6fc5f485e04b0d0321795
 #EXTINF:-1 group-title="new prime" tvg-id="tv_tokyo" tvg-logo="https://i.imgur.com/ji2Sueo.jpeg", テレビ東京
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772975&sign=4ce4ab2111cc1a2e422e2f9c63f9b5995262c3c5c6d6fc5f485e04b0d0321795
+#EXTINF:-1 group-title="new prime" tvg-id="tv_tokyo" tvg-logo="https://i.imgur.com/ji2Sueo.jpeg", テレビ東京
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772939&sign=b81b2215d0d8954e7c9ed0fa3fdc67fe314143109ec424cdc7c700df7af78651
 #EXTINF:-1 group-title="new prime" tvg-id="tokyo_mx" tvg-logo="https://i.imgur.com/3qhjzsB.jpeg", TOKYO MX
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772970&sign=498184efda0887f8d4bf7c9db688072421a95f0013c34712505ac434f7245db5
+#EXTINF:-1 group-title="new prime" tvg-id="TokyoMX2.jp" tvg-logo=="https://i.imgur.com/3qhjzsB.jpeg", TOKYO MX2
+http://tv.utako.moe/mx2_testsignal/index.m3u8
 #EXTINF:-1 group-title="new prime" tvg-id="mbs" tvg-logo="https://i.imgur.com/gIHXr39.png", MBS毎日放送
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772961&sign=778fe2a2b7985bd9b78fbd14e772aa48ffed923bb310cf5d0490ff8639822fc3
+#EXTINF:-1 group-title="new prime" tvg-id="mbs" tvg-logo="https://i.imgur.com/gIHXr39.png", MBS毎日放送2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380926&sign=6346ec716f9c73ecce541b471ce81a20ed521c47665b085bb075ffd9eba93328
 #EXTINF:-1 group-title="new prime" tvg-id="abc" tvg-logo="https://i.imgur.com/5LEKfWh.png", ABC朝日放送
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772956&sign=bcebbbccbdf23707540bad547ce067b66856e87b597f5c9ad8133ba372f87bb7
-#EXTINF:-1 group-title="new prime" tvg-id="nhkg_osaka" tvg-logo="https://i.imgur.com/mAR2Jlh.jpeg", NHK G 大阪
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772965&sign=13d45b3a02c743f6f2ca76ee2bef23c4a76ff9644f5527a004661f6026316534
+#EXTINF:-1 group-title="new prime" tvg-id="abc" tvg-logo="https://i.imgur.com/5LEKfWh.png", ABC朝日放送2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380926&sign=6346ec716f9c73ecce541b471ce81a20ed521c47665b085bb075ffd9eba93328
 #EXTINF:-1 group-title="new prime" tvg-id="sun_tv" tvg-logo="https://i.pinimg.com/474x/f2/84/98/f284984badded818e289616e7e50c318.jpg", サンテレビ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772965&sign=13d45b3a02c743f6f2ca76ee2bef23c4a76ff9644f5527a004661f6026316534
+#EXTINF:-1 group-title="new prime" tvg-id="sun_tv" tvg-logo="https://i.pinimg.com/474x/f2/84/98/f284984badded818e289616e7e50c318.jpg", サンテレビ2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380926&sign=6346ec716f9c73ecce541b471ce81a20ed521c47665b085bb075ffd9eba93328
 #EXTINF:-1 group-title="new prime" tvg-id="nhk_bsp4k" tvg-logo="https://i.imgur.com/cqZMier.jpeg", NHK BSP 4K
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772939&sign=b81b2215d0d8954e7c9ed0fa3fdc67fe314143109ec424cdc7c700df7af78651
 #EXTINF:-1 group-title="new prime" tvg-id="kansai_tv" tvg-logo="https://i.imgur.com/gr54fEO.jpeg", KTV関西テレビ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772952&sign=899c5a2081e143d6235609a6005ec43eeef71cc97eb9d8d213616aad7020394a
-
+#EXTINF:-1 group-title="new prime" tvg-id="kansai_tv" tvg-logo="https://i.imgur.com/gr54fEO.jpeg", KTV関西テレビ2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772939&sign=b81b2215d0d8954e7c9ed0fa3fdc67fe314143109ec424cdc7c700df7af78651
+#EXTINF:-1 group-title="new prime" tvg-id="yormuri_tv" tvg-logo="https://i.imgur.com/xXyPAUP.jpeg", YTV読売テレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772946&sign=ef60f10357d337fb179256b57376d388a68f5c98bd24e701e6abdb4133ee34df
+#EXTINF:-1 group-title="new prime" tvg-id="yormuri_tv" tvg-logo="https://i.imgur.com/xXyPAUP.jpeg", YTV読売テレビ2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772939&sign=b81b2215d0d8954e7c9ed0fa3fdc67fe314143109ec424cdc7c700df7af78651
+#EXTINF:-1 group-title="new prime" tvg-id="tv_osaka" tvg-logo="https://i.imgur.com/0ZZDaKi.jpeg",テレビ大阪
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772939&sign=b81b2215d0d8954e7c9ed0fa3fdc67fe314143109ec424cdc7c700df7af78651
+#EXTINF:-1 group-title="new prime" tvg-id="tv_osaka" tvg-logo="https://i.imgur.com/0ZZDaKi.jpeg",テレビ大阪2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772943&sign=191c81df1c50ba0fdb707b25da1f34969bf4564b9d5c0e1a8469105db757377f
