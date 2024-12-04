@@ -316,7 +316,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=7&bi
 #EXTINF:-1 group-title="new prime" tvg-id="abc" tvg-logo="https://i.imgur.com/5LEKfWh.png", ABC朝日放送
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772975&sign=4ce4ab2111cc1a2e422e2f9c63f9b5995262c3c5c6d6fc5f485e04b0d0321795
 #EXTINF:-1 group-title="new prime" tvg-id="sun_tv" tvg-logo="https://i.pinimg.com/474x/f2/84/98/f284984badded818e289616e7e50c318.jpg", サンテレビ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772965&sign=13d45b3a02c743f6f2ca76ee2bef23c4a76ff9644f5527a004661f6026316534
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772975&sign=4ce4ab2111cc1a2e422e2f9c63f9b5995262c3c5c6d6fc5f485e04b0d0321795
 #EXTINF:-1 group-title="new prime" tvg-id="nhk_bsp4k" tvg-logo="https://i.imgur.com/cqZMier.jpeg", NHK BSP 4K
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772975&sign=4ce4ab2111cc1a2e422e2f9c63f9b5995262c3c5c6d6fc5f485e04b0d0321795
 #EXTINF:-1 group-title="new prime" tvg-id="kansai_tv" tvg-logo="https://i.imgur.com/gr54fEO.jpeg", KTV関西テレビ
