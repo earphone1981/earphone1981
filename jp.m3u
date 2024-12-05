@@ -98,7 +98,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=7&bi
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772975&sign=4ce4ab2111cc1a2e422e2f9c63f9b5995262c3c5c6d6fc5f485e04b0d0321795
 #EXTINF:-1 tvg-id="green_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png" group-title="競馬",グリーン チャンネル3rd
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772956&sign=bcebbbccbdf23707540bad547ce067b66856e87b597f5c9ad8133ba372f87bb7
-#EXTINF:-1 group-title="競馬" tvg-id="TokyoMX2.jp" tvg-logo=="https://i.imgur.com/3qhjzsB.jpeg", TOKYO MX2
+#EXTINF:-1 group-title="競馬" tvg-id="TokyoMX2.jp" tvg-logo=="https://i.imgur.com/3qhjzsB.jpeg",TOKYO MX2
 http://tv.utako.moe/mx2_testsignal/index.m3u8
 #オートレース
 #EXTINF:-1 tvg-logo="https://www.kawaguchiauto.jp/wp-content/themes/kawaguchi-ar_temp/images/common/logo@2x.png" group-title="オートレース",川口
@@ -307,5 +307,3 @@ https://ds-linear-abematv.akamaized.net/preview/channel/commercial/playlist.m3u8
 https://ds-linear-abematv.akamaized.net/preview/channel/boatrace/playlist.m3u8
 #EXTINF:-1 tvg-id="keirin-auto" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/keirin-auto/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Abema 240p" ,競輪・オートレースチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/keirin-auto/playlist.m3u8
-#EXTINF:-1 group-title="new prime" tvg-id="TokyoMX2.jp" tvg-logo=="https://i.imgur.com/3qhjzsB.jpeg", TOKYO MX2
-http://tv.utako.moe/mx2_testsignal/index.m3u8
