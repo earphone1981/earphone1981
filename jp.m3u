@@ -146,8 +146,8 @@ https://cfl.st.keirin.jp/36/dash/36.mpd
 https://d1ziw7o7biw5lw.cloudfront.net/out/v1/b9fb027896494e27b702da5caa624c08/index.m3u8
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010091.jpg" group-title="競輪2",静岡2
 https://d2zw3hk976cigz.cloudfront.net/out/v1/d88039ca0c144c4c897e3d05c70d24e9/index.m3u8
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011199.jpg" group-title="競輪2",名古屋
-https://cfl.st.keirin.jp/42/dash/42.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011199.jpg" group-title="競輪2",名古屋2
+https://d3vgcjt9ja8dpm.cloudfront.net/out/v1/5d8c23f974b24ba09c210e8f9fec6595/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.gifukeirin.jp/kinen2022/img/logo.png" group-title="競輪2",岐阜2
 https://dhwnzvxv6smzu.cloudfront.net/out/v1/8aeb71175e4d4f818d765c6471f10602/index_4.m3u8
 #EXTINF:-1 tvg-logo="https://www.ogakikeirin.com/common/images/logos/logo.png?20190412" group-title="競輪2",大垣2
