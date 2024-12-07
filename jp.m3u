@@ -124,8 +124,8 @@ https://cfl.st.keirin.jp/21/dash/21.mpd
 https://d1k0zwbhpej0or.cloudfront.net/out/v1/1b4717ba26ca42e09066b373c5f296a4/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.toride-keirin.com/assets/default/img/rogo02.png" group-title="競輪2",取手2
 https://d3n5p1k00kshap.cloudfront.net/out/v1/84eb6113cff44686b6af39f71d4344a1/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://utsunomiya-keirin.jp/img/logo.png" group-title="競輪2",宇都宮
-https://cfl.st.keirin.jp/24/dash/24.mpd
+#EXTINF:-1 tvg-logo="https://utsunomiya-keirin.jp/img/logo.png" group-title="競輪2",宇都宮2
+https://d1bbh9hna9i29a.cloudfront.net/out/v1/b7a1f334e53d4f6d8c0feb6bd08cfa02/index.m3u8
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010037.jpg" group-title="競輪2",大宮2
 https://dtobnwhel29h8.cloudfront.net/out/v1/932d55421d9d49deb1a64be99899d402/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.iizuka-auto.jp/images/rogo.png" group-title="競輪2",西武園2
