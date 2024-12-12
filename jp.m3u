@@ -97,10 +97,20 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=7&bi
 #EXTINF:-1 tvg-id="green_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png" group-title="競馬",グリーン チャンネル2nd
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772975&sign=4ce4ab2111cc1a2e422e2f9c63f9b5995262c3c5c6d6fc5f485e04b0d0321795
 #EXTINF:-1 tvg-id="green_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png" group-title="競馬",グリーン チャンネル3rd
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732800412&sign=53e31853a343a676dd522e938dc45806b6462fafe7344ee9015a9455566b5081
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=6&bind=0&uin=201829&playseek=0&timestamp=1732800412&sign=53e31853a343a676dd522e938dc45806b6462fafe7344ee9015a9455566b5081
+#EXTINF:-1 group-title="競馬" tvg-id="tokyo_mx" tvg-logo="https://i.imgur.com/3qhjzsB.jpeg", TOKYO MX
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380901&sign=ea0ac4f478a153459837b15f18ee9c139e9c3feaaa5e6454f76a813b10074c1b
 #EXTINF:-1 group-title="競馬" tvg-id="TokyoMX2.jp" tvg-logo="https://i.imgur.com/3qhjzsB.jpeg",TOKYO MX2
 http://tv.utako.moe/mx2_testsignal/index.m3u8
+#EXTINF:-1 group-title="競馬" tvg-id="fuji_tv" tvg-logo="https://i.imgur.com/TF3Sauu.jpeg", フジテレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380901&sign=ea0ac4f478a153459837b15f18ee9c139e9c3feaaa5e6454f76a813b10074c1b
+#EXTINF:-1 group-title="競馬" tvg-id="tv_tokyo" tvg-logo="https://i.imgur.com/ji2Sueo.jpeg", テレビ東京
+cid=gd07&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380901&sign=ea0ac4f478a153459837b15f18ee9c139e9c3feaaa5e6454f76a813b10074c1b
+#EXTINF:-1 group-title="競馬" tvg-id="tv_tokyo" tvg-logo="https://i.imgur.com/ji2Sueo.jpeg", テレビ東京2
+http://103.255.250.202:5002/gd07.m3u8?token=1ca7ca77aa446a6f4591f91bafd6181e78fac6a2e797579f155e56f9dc736ca0&gid=bs04&channel=zhongying
+
 #オートレース
+
 #EXTINF:-1 tvg-logo="https://www.kawaguchiauto.jp/wp-content/themes/kawaguchi-ar_temp/images/common/logo@2x.png" group-title="オートレース",川口
 https://autorace-live.akamaized.net/hls/live/2036917/id2/streaming/media.m3u8
 #EXTINF:-1 tvg-logo="https://isesaki-auto.jp/wp-content/themes/isesakiauto2021/img/header_logo.png" group-title="オートレース",伊勢崎
@@ -111,96 +121,102 @@ https://autorace-live.akamaized.net/hls/live/2036917/id4/streaming/media.m3u8
 https://autorace-live.akamaized.net/hls/live/2036917-b/id5/streaming/media.m3u8
 #EXTINF:-1 tvg-logo="https://autorace.jp/news/37th/img/logo-sanyo.png" group-title="オートレース",山陽
 https://autorace-live.akamaized.net/hls/live/2036917-b/id6/streaming/media.m3u8
+
+#競輪(TIPSTAR)
+
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010860.jpg" group-title="競輪(TIPSTAR)",いわき平2
+https://d23qgpjepvhwta.cloudfront.net/out/v1/780e6abc75d24525a95b9998b0892a86/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.maebashi-keirin.jp/wp-content/themes/maebashi-template/images/logo.png" group-title="競輪(TIPSTAR)",前橋2
+https://d1k0zwbhpej0or.cloudfront.net/out/v1/1b4717ba26ca42e09066b373c5f296a4/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.toride-keirin.com/assets/default/img/rogo02.png" group-title="競輪(TIPSTAR)",取手2
+https://d3n5p1k00kshap.cloudfront.net/out/v1/84eb6113cff44686b6af39f71d4344a1/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://utsunomiya-keirin.jp/img/logo.png" group-title="競輪(TIPSTAR)",宇都宮2
+https://d1bbh9hna9i29a.cloudfront.net/out/v1/b7a1f334e53d4f6d8c0feb6bd08cfa02/index.m3u8
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010037.jpg" group-title="競輪(TIPSTAR)",大宮2
+https://dtobnwhel29h8.cloudfront.net/out/v1/932d55421d9d49deb1a64be99899d402/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.iizuka-auto.jp/images/rogo.png" group-title="競輪(TIPSTAR)",西武園2
+https://dglu799jz6q5s.cloudfront.net/out/v1/42285a6d8aa7415d9cd14ff4a9e4127a/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011481.jpg" group-title="競輪(TIPSTAR)",京王閣2
+https://dzrovda3802mb.cloudfront.net/out/v1/cae23cf64f45479a9adc8375c7bc9243/index.m3u8
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011466.jpg" group-title="競輪(TIPSTAR)",立川2
+https://d1tu50d3glwfd3.cloudfront.net/out/v1/fb4d91b4805a48bb8c3ed3da9dfc8a17/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010118.jpg" group-title="競輪(TIPSTAR)",松戸2
+https://d3um80ws33iv2t.cloudfront.net/out/v1/b573e645e5de40c999eecfe4e7221fe0/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.kawasakikeirin.com/images/logo_kawasaki.png" group-title="競輪(TIPSTAR)",川崎2
+https://d19fq96jx01oj3.cloudfront.net/out/v1/5648c4b609c248d9a6a23080241da3e8/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.shonanbank.com/wp-content/themes/hiratsuka/img/abema_shonanbank_blue.png" group-title="競輪(TIPSTAR)",平塚2
+https://d1fozgui02sgex.cloudfront.net/out/v1/e5b143c0b1c84a728bd58d264d6f2492/index_13.m3u8
+#EXTINF:-1 tvg-logo="https://www.itokeirin.com/img/logo.png" group-title="競輪(TIPSTAR)",伊東温泉2
+https://d1ziw7o7biw5lw.cloudfront.net/out/v1/b9fb027896494e27b702da5caa624c08/index.m3u8
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010091.jpg" group-title="競輪(TIPSTAR)",静岡2
+https://d2zw3hk976cigz.cloudfront.net/out/v1/d88039ca0c144c4c897e3d05c70d24e9/index.m3u8
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011199.jpg" group-title="競輪(TIPSTAR)",名古屋2
+https://d3vgcjt9ja8dpm.cloudfront.net/out/v1/5d8c23f974b24ba09c210e8f9fec6595/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.gifukeirin.jp/kinen2022/img/logo.png" group-title="競輪(TIPSTAR)",岐阜2
+https://dhwnzvxv6smzu.cloudfront.net/out/v1/8aeb71175e4d4f818d765c6471f10602/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://www.ogakikeirin.com/common/images/logos/logo.png?20190412" group-title="競輪(TIPSTAR)",大垣2
+https://dfb6s2sy8m4fj.cloudfront.net/out/v1/46a75c8c38534b64902fcf3d080af7e2/index.m3u8
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012322.jpg" group-title="競輪(TIPSTAR)",豊橋2
+https://d21j4it98v7rxt.cloudfront.net/out/v1/0cc7bc9319734e6aaf26e6e402595df1/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012274.jpg" group-title="競輪(TIPSTAR)",松阪2
+https://ds87bovfu9b2r.cloudfront.net/out/v1/e755c8d84ca84705815c267e18126bf9/index.m3u8
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012276.jpg" group-title="競輪(TIPSTAR)",四日市2
+https://d2qwtrte7v1vrk.cloudfront.net/out/v1/b09f11096a2449179ecc765450e5d70e/index_9.m3u8
+#EXTINF:-1 tvg-logo="https://www.narakeirin.jp/img/footer_logo_01.png" group-title="競輪(TIPSTAR)",奈良2
+https://d39uosfxy3v3ex.cloudfront.net/out/v1/e405ba3f01604bc59a3657bdd988675b/index.m3u8
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010182.jpg" group-title="競輪(TIPSTAR)",和歌山2
+https://dnlnyxpzhof71.cloudfront.net/out/v1/dd8dee97c5c84d6a9da740c8b146b985/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012330.jpg" group-title="競輪(TIPSTAR)",岸和田2
+https://d327j1m2owk3qs.cloudfront.net/out/v1/6506022445bc485ba601599264a7f957/index.m3u8
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011966.jpg" group-title="競輪(TIPSTAR)",玉野2
+https://d2uq2b4l05jg6a.cloudfront.net/out/v1/68b69ddf47e146d98f9d1d67d31b6de2/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012237.jpg" group-title="競輪(TIPSTAR)",防府2
+https://dqvde69slajbu.cloudfront.net/out/v1/b7d49cbee81d41b589f4b5494e71f282/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.takamatsu-keirin.com/assets/img/common/logo_f.png" group-title="競輪(TIPSTAR)",高松2
+https://d20jzsap8ax0i2.cloudfront.net/out/v1/2dabf5a556dd4bfbb75c28537be02c2f/index_9.m3u8
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010707.jpg" group-title="競輪(TIPSTAR)",小松島2
+https://dcf6ntbilxcid.cloudfront.net/out/v1/1f8e803200c04979a25e1554a5c1b798/index.m3u8
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011427.jpg" group-title="競輪(TIPSTAR)",高知2
+https://d20x1p8tfre91b.cloudfront.net/out/v1/517433a16e384f348ad03da3df981912/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012014.jpg" group-title="競輪(TIPSTAR)",松山2
+https://d16wnx3wk8cnnt.cloudfront.net/out/v1/ceb0db1dbb934ef5b2836533d61729d0/index.m3u8
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012279.jpg" group-title="競輪(TIPSTAR)",小倉2
+https://d30ufn4a9sgbxl.cloudfront.net/out/v1/f7691a65aa464c4782a50dfb05ae1767/index.m3u8
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011866.jpg" group-title="競輪(TIPSTAR)",武雄2
+https://d30l40wf0q5flx.cloudfront.net/out/v1/cc007464a1254ff9ac7e0644fdc230b5/index.m3u8
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012243.jpg" group-title="競輪(TIPSTAR)",佐世保2
+https://d3ned0jklmmsf9.cloudfront.net/out/v1/f3d0b40d4fbb4d7d9469888af4944884/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012281.jpg" group-title="競輪(TIPSTAR)",別府2
+https://d2cnginkpbghia.cloudfront.net/out/v1/6955332159294a8a93b45370d4b356bf/index.m3u8
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/000313.jpg" group-title="競輪(TIPSTAR)",熊本2
+https://d2m69fn251lhrf.cloudfront.net/out/v1/1fb24676fcbf458b964083925878052a/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://pist6.co.jp/assets/images/common/ogp.jpg" group-title="競輪(TIPSTAR)",千葉Pist6
+https://duyycwqvxot9t.cloudfront.net/out/v1/769ad1fdda0d4e238f66e0b0f25edabb/index.m3u8
+
 #競輪2
+
 #EXTINF:-1 tvg-logo="https://8200234-next4-bucket-production.s3.ap-northeast-1.amazonaws.com/public/fixed-page/body/XNXeVc97oBSKROP3y20UaYmGeLDEMsdpM2YVDYk2.jpg" group-title="競輪2",函館(冬季休止中)
 https://cfl.st.keirin.jp/11/dash/11.mpd
 #EXTINF:-1 tvg-logo="https://www.kyodo2023-aomori.com/img/common/footer_logo.png" group-title="競輪2",青森(冬季休止中)
 https://cfl.st.keirin.jp/12/dash/12.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010860.jpg" group-title="競輪2",いわき平2
-https://d23qgpjepvhwta.cloudfront.net/out/v1/780e6abc75d24525a95b9998b0892a86/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.yahikokeirin.com/wp-content/uploads/yahik_rogo4.png" group-title="競輪2",弥彦(冬季休止中)
 https://cfl.st.keirin.jp/21/dash/21.mpd
-#EXTINF:-1 tvg-logo="https://www.maebashi-keirin.jp/wp-content/themes/maebashi-template/images/logo.png" group-title="競輪2",前橋2
-https://d1k0zwbhpej0or.cloudfront.net/out/v1/1b4717ba26ca42e09066b373c5f296a4/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.toride-keirin.com/assets/default/img/rogo02.png" group-title="競輪2",取手2
-https://d3n5p1k00kshap.cloudfront.net/out/v1/84eb6113cff44686b6af39f71d4344a1/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://utsunomiya-keirin.jp/img/logo.png" group-title="競輪2",宇都宮2
-https://d1bbh9hna9i29a.cloudfront.net/out/v1/b7a1f334e53d4f6d8c0feb6bd08cfa02/index.m3u8
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010037.jpg" group-title="競輪2",大宮2
-https://dtobnwhel29h8.cloudfront.net/out/v1/932d55421d9d49deb1a64be99899d402/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.iizuka-auto.jp/images/rogo.png" group-title="競輪2",西武園2
-https://dglu799jz6q5s.cloudfront.net/out/v1/42285a6d8aa7415d9cd14ff4a9e4127a/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011481.jpg" group-title="競輪2",京王閣2
-https://dzrovda3802mb.cloudfront.net/out/v1/cae23cf64f45479a9adc8375c7bc9243/index.m3u8
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011466.jpg" group-title="競輪2",立川2
-https://d1tu50d3glwfd3.cloudfront.net/out/v1/fb4d91b4805a48bb8c3ed3da9dfc8a17/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010118.jpg" group-title="競輪2",松戸2
-https://d3um80ws33iv2t.cloudfront.net/out/v1/b573e645e5de40c999eecfe4e7221fe0/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.kawasakikeirin.com/images/logo_kawasaki.png" group-title="競輪2",川崎2
-https://d19fq96jx01oj3.cloudfront.net/out/v1/5648c4b609c248d9a6a23080241da3e8/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.shonanbank.com/wp-content/themes/hiratsuka/img/abema_shonanbank_blue.png" group-title="競輪2",平塚2
-https://d1fozgui02sgex.cloudfront.net/out/v1/e5b143c0b1c84a728bd58d264d6f2492/index_13.m3u8
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012244.jpg" group-title="競輪2",小田原（災害の為開催なし）
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012244.jpg" group-title="競輪2",小田原（改装休止中）
 https://cfl.st.keirin.jp/36/dash/36.mpd
-#EXTINF:-1 tvg-logo="https://www.itokeirin.com/img/logo.png" group-title="競輪2",伊東温泉2
-https://d1ziw7o7biw5lw.cloudfront.net/out/v1/b9fb027896494e27b702da5caa624c08/index.m3u8
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010091.jpg" group-title="競輪2",静岡2
-https://d2zw3hk976cigz.cloudfront.net/out/v1/d88039ca0c144c4c897e3d05c70d24e9/index.m3u8
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011199.jpg" group-title="競輪2",名古屋2
-https://d3vgcjt9ja8dpm.cloudfront.net/out/v1/5d8c23f974b24ba09c210e8f9fec6595/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.gifukeirin.jp/kinen2022/img/logo.png" group-title="競輪2",岐阜2
-https://dhwnzvxv6smzu.cloudfront.net/out/v1/8aeb71175e4d4f818d765c6471f10602/index_4.m3u8
-#EXTINF:-1 tvg-logo="https://www.ogakikeirin.com/common/images/logos/logo.png?20190412" group-title="競輪2",大垣2
-https://dfb6s2sy8m4fj.cloudfront.net/out/v1/46a75c8c38534b64902fcf3d080af7e2/index.m3u8
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012322.jpg" group-title="競輪2",豊橋2
-https://d21j4it98v7rxt.cloudfront.net/out/v1/0cc7bc9319734e6aaf26e6e402595df1/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010575.jpg" group-title="競輪2",富山(冬季休止中)
 https://cfl.st.keirin.jp/46/dash/46.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012274.jpg" group-title="競輪2",松阪2
-https://ds87bovfu9b2r.cloudfront.net/out/v1/e755c8d84ca84705815c267e18126bf9/index.m3u8
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012276.jpg" group-title="競輪2",四日市2
-https://d2qwtrte7v1vrk.cloudfront.net/out/v1/b09f11096a2449179ecc765450e5d70e/index_9.m3u8
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012278.jpg" group-title="競輪2",福井(冬季休止中)
 https://cfl.st.keirin.jp/51/dash/51.mpd
-#EXTINF:-1 tvg-logo="https://www.narakeirin.jp/img/footer_logo_01.png" group-title="競輪2",奈良2
-https://d39uosfxy3v3ex.cloudfront.net/out/v1/e405ba3f01604bc59a3657bdd988675b/index.m3u8
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012194.jpg" group-title="競輪2",向日町(改装休止中)
 https://cfl.st.keirin.jp/54/dash/54.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010182.jpg" group-title="競輪2",和歌山2
-https://dnlnyxpzhof71.cloudfront.net/out/v1/dd8dee97c5c84d6a9da740c8b146b985/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012330.jpg" group-title="競輪2",岸和田2
-https://d327j1m2owk3qs.cloudfront.net/out/v1/6506022445bc485ba601599264a7f957/index.m3u8
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011966.jpg" group-title="競輪2",玉野2
-https://d2uq2b4l05jg6a.cloudfront.net/out/v1/68b69ddf47e146d98f9d1d67d31b6de2/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010495.jpg" group-title="競輪2",広島(改装休止中)
 https://cfl.st.keirin.jp/62/dash/62.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012237.jpg" group-title="競輪2",防府2
-https://dqvde69slajbu.cloudfront.net/out/v1/b7d49cbee81d41b589f4b5494e71f282/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.takamatsu-keirin.com/assets/img/common/logo_f.png" group-title="競輪2",高松2
-https://d20jzsap8ax0i2.cloudfront.net/out/v1/2dabf5a556dd4bfbb75c28537be02c2f/index_9.m3u8
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010707.jpg" group-title="競輪2",小松島2
-https://dcf6ntbilxcid.cloudfront.net/out/v1/1f8e803200c04979a25e1554a5c1b798/index.m3u8
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011427.jpg" group-title="競輪2",高知2
-https://d20x1p8tfre91b.cloudfront.net/out/v1/517433a16e384f348ad03da3df981912/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012014.jpg" group-title="競輪2",松山2
-https://d16wnx3wk8cnnt.cloudfront.net/out/v1/ceb0db1dbb934ef5b2836533d61729d0/index.m3u8
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012279.jpg" group-title="競輪2",小倉2
-https://d30ufn4a9sgbxl.cloudfront.net/out/v1/f7691a65aa464c4782a50dfb05ae1767/index.m3u8
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012074.jpg" group-title="競輪2",久留米
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012074.jpg" group-title="競輪2",久留米(次回開催12/27)
 https://cfl.st.keirin.jp/83/dash/83.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011866.jpg" group-title="競輪2",武雄2
-https://d30l40wf0q5flx.cloudfront.net/out/v1/cc007464a1254ff9ac7e0644fdc230b5/index.m3u8
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012243.jpg" group-title="競輪2",佐世保2
-https://d3ned0jklmmsf9.cloudfront.net/out/v1/f3d0b40d4fbb4d7d9469888af4944884/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012281.jpg" group-title="競輪2",別府2
-https://d2cnginkpbghia.cloudfront.net/out/v1/6955332159294a8a93b45370d4b356bf/index.m3u8
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/000313.jpg" group-title="競輪2",熊本2
-https://d2m69fn251lhrf.cloudfront.net/out/v1/1fb24676fcbf458b964083925878052a/index_1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="競輪2",千葉Pist6
-https://duyycwqvxot9t.cloudfront.net/out/v1/769ad1fdda0d4e238f66e0b0f25edabb/index.m3u8
+
 #その他
 #EXTINF:-1 tvg-logo="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG6Xt-ACoeCN3MB9GAM7vzE_4QlB_g3_58-ihVutEq9IHzZ_r1TwdDaUwbAiaj_dFVlTIEbDpivAtAAX6xxx86yUl2d67I39Z3sJG0PZAiKTRRpXI8zagw7M7s6pqkyURoD3HZ3TneLrKqz_4LidfYnmZxyufeef55LtbH7OA3LmhXAEpX-XZ0EUF7tk4cxGt3bAtCTygSFjUO8b8Scd-wJqvBHB1k3Th2iFPpDZS_QYCG54QqpuBNzWNmFuKIGskJrMe4ZqT0bT3meHnGZMlZR4=/logo-65406-179-400x400.png" group-title="その他",BSよしもと
-https://drm.video.bsy.co.jp/ymbs/b25109aa4b3601/ciOcWglXdP-bo_3d484Pgg/index_1.m3u8?t=1734088397&r=Fk3GJsf458Zw6C
+https://drm.video.bsy.co.jp/ymbs/b25109aa4b3601/ilIIa14exaKt1A4Gs3KAiw/index_1.m3u8?t=1734126529&r=si3LTwjlRSK3jC
 #EXTINF:-1 tvg-logo="https://www.city.matsuyama.ehime.jp/images/2021_top_title.png" group-title="その他",松山市議会中継
 https://cdn-ecatv-stream.durasite.net/live/ms_gikai/chunklist_w152985868.m3u8
 #EXTINF:-1 tvg-logo="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG_-cMwnEF_9yxZr5x-1Yd21q8SEeSDdwRD9doioeL5uLYbPwJnuAPx174aQVwaw1NVPqBFXaFNopDeaogjSnmsCMGjdgSZvVanY01bYg72S7zmqCWkgRxLrlmZRY1_zNFFZP4rUyRuBLumsyhB8kt9IEqa9jpiKnnfIC_xngNXt_frHW7s8TeEWPW1CX056crQ==/X315129_3L1.jpg?errorImage=false" group-title="その他",愛媛県議会中継
@@ -223,3 +239,21 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakut
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelmensnecohlscmaf-rakutenjp/playlist.m3u8?ads.uuid=79f6c984-2f32-573c-a7ff-a13644466ce4&ads.device_make=rchweb&ads.refid=0&ads.url=channel.rakuten.co.jp&ads.uid_ss=&ads.uid_rch=79f6c984-2f32-573c-a7ff-a13644466ce4
 #EXTINF:-1 tvg-logo="https://www.xsozai.com/wp-content/uploads/2023/02/%E6%A5%BD%E5%A4%A9%E5%B8%82%E5%A0%B4.png" group-title="その他",楽天TVアイドルグラビア
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakutenjp/playlist.m3u8?ads.uuid=79f6c984-2f32-573c-a7ff-a13644466ce4&ads.device_make=rchweb&ads.refid=0&ads.url=channel.rakuten.co.jp&ads.uid_ss=&ads.uid_rch=79f6c984-2f32-573c-a7ff-a13644466ce4
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/623765186021756929/rBvlP6Fq_400x400.png" group-title="その他",Anime
+
+#在阪キー局
+
+#EXTINF:-1 group-title="在阪キー局" tvg-id="mbs" tvg-logo="https://i.imgur.com/gIHXr39.png", MBS毎日放送
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380893&sign=ca849dc6608a1dc0afb2559343d13bf779f7a6542b2ec260d8e8887f8c2e03cf
+#EXTINF:-1 group-title="在阪キー局" tvg-id="abc" tvg-logo="https://i.imgur.com/5LEKfWh.png", ABC朝日放送
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380893&sign=ca849dc6608a1dc0afb2559343d13bf779f7a6542b2ec260d8e8887f8c2e03cf
+#EXTINF:-1 group-title="在阪キー局" tvg-id="kansai_tv" tvg-logo="https://i.imgur.com/gr54fEO.jpeg", KTV関西テレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380893&sign=ca849dc6608a1dc0afb2559343d13bf779f7a6542b2ec260d8e8887f8c2e03cf
+#EXTINF:-1 group-title="在阪キー局" tvg-id="yormuri_tv" tvg-logo="https://i.imgur.com/xXyPAUP.jpeg", YTV読売テレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380893&sign=ca849dc6608a1dc0afb2559343d13bf779f7a6542b2ec260d8e8887f8c2e03cf
+#EXTINF:-1 group-title="在阪キー局" tvg-id="tv_osaka" tvg-logo="https://i.imgur.com/0ZZDaKi.jpeg",テレビ大阪
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380893&sign=ca849dc6608a1dc0afb2559343d13bf779f7a6542b2ec260d8e8887f8c2e03cf
+#EXTINF:-1 group-title="在阪キー局" tvg-id="nhkg_osaka" tvg-logo="https://i.imgur.com/mAR2Jlh.jpeg", NHK G 大阪
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380893&sign=ca849dc6608a1dc0afb2559343d13bf779f7a6542b2ec260d8e8887f8c2e03cf
+#EXTINF:-1 group-title="在阪キー局" tvg-id="sun_tv" tvg-logo="https://i.pinimg.com/474x/f2/84/98/f284984badded818e289616e7e50c318.jpg", サンテレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380893&sign=ca849dc6608a1dc0afb2559343d13bf779f7a6542b2ec260d8e8887f8c2e03cf
