@@ -243,7 +243,7 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakut
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/623765186021756929/rBvlP6Fq_400x400.png" group-title="その他",Anime
 
 #在阪キー局
-#EXTINF:-1 group-title="在阪キー局2" tvg-id="abc" tvg-logo="https://i.imgur.com/5LEKfWh.png", ABC朝日放送
+#EXTINF:-1 group-title="在阪キー局" tvg-id="abc" tvg-logo="https://i.imgur.com/5LEKfWh.png", ABC朝日放送
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380869&sign=861327b87e44836fd463223a9d5f6a4f0c4b4bc370941b640a4dab17fc7099f6
 #EXTINF:-1 group-title="在阪キー局" tvg-id="mbs" tvg-logo="https://i.imgur.com/gIHXr39.png", MBS毎日放送
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380869&sign=861327b87e44836fd463223a9d5f6a4f0c4b4bc370941b640a4dab17fc7099f6
