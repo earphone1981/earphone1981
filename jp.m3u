@@ -92,8 +92,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=6&bi
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380901&sign=ea0ac4f478a153459837b15f18ee9c139e9c3feaaa5e6454f76a813b10074c1b
 #EXTINF:-1 group-title="競馬" tvg-id="tokyo_mx" tvg-logo="https://i.imgur.com/3qhjzsB.jpeg", TOKYO MX
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380901&sign=ea0ac4f478a153459837b15f18ee9c139e9c3feaaa5e6454f76a813b10074c1b
-#EXTINF:-1 group-title="競馬" tvg-id="TokyoMX2.jp" tvg-logo="https://i.imgur.com/3qhjzsB.jpeg",TOKYO MX2
-http://tv.utako.moe/mx2_testsignal/index.m3u8
 #EXTINF:-1 group-title="競馬" tvg-id="fuji_tv" tvg-logo="https://i.imgur.com/TF3Sauu.jpeg", フジテレビ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380901&sign=ea0ac4f478a153459837b15f18ee9c139e9c3feaaa5e6454f76a813b10074c1b
 #EXTINF:-1 group-title="競馬" tvg-id="fuji_tv" tvg-logo="https://i.imgur.com/TF3Sauu.jpeg", フジテレビ2
@@ -182,6 +180,8 @@ https://d20x1p8tfre91b.cloudfront.net/out/v1/517433a16e384f348ad03da3df981912/in
 https://d16wnx3wk8cnnt.cloudfront.net/out/v1/ceb0db1dbb934ef5b2836533d61729d0/index.m3u8
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012279.jpg" group-title="競輪(TIPSTAR)",小倉2
 https://d30ufn4a9sgbxl.cloudfront.net/out/v1/f7691a65aa464c4782a50dfb05ae1767/index.m3u8
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012074.jpg" group-title="競輪(TIPSTAR)",久留米2
+https://d3bgx2raetd21p.cloudfront.net/out/v1/44fcf9079c5c47af803262853c6035e4/index.m3u8
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011866.jpg" group-title="競輪(TIPSTAR)",武雄2
 https://d30l40wf0q5flx.cloudfront.net/out/v1/cc007464a1254ff9ac7e0644fdc230b5/index.m3u8
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012243.jpg" group-title="競輪(TIPSTAR)",佐世保2
@@ -211,13 +211,11 @@ https://cfl.st.keirin.jp/51/dash/51.mpd
 https://cfl.st.keirin.jp/54/dash/54.mpd
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010495.jpg" group-title="競輪2",広島(改装休止中)
 https://cfl.st.keirin.jp/62/dash/62.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012074.jpg" group-title="競輪2",久留米2
-https://d3bgx2raetd21p.cloudfront.net/out/v1/44fcf9079c5c47af803262853c6035e4/index.m3u8
 
 #その他
 
 #EXTINF:-1 tvg-logo="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG6Xt-ACoeCN3MB9GAM7vzE_4QlB_g3_58-ihVutEq9IHzZ_r1TwdDaUwbAiaj_dFVlTIEbDpivAtAAX6xxx86yUl2d67I39Z3sJG0PZAiKTRRpXI8zagw7M7s6pqkyURoD3HZ3TneLrKqz_4LidfYnmZxyufeef55LtbH7OA3LmhXAEpX-XZ0EUF7tk4cxGt3bAtCTygSFjUO8b8Scd-wJqvBHB1k3Th2iFPpDZS_QYCG54QqpuBNzWNmFuKIGskJrMe4ZqT0bT3meHnGZMlZR4=/logo-65406-179-400x400.png" group-title="その他",BSよしもと
-https://drm.video.bsy.co.jp/ymbs/b25109aa4b3601/GRtrXoeNp5aWYMw1x37hEA/index_1.m3u8?t=1735621920&r=8rS9HEsI0tiu3D
+https://drm.video.bsy.co.jp/ymbs/b25109aa4b3601/_JcAWUITyl9LyAh4NvpPBw/index_1.m3u8?t=1739132994&r=vQX47xmVMWeyXp
 #EXTINF:-1 tvg-logo="https://www.city.matsuyama.ehime.jp/images/2021_top_title.png" group-title="その他",松山市議会中継
 https://cdn-ecatv-stream.durasite.net/live/ms_gikai/chunklist_w152985868.m3u8
 #EXTINF:-1 tvg-logo="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG_-cMwnEF_9yxZr5x-1Yd21q8SEeSDdwRD9doioeL5uLYbPwJnuAPx174aQVwaw1NVPqBFXaFNopDeaogjSnmsCMGjdgSZvVanY01bYg72S7zmqCWkgRxLrlmZRY1_zNFFZP4rUyRuBLumsyhB8kt9IEqa9jpiKnnfIC_xngNXt_frHW7s8TeEWPW1CX056crQ==/X315129_3L1.jpg?errorImage=false" group-title="その他",愛媛県議会中継
@@ -240,7 +238,6 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakut
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelmensnecohlscmaf-rakutenjp/playlist.m3u8?ads.uuid=79f6c984-2f32-573c-a7ff-a13644466ce4&ads.device_make=rchweb&ads.refid=0&ads.url=channel.rakuten.co.jp&ads.uid_ss=&ads.uid_rch=79f6c984-2f32-573c-a7ff-a13644466ce4
 #EXTINF:-1 tvg-logo="https://www.xsozai.com/wp-content/uploads/2023/02/%E6%A5%BD%E5%A4%A9%E5%B8%82%E5%A0%B4.png" group-title="その他",楽天TVアイドルグラビア
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakutenjp/playlist.m3u8?ads.uuid=79f6c984-2f32-573c-a7ff-a13644466ce4&ads.device_make=rchweb&ads.refid=0&ads.url=channel.rakuten.co.jp&ads.uid_ss=&ads.uid_rch=79f6c984-2f32-573c-a7ff-a13644466ce4
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/623765186021756929/rBvlP6Fq_400x400.png" group-title="その他",Anime
 
 #在阪キー局
 #EXTINF:-1 group-title="在阪キー局" tvg-id="abc" tvg-logo="https://i.imgur.com/5LEKfWh.png", ABC朝日放送
