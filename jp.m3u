@@ -101,7 +101,7 @@ cid=gd07&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380901&sign=ea0ac4f478
 #EXTINF:-1 group-title="競馬" tvg-id="tv_tokyo" tvg-logo="https://i.imgur.com/ji2Sueo.jpeg", テレビ東京2
 http://103.255.250.202:5002/gd07.m3u8?token=1ca7ca77aa446a6f4591f91bafd6181e78fac6a2e797579f155e56f9dc736ca0&gid=bs04&channel=zhongying
 #EXTINF:-1 group-title="競馬" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11
-http://tv.utako.moe/bs11/index.m3u8
+http://vthanh.utako.moe/BS11/index.m3u8
 #EXTINF:-1 group-title="競馬" tvg-id="bs_fuji" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png", BSフジ
 http://103.255.250.202:5002/bs06.m3u8?token=87506d1c7ec438d447021b7700cb406a5e4cec64b563f11e35de2ef1c42e04e7&gid=bs20&channel=zhongying
 #EXTINF:-1 group-title="競馬" tvg-id="bs_fuji" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png", BSフジ2
@@ -214,6 +214,8 @@ https://cfl.st.keirin.jp/62/dash/62.mpd
 
 #その他
 
+#EXTINF:-1 group-title="その他" tvg-id="Pigoo.jp" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo-test (NSFW)
+http://luong.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 tvg-logo="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG6Xt-ACoeCN3MB9GAM7vzE_4QlB_g3_58-ihVutEq9IHzZ_r1TwdDaUwbAiaj_dFVlTIEbDpivAtAAX6xxx86yUl2d67I39Z3sJG0PZAiKTRRpXI8zagw7M7s6pqkyURoD3HZ3TneLrKqz_4LidfYnmZxyufeef55LtbH7OA3LmhXAEpX-XZ0EUF7tk4cxGt3bAtCTygSFjUO8b8Scd-wJqvBHB1k3Th2iFPpDZS_QYCG54QqpuBNzWNmFuKIGskJrMe4ZqT0bT3meHnGZMlZR4=/logo-65406-179-400x400.png" group-title="その他",BSよしもと
 https://drm.video.bsy.co.jp/ymbs/b25109aa4b3601/_JcAWUITyl9LyAh4NvpPBw/index_1.m3u8?t=1739132994&r=vQX47xmVMWeyXp
 #EXTINF:-1 tvg-logo="https://www.city.matsuyama.ehime.jp/images/2021_top_title.png" group-title="その他",松山市議会中継
