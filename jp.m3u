@@ -275,21 +275,21 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=6&bi
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380859&sign=9d4638a19e862512b8d14fd829cd50cde87e11f814d935ceed8d909a39a7935d
 
 #在阪キー局3
-#EXTINF:-1 group-title="在阪キー局3" tvg-id="abc" tvg-logo="https://i.imgur.com/5LEKfWh.png", ABC朝日放送
+#EXTINF:-1 group-title="在阪キー局3" tvg-id="JOAY-DTV" tvg-logo="https://i.imgur.com/5LEKfWh.png", ABC朝日放送
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380901&sign=ea0ac4f478a153459837b15f18ee9c139e9c3feaaa5e6454f76a813b10074c1b
-#EXTINF:-1 group-title="在阪キー局3" tvg-id="mbs" tvg-logo="https://i.imgur.com/gIHXr39.png", MBS毎日放送
+#EXTINF:-1 group-title="在阪キー局3" tvg-id="JOOY-DTV" tvg-logo="https://i.imgur.com/gIHXr39.png", MBS毎日放送
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380901&sign=ea0ac4f478a153459837b15f18ee9c139e9c3feaaa5e6454f76a813b10074c1b
-#EXTINF:-1 group-title="在阪キー局3" tvg-id="kansai_tv" tvg-logo="https://i.imgur.com/gr54fEO.jpeg", KTV関西テレビ
+#EXTINF:-1 group-title="在阪キー局3" tvg-id="JODX-DTV" tvg-logo="https://i.imgur.com/gr54fEO.jpeg", KTV関西テレビ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380901&sign=ea0ac4f478a153459837b15f18ee9c139e9c3feaaa5e6454f76a813b10074c1b
-#EXTINF:-1 group-title="在阪キー局3" tvg-id="yormuri_tv" tvg-logo="https://i.imgur.com/xXyPAUP.jpeg", YTV読売テレビ
+#EXTINF:-1 group-title="在阪キー局3" tvg-id="JOIX-DTV" tvg-logo="https://i.imgur.com/xXyPAUP.jpeg", YTV読売テレビ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380901&sign=ea0ac4f478a153459837b15f18ee9c139e9c3feaaa5e6454f76a813b10074c1b
-#EXTINF:-1 group-title="在阪キー局3" tvg-id="tv_osaka" tvg-logo="https://i.imgur.com/0ZZDaKi.jpeg",テレビ大阪
+#EXTINF:-1 group-title="在阪キー局3" tvg-id="JOBH-DTV" tvg-logo="https://i.imgur.com/0ZZDaKi.jpeg",テレビ大阪
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380901&sign=ea0ac4f478a153459837b15f18ee9c139e9c3feaaa5e6454f76a813b10074c1b
-#EXTINF:-1 group-title="在阪キー局3" tvg-id="nhkg_osaka" tvg-logo="https://i.imgur.com/mAR2Jlh.jpeg", NHK G 大阪
+#EXTINF:-1 group-title="在阪キー局3" tvg-id="JOBK-DTV" tvg-logo="https://i.imgur.com/mAR2Jlh.jpeg", NHK G 大阪
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380901&sign=ea0ac4f478a153459837b15f18ee9c139e9c3feaaa5e6454f76a813b10074c1b
-#EXTINF:-1 group-title="在阪キー局3" tvg-id="sun_tv" tvg-logo="https://i.pinimg.com/474x/f2/84/98/f284984badded818e289616e7e50c318.jpg", サンテレビ
+#EXTINF:-1 group-title="在阪キー局3" tvg-id="JOUH-DTV" tvg-logo="https://i.pinimg.com/474x/f2/84/98/f284984badded818e289616e7e50c318.jpg", サンテレビ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380901&sign=ea0ac4f478a153459837b15f18ee9c139e9c3feaaa5e6454f76a813b10074c1b
-#EXTINF:-1 group-title="在阪キー局3" tvg-id="abc" tvg-logo="https://i.imgur.com/5LEKfWh.png", ABC朝日放送2
+#EXTINF:-1 group-title="在阪キー局3" tvg-id="JOAY-DTV" tvg-logo="https://i.imgur.com/5LEKfWh.png", ABC朝日放送2
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380859&sign=9d4638a19e862512b8d14fd829cd50cde87e11f814d935ceed8d909a39a7935d
 
 
