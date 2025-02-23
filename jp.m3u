@@ -176,8 +176,6 @@ https://d20jzsap8ax0i2.cloudfront.net/out/v1/2dabf5a556dd4bfbb75c28537be02c2f/in
 https://dcf6ntbilxcid.cloudfront.net/out/v1/1f8e803200c04979a25e1554a5c1b798/index.m3u8
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011427.jpg" group-title="競輪(TIPSTAR)",高知2
 https://d20x1p8tfre91b.cloudfront.net/out/v1/517433a16e384f348ad03da3df981912/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012014.jpg" group-title="競輪2",松山2
-https://d16wnx3wk8cnnt.cloudfront.net/out/v1/ceb0db1dbb934ef5b2836533d61729d0/index.m3u8
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012279.jpg" group-title="競輪(TIPSTAR)",小倉2
 https://d30ufn4a9sgbxl.cloudfront.net/out/v1/f7691a65aa464c4782a50dfb05ae1767/index.m3u8
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012074.jpg" group-title="競輪(TIPSTAR)",久留米2
@@ -211,6 +209,8 @@ https://cfl.st.keirin.jp/51/dash/51.mpd
 https://cfl.st.keirin.jp/54/dash/54.mpd
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010495.jpg" group-title="競輪2",広島(改装休止中)
 https://cfl.st.keirin.jp/62/dash/62.mpd
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012014.jpg" group-title="競輪2",松山(改装休止中)
+https://d16wnx3wk8cnnt.cloudfront.net/out/v1/ceb0db1dbb934ef5b2836533d61729d0/index.m3u8
 
 #その他
 
@@ -231,7 +231,7 @@ https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
 #EXTINF:-1 tvg-logo="https://www.xsozai.com/wp-content/uploads/2023/02/%E6%A5%BD%E5%A4%A9%E5%B8%82%E5%A0%B4.png" group-title="その他",楽天TV鉄道
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tandtcmaf-rakutenjp/playlist.m3u8?ads.uuid=79f6c984-2f32-573c-a7ff-a13644466ce4&ads.device_make=rchweb&ads.refid=0&ads.url=channel.rakuten.co.jp&ads.uid_ss=&ads.uid_rch=79f6c984-2f32-573c-a7ff-a13644466ce4
 #EXTINF:-1 tvg-logo="https://www.xsozai.com/wp-content/uploads/2023/02/%E6%A5%BD%E5%A4%A9%E5%B8%82%E5%A0%B4.png" group-title="その他",楽天TVアニメ
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime3cmafhls-rakutenjp/playlist.m3u8?ads.uuid=79f6c984-2f32-573c-a7ff-a13644466ce4&ads.device_make=rchweb&ads.refid=0&ads.url=channel.rakuten.co.jp&ads.uid_ss=&ads.uid_rch=79f6c984-2f32-573c-a7ff-a13644466ce4
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime3cmaf-rakutenjp/playlist.m3u8?ads.uuid=79f6c984-2f32-573c-a7ff-a13644466ce4&ads.device_make=rchweb&ads.refid=0&ads.url=channel.rakuten.co.jp&ads.uid_ss=&ads.uid_rch=79f6c984-2f32-573c-a7ff-a13644466ce4
 #EXTINF:-1 tvg-logo="https://www.xsozai.com/wp-content/uploads/2023/02/%E6%A5%BD%E5%A4%A9%E5%B8%82%E5%A0%B4.png" group-title="その他",楽天TVＲ-18映画
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8?ads.uuid=79f6c984-2f32-573c-a7ff-a13644466ce4&ads.device_make=rchweb&ads.refid=0&ads.url=channel.rakuten.co.jp&ads.uid_ss=&ads.uid_rch=79f6c984-2f32-573c-a7ff-a13644466ce4
 #EXTINF:-1 tvg-logo="https://www.xsozai.com/wp-content/uploads/2023/02/%E6%A5%BD%E5%A4%A9%E5%B8%82%E5%A0%B4.png" group-title="その他",楽天TVストロング
