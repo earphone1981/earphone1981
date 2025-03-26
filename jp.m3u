@@ -193,8 +193,6 @@ https://ds87bovfu9b2r.cloudfront.net/out/v1/e755c8d84ca84705815c267e18126bf9/ind
 https://d2qwtrte7v1vrk.cloudfront.net/out/v1/b09f11096a2449179ecc765450e5d70e/index_9.m3u8
 #EXTINF:-1 tvg-logo="https://www.narakeirin.jp/img/footer_logo_01.png" group-title="競輪(TIPSTAR)",奈良2
 https://d39uosfxy3v3ex.cloudfront.net/out/v1/e405ba3f01604bc59a3657bdd988675b/index.m3u8
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010182.jpg" group-title="競輪(TIPSTAR)",和歌山2
-https://dnlnyxpzhof71.cloudfront.net/out/v1/dd8dee97c5c84d6a9da740c8b146b985/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012330.jpg" group-title="競輪(TIPSTAR)",岸和田2
 https://d327j1m2owk3qs.cloudfront.net/out/v1/6506022445bc485ba601599264a7f957/index.m3u8
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/011966.jpg" group-title="競輪(TIPSTAR)",玉野2
@@ -224,17 +222,17 @@ https://duyycwqvxot9t.cloudfront.net/out/v1/769ad1fdda0d4e238f66e0b0f25edabb/ind
 
 #競輪2
 
-#EXTINF:-1 tvg-logo="https://8200234-next4-bucket-production.s3.ap-northeast-1.amazonaws.com/public/fixed-page/body/XNXeVc97oBSKROP3y20UaYmGeLDEMsdpM2YVDYk2.jpg" group-title="競輪2",函館(冬季休止中)
+#EXTINF:-1 tvg-logo="https://8200234-next4-bucket-production.s3.ap-northeast-1.amazonaws.com/public/fixed-page/body/XNXeVc97oBSKROP3y20UaYmGeLDEMsdpM2YVDYk2.jpg" group-title="競輪2",函館(0416～)
 https://cfl.st.keirin.jp/11/dash/11.mpd
-#EXTINF:-1 tvg-logo="https://www.kyodo2023-aomori.com/img/common/footer_logo.png" group-title="競輪2",青森(冬季休止中)
+#EXTINF:-1 tvg-logo="https://www.kyodo2023-aomori.com/img/common/footer_logo.png" group-title="競輪2",青森(0412～)
 https://cfl.st.keirin.jp/12/dash/12.mpd
-#EXTINF:-1 tvg-logo="https://www.yahikokeirin.com/wp-content/uploads/yahik_rogo4.png" group-title="競輪2",弥彦(冬季休止中)
+#EXTINF:-1 tvg-logo="https://www.yahikokeirin.com/wp-content/uploads/yahik_rogo4.png" group-title="競輪2",弥彦(0425～)
 https://cfl.st.keirin.jp/21/dash/21.mpd
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012244.jpg" group-title="競輪2",小田原（改装休止中）
 https://cfl.st.keirin.jp/36/dash/36.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010575.jpg" group-title="競輪2",富山(冬季休止中)
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010575.jpg" group-title="競輪2",富山(0603～)
 https://cfl.st.keirin.jp/46/dash/46.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012278.jpg" group-title="競輪2",福井(冬季休止中)
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012278.jpg" group-title="競輪2",福井(0405～)
 https://cfl.st.keirin.jp/51/dash/51.mpd
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012194.jpg" group-title="競輪2",向日町(改装休止中)
 https://cfl.st.keirin.jp/54/dash/54.mpd
@@ -242,32 +240,34 @@ https://cfl.st.keirin.jp/54/dash/54.mpd
 https://cfl.st.keirin.jp/62/dash/62.mpd
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012014.jpg" group-title="競輪2",松山(改装休止中)
 https://d16wnx3wk8cnnt.cloudfront.net/out/v1/ceb0db1dbb934ef5b2836533d61729d0/index.m3u8
+#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010182.jpg" group-title="競輪2",和歌山(改装休止中)
+https://dnlnyxpzhof71.cloudfront.net/out/v1/dd8dee97c5c84d6a9da740c8b146b985/index_1.m3u8
 
 #その他
 
-#EXTINF:-1 group-title="その他" tvg-id="Pigoo.jp" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo-test (NSFW)
+#EXTINF:-1 player-buffer=20 group-title="その他" tvg-id="Pigoo.jp" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo-test (NSFW)
 http://luong.utako.moe/pigoo/index.m3u8
-#EXTINF:-1 tvg-logo="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG6Xt-ACoeCN3MB9GAM7vzE_4QlB_g3_58-ihVutEq9IHzZ_r1TwdDaUwbAiaj_dFVlTIEbDpivAtAAX6xxx86yUl2d67I39Z3sJG0PZAiKTRRpXI8zagw7M7s6pqkyURoD3HZ3TneLrKqz_4LidfYnmZxyufeef55LtbH7OA3LmhXAEpX-XZ0EUF7tk4cxGt3bAtCTygSFjUO8b8Scd-wJqvBHB1k3Th2iFPpDZS_QYCG54QqpuBNzWNmFuKIGskJrMe4ZqT0bT3meHnGZMlZR4=/logo-65406-179-400x400.png" group-title="その他",BSよしもと
+#EXTINF:-1 player-buffer=20 tvg-logo="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG6Xt-ACoeCN3MB9GAM7vzE_4QlB_g3_58-ihVutEq9IHzZ_r1TwdDaUwbAiaj_dFVlTIEbDpivAtAAX6xxx86yUl2d67I39Z3sJG0PZAiKTRRpXI8zagw7M7s6pqkyURoD3HZ3TneLrKqz_4LidfYnmZxyufeef55LtbH7OA3LmhXAEpX-XZ0EUF7tk4cxGt3bAtCTygSFjUO8b8Scd-wJqvBHB1k3Th2iFPpDZS_QYCG54QqpuBNzWNmFuKIGskJrMe4ZqT0bT3meHnGZMlZR4=/logo-65406-179-400x400.png" group-title="その他",BSよしもと
 https://drm.video.bsy.co.jp/ymbs/4ac6572210e602/BD9GQsto677TltkDVGRuTJeVzj2IbcVquwYvUiEdcA4/index_1.m3u8?t=1742105443&r=nP7kg0uxCvJejb
-#EXTINF:-1 tvg-logo="https://www.city.matsuyama.ehime.jp/images/2021_top_title.png" group-title="その他",松山市議会中継
+#EXTINF:-1 player-buffer=20 tvg-logo="https://www.city.matsuyama.ehime.jp/images/2021_top_title.png" group-title="その他",松山市議会中継
 https://cdn-ecatv-stream.durasite.net/live/ms_gikai/chunklist_w152985868.m3u8
-#EXTINF:-1 tvg-logo="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG_-cMwnEF_9yxZr5x-1Yd21q8SEeSDdwRD9doioeL5uLYbPwJnuAPx174aQVwaw1NVPqBFXaFNopDeaogjSnmsCMGjdgSZvVanY01bYg72S7zmqCWkgRxLrlmZRY1_zNFFZP4rUyRuBLumsyhB8kt9IEqa9jpiKnnfIC_xngNXt_frHW7s8TeEWPW1CX056crQ==/X315129_3L1.jpg?errorImage=false" group-title="その他",愛媛県議会中継
+#EXTINF:-1 player-buffer=20 tvg-logo="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG_-cMwnEF_9yxZr5x-1Yd21q8SEeSDdwRD9doioeL5uLYbPwJnuAPx174aQVwaw1NVPqBFXaFNopDeaogjSnmsCMGjdgSZvVanY01bYg72S7zmqCWkgRxLrlmZRY1_zNFFZP4rUyRuBLumsyhB8kt9IEqa9jpiKnnfIC_xngNXt_frHW7s8TeEWPW1CX056crQ==/X315129_3L1.jpg?errorImage=false" group-title="その他",愛媛県議会中継
 https://cdn-ecatv-stream.durasite.net/live/kengikai/chunklist_w1364306427.m3u8
-#EXTINF:-1 tvg-logo="https://www.innoqos.com/assets/images/business/interview/logo_catv.png" group-title="その他",愛媛CATVすこやかちゃんねる
+#EXTINF:-1 player-buffer=20 tvg-logo="https://www.innoqos.com/assets/images/business/interview/logo_catv.png" group-title="その他",愛媛CATVすこやかちゃんねる
 https://cdn-ecatv-stream.durasite.net/live/0220200406/chunklist_w1561229161.m3u8
-#EXTINF:-1 tvg-logo="https://www.innoqos.com/assets/images/business/interview/logo_catv.png" group-title="その他",愛媛CATVえひめまなびじょん
+#EXTINF:-1 player-buffer=20 tvg-logo="https://www.innoqos.com/assets/images/business/interview/logo_catv.png" group-title="その他",愛媛CATVえひめまなびじょん
 https://cdn-ecatv-stream.durasite.net/live/0120200406/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/300px-VHS-Video-Tape-Top-Flat.jpg" group-title="その他",ガキの使い他ＶＴＲ配信
+#EXTINF:-1 player-buffer=20 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/300px-VHS-Video-Tape-Top-Flat.jpg" group-title="その他",ガキの使い他ＶＴＲ配信
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
-#EXTINF:-1 tvg-logo="https://www.xsozai.com/wp-content/uploads/2023/02/%E6%A5%BD%E5%A4%A9%E5%B8%82%E5%A0%B4.png" group-title="その他",楽天TV鉄道
+#EXTINF:-1 player-buffer=20 tvg-logo="https://www.xsozai.com/wp-content/uploads/2023/02/%E6%A5%BD%E5%A4%A9%E5%B8%82%E5%A0%B4.png" group-title="その他",楽天TV鉄道
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tandtcmaf-rakutenjp/playlist.m3u8?ads.uuid=79f6c984-2f32-573c-a7ff-a13644466ce4&ads.device_make=rchweb&ads.refid=0&ads.url=channel.rakuten.co.jp&ads.uid_ss=&ads.uid_rch=79f6c984-2f32-573c-a7ff-a13644466ce4
-#EXTINF:-1 tvg-logo="https://www.xsozai.com/wp-content/uploads/2023/02/%E6%A5%BD%E5%A4%A9%E5%B8%82%E5%A0%B4.png" group-title="その他",楽天TVＲ-18映画
+#EXTINF:-1 player-buffer=20 tvg-logo="https://www.xsozai.com/wp-content/uploads/2023/02/%E6%A5%BD%E5%A4%A9%E5%B8%82%E5%A0%B4.png" group-title="その他",楽天TVＲ-18映画
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8?ads.uuid=79f6c984-2f32-573c-a7ff-a13644466ce4&ads.device_make=rchweb&ads.refid=0&ads.url=channel.rakuten.co.jp&ads.uid_ss=&ads.uid_rch=79f6c984-2f32-573c-a7ff-a13644466ce4
-#EXTINF:-1 tvg-logo="https://www.xsozai.com/wp-content/uploads/2023/02/%E6%A5%BD%E5%A4%A9%E5%B8%82%E5%A0%B4.png" group-title="その他",楽天TVストロング
+#EXTINF:-1 player-buffer=20 tvg-logo="https://www.xsozai.com/wp-content/uploads/2023/02/%E6%A5%BD%E5%A4%A9%E5%B8%82%E5%A0%B4.png" group-title="その他",楽天TVストロング
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakutenjp/playlist.m3u8?ads.uuid=79f6c984-2f32-573c-a7ff-a13644466ce4&ads.device_make=rchweb&ads.refid=0&ads.url=channel.rakuten.co.jp&ads.uid_ss=&ads.uid_rch=79f6c984-2f32-573c-a7ff-a13644466ce4
-#EXTINF:-1 tvg-logo="https://www.xsozai.com/wp-content/uploads/2023/02/%E6%A5%BD%E5%A4%A9%E5%B8%82%E5%A0%B4.png" group-title="その他",楽天TVおとなの歓楽街
+#EXTINF:-1 player-buffer=20 tvg-logo="https://www.xsozai.com/wp-content/uploads/2023/02/%E6%A5%BD%E5%A4%A9%E5%B8%82%E5%A0%B4.png" group-title="その他",楽天TVおとなの歓楽街
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelmensnecohlscmaf-rakutenjp/playlist.m3u8?ads.uuid=79f6c984-2f32-573c-a7ff-a13644466ce4&ads.device_make=rchweb&ads.refid=0&ads.url=channel.rakuten.co.jp&ads.uid_ss=&ads.uid_rch=79f6c984-2f32-573c-a7ff-a13644466ce4
-#EXTINF:-1 tvg-logo="https://www.xsozai.com/wp-content/uploads/2023/02/%E6%A5%BD%E5%A4%A9%E5%B8%82%E5%A0%B4.png" group-title="その他",楽天TVアイドルグラビア
+#EXTINF:-1 player-buffer=20 tvg-logo="https://www.xsozai.com/wp-content/uploads/2023/02/%E6%A5%BD%E5%A4%A9%E5%B8%82%E5%A0%B4.png" group-title="その他",楽天TVアイドルグラビア
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakutenjp/playlist.m3u8?ads.uuid=79f6c984-2f32-573c-a7ff-a13644466ce4&ads.device_make=rchweb&ads.refid=0&ads.url=channel.rakuten.co.jp&ads.uid_ss=&ads.uid_rch=79f6c984-2f32-573c-a7ff-a13644466ce4
 
 
