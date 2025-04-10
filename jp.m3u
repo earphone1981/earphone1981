@@ -2,15 +2,15 @@
 
 #ボートレース
 
-#EXTINF:-1 tvg-id="JLC.jp" tvg-logo="http://www.kiryu-kyotei.com/themes/kiryu/images/common/logo_header_01_1.png" group-title="ボートレース",桐生(ナイター) 
+#EXTINF:-1 tvg-id="JLC680.jp" tvg-logo="http://www.kiryu-kyotei.com/themes/kiryu/images/common/logo_header_01_1.png" group-title="ボートレース",桐生(ナイター) 
 https://br-rp-mix-01-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-mix-01-live/brlive/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.boatrace.jp/static/uploads/sites/4/2021/09/0b8deafb5972b9edaa7144bbe486cde7-391x250.png" group-title="ボートレース",戸田
+#EXTINF:-1 tvg-id="JLC681.jp" tvg-logo="https://www.boatrace.jp/static/uploads/sites/4/2021/09/0b8deafb5972b9edaa7144bbe486cde7-391x250.png" group-title="ボートレース",戸田
 https://br-rp-mix-02-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-mix-02-live/brlive/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.boatrace-edogawa.com/themes/edogawa/images_common/header_menu_0.png" group-title="ボートレース",江戸川
+#EXTINF:-1 tvg-id="JLC682.jp" tvg-logo="https://www.boatrace-edogawa.com/themes/edogawa/images_common/header_menu_0.png" group-title="ボートレース",江戸川
 https://br-rp-mix-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-mix-03-live/brlive/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.heiwajima.gr.jp/images/logo.gif" group-title="ボートレース",平和島
+#EXTINF:-1 tvg-id="JLC683.jp" tvg-logo="https://www.heiwajima.gr.jp/images/logo.gif" group-title="ボートレース",平和島
 https://br-rp-mix-04-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-mix-04-live/brlive/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.boatrace-tamagawa.com/cdn/pc/images/common/logo_header.png" group-title="ボートレース",多摩川
+#EXTINF:-1 tvg-id="JLC684.jp" tvg-logo="https://www.boatrace-tamagawa.com/cdn/pc/images/common/logo_header.png" group-title="ボートレース",多摩川
 https://br-rp-mix-05-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-mix-05-live/brlive/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.boatrace-hamanako.jp/themes/hamanako/common/img/logo_header.png?ver1" group-title="ボートレース",浜名湖
 https://br-rp-mix-06-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-mix-06-live/brlive/chunklist.m3u8
@@ -230,13 +230,13 @@ https://cfl.st.keirin.jp/11/dash/11.mpd
 https://cfl.st.keirin.jp/12/dash/12.mpd
 #EXTINF:-1 tvg-logo="https://www.yahikokeirin.com/wp-content/uploads/yahik_rogo4.png" group-title="競輪2",弥彦(0425～)
 https://cfl.st.keirin.jp/21/dash/21.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012244.jpg" group-title="競輪2",小田原（改装休止中）
+#EXTINF:-1 tvg-id="SpeedChannel690.jp" tvg-logo="https://ctc.gr.jp/upload/campaign/012244.jpg" group-title="競輪2",小田原（改装休止中）
 https://cfl.st.keirin.jp/36/dash/36.mpd
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010575.jpg" group-title="競輪2",富山(0603～)
 https://cfl.st.keirin.jp/46/dash/46.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012194.jpg" group-title="競輪2",向日町(改装休止中)
+#EXTINF:-1 tvg-id="SpeedChannel1.jp" tvg-logo="https://ctc.gr.jp/upload/campaign/012194.jpg" group-title="競輪2",向日町(改装休止中)
 https://cfl.st.keirin.jp/54/dash/54.mpd
-#EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/010495.jpg" group-title="競輪2",広島(改装休止中)
+#EXTINF:-1 tvg-id="SpeedChannel691.jp" tvg-logo="https://ctc.gr.jp/upload/campaign/010495.jpg" group-title="競輪2",広島(改装休止中)
 https://cfl.st.keirin.jp/62/dash/62.mpd
 #EXTINF:-1 tvg-logo="https://ctc.gr.jp/upload/campaign/012014.jpg" group-title="競輪2",松山(改装休止中)
 https://d16wnx3wk8cnnt.cloudfront.net/out/v1/ceb0db1dbb934ef5b2836533d61729d0/index.m3u8
