@@ -108,9 +108,9 @@ https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-
 http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/obihiro5.m3u8
 #EXTINF:-1 tvg-id="LocalHorseRacingNine701.jp" tvg-logo="https://www.hokkaidokeiba.net/common/images/head/logo.png" group-title="競馬",ホッカイドウ競馬(紋別)
 http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/monbetsu5.m3u8
-#EXTINF:-1 tvg-id="LocalHorseRacingNine702.jp"tvg-logo="https://www.iwatekeiba.or.jp/dir/wp-content/themes/iwatekeiba/img/head_logo.png" group-title="競馬",岩手競馬(盛岡)
+#EXTINF:-1 tvg-id="LocalHorseRacingNine702.jp" tvg-logo="https://www.iwatekeiba.or.jp/dir/wp-content/themes/iwatekeiba/img/head_logo.png" group-title="競馬",岩手競馬(盛岡)
 http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/morioka5.m3u8
-#EXTINF:-1 tvg-id="LocalHorseRacingNine703.jp"tvg-logo="https://www.iwatekeiba.or.jp/dir/wp-content/themes/iwatekeiba/img/head_logo.png" group-title="競馬",岩手競馬(水沢)
+#EXTINF:-1 tvg-id="LocalHorseRacingNine703.jp" tvg-logo="https://www.iwatekeiba.or.jp/dir/wp-content/themes/iwatekeiba/img/head_logo.png" group-title="競馬",岩手競馬(水沢)
 http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/mizusawa5.m3u8
 #EXTINF:-1 tvg-id="SouthernKantoRegionalHorseRacingChannel.jp" tvg-logo="https://www.urawa-keiba.jp/assets/img/common/logo.png" group-title="競馬",南関東競馬(浦和)
 http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/urawa5.m3u8
