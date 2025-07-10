@@ -437,6 +437,10 @@ https://abc-live00.ipcasting.jp/regionals/osaka04/live-multi.m3u8
 https://abc-live00.ipcasting.jp/regionals/osaka05/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球大阪7
 https://abc-live00.ipcasting.jp/regionals/osaka06/live-multi.m3u8
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球和歌山
+https://abc-live00.ipcasting.jp/regionals/wtv00/live-multi.m3u8
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球奈良
+https://abc-live00.ipcasting.jp/regionals/tvn00/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球高知1
 https://abc-live00.ipcasting.jp/regionals/kcb00/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球高知2
