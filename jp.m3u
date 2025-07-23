@@ -378,8 +378,4 @@ https://abc-live00.ipcasting.jp/regionals/ksb00/live-qvbr.m3u8
 https://abc-live00.ipcasting.jp/regionals/jcomsd01/live-qvbr.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球富山1
-https://abc-live00.ipcasting.jp/regionals/ctt01/live-qvbr.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球富山2
-https://abc-live00.ipcasting.jp/regionals/tcnt00/live-qvbr.m3u8
-
+https://abc-live00.ipcasting.jp/regionals/ctt00/live-qvbr.m3u8
