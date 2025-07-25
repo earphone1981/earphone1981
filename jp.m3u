@@ -308,6 +308,9 @@ https://abc-live01.ipcasting.jp/regionals/gtv00/live-qvbr.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球西東京
 https://abc-live00.ipcasting.jp/regionals/jcomty05/live-qvbr.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球栃木
+https://abc-live01.ipcasting.jp/regionals/gyt00/live-qvbr.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球埼玉
 https://abc-live00.ipcasting.jp/regionals/tvs00/live-qvbr.m3u8
 
@@ -377,3 +380,14 @@ https://abc-live00.ipcasting.jp/regionals/khb01/live-qvbr.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球富山
 https://abc-live00.ipcasting.jp/regionals/ctt00/live-qvbr.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球山口
+https://abc-live00.ipcasting.jp/regionals/yab03/live-qvbr.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球福岡
+https://abc-live00.ipcasting.jp/regionals/kbc01/live-qvbr.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球長崎
+https://abc-live00.ipcasting.jp/regionals/ncc00/live-qvbr.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球鹿児島
+https://abc-live00.ipcasting.jp/regionals/kkb01/live-qvbr.m3u8
